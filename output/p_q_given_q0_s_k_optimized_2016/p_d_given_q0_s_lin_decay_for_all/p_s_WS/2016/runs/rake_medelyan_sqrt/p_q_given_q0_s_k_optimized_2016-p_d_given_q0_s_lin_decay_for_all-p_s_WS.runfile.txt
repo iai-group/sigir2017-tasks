@@ -1,0 +1,1000 @@
+1	1	0.182396	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	concrete floor
+1	2	0.120746	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	acid stain
+1	3	0.089089	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	rustic concrete acid stain
+1	4	0.084902	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	applying acid stain
+1	5	0.084194	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	concrete stain colors
+1	6	0.077809	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	concrete acid stain
+1	7	0.071164	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	concrete floor resulting
+1	8	0.065857	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	concrete
+1	9	0.064821	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	acid stains
+1	10	0.063638	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	acid stain floors
+1	11	0.06126	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	concrete stains
+1	12	0.058866	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	ebay find great deals
+1	13	0.057569	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stain concrete
+1	14	0.055581	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	give concrete
+1	15	0.052893	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	offers long lasting durability
+1	16	0.051971	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	dramatic marbling
+1	17	0.050903	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stained concrete
+1	18	0.044408	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stained concrete flooring ideas
+1	19	0.039669	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home depot create
+1	20	0.039519	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	decorative concrete acid stain colors
+2	1	0.263258	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	basic swimming pool care
+2	2	0.18514	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	swimming pool
+2	3	0.145455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	important step
+2	4	0.121089	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	inground swimming pool
+2	5	0.113587	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	pool
+2	6	0.08739	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	swimming pool care
+2	7	0.076364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	salt water pools
+2	8	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	ultimate guide swimming pool tips
+2	9	0.06818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	taking care
+2	10	0.065702	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	pool care
+2	11	0.059654	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	pool daily community
+2	12	0.059157	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home guides
+2	13	0.056599	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	simple pool maintenance routine
+2	14	0.055921	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	howstuffworks pool maintenance
+2	15	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	basic pool care
+2	16	0.051734	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	swimming pool maintenance
+2	17	0.05124	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	house extension sydney discover ways
+2	18	0.050909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	overwhelming task
+2	19	0.044393	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	cement inground pool
+2	20	0.042719	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	equipment maintaining
+3	1	0.216434	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	pole vaulting
+3	2	0.154545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	pole vaulter
+3	3	0.130945	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	competitors vault
+3	4	0.091403	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	wikipedia pole vaulting
+3	5	0.081636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	webster define pole vault
+3	6	0.078975	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	flexible pole
+3	7	0.078389	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	pole vault final
+3	8	0.075074	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	field event
+3	9	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	pole vault education competition
+3	10	0.068813	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	field event consisting
+3	11	0.06593	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	spille spill pole vault
+3	12	0.061466	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	pole jumping competitions
+3	13	0.06065	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	pole vaulting works
+3	14	0.052158	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	pole vaulters
+3	15	0.049726	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	pole vault routine
+3	16	0.048884	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	olympic highlights
+3	17	0.0472	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stop board
+3	18	0.042194	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	allison stokke
+3	19	0.041497	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	wordpress website design
+3	20	0.03993	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	utah website design
+4	1	0.242424	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	rewarding career
+4	2	0.200794	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	student doctor network
+4	3	0.115152	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	immunologic diseases
+4	4	0.115152	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	college mouse
+4	5	0.115152	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	allergists specialize
+4	6	0.109091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	certified allergist
+4	7	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	closely supervised
+4	8	0.081172	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	allergy testing
+4	9	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	straightforward guide
+4	10	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	ellen sher
+4	11	0.065455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	highest obesity rate
+4	12	0.063636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	successful completion
+4	13	0.063636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	basic requirements
+4	14	0.062349	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	career roadmap students searching
+4	15	0.060606	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	manage pediatric
+4	16	0.060606	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	adult patients
+4	17	0.055746	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	physician completes
+4	18	0.055746	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	patient portal
+4	19	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	internal medicine
+4	20	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	additional training
+5	1	0.163636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	bird academy
+5	2	0.134538	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	spotting scope
+5	3	0.114843	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	bird watching spotting scopes
+5	4	0.098182	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	full image attached
+5	5	0.09684	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	wild birds
+5	6	0.090631	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	spotting scopes
+5	7	0.07531	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	bird sightings
+5	8	0.067635	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	wildlife observation
+5	9	0.067635	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	wikipedia birdwatching
+5	10	0.063636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	bird watching spotting scopes 2017
+5	11	0.058797	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	bird watching
+5	12	0.057884	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	bird watching spotting scopes part
+5	13	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	enjoying nature
+5	14	0.053118	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	bird spotting scopes product features
+5	15	0.05	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	cutthroat world record holder
+5	16	0.048485	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	social history
+5	17	0.048485	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	aurum press
+5	18	0.046971	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	postal system
+5	19	0.046822	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	british bird lovers
+5	20	0.045335	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	bird spotting community
+6	1	0.363636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	intelligent characters
+6	2	0.309091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	adapt quickly
+6	3	0.129374	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	miniature poodles
+6	4	0.11337	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	poodle care
+6	5	0.104447	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	curly coat
+6	6	0.095605	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	standard poodle
+6	7	0.087273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	avoid health problems
+6	8	0.076177	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	health care
+6	9	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	good natured
+6	10	0.066756	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	poodle
+6	11	0.064686	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	trusted poodle breeder
+6	12	0.063636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	grooming styles
+6	13	0.063636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	bathed regularly
+6	14	0.055602	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	homestead poodles poodle care
+6	15	0.051506	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	official sizes
+6	16	0.049997	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	active indoors
+6	17	0.044333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	adult dogs
+6	18	0.041974	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	vaccination schedule
+6	19	0.041974	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	lilpoodle caring
+6	20	0.04147	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	honest advice
+7	1	0.293752	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home remedies
+7	2	0.198701	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	natural home remedies
+7	3	0.151191	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	webmd explains
+7	4	0.145455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	indigestion symptoms
+7	5	0.141426	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	indigestion pain
+7	6	0.136364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	simple home remedies
+7	7	0.108514	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	upper abdomen symptoms
+7	8	0.075392	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	indigestion overview
+7	9	0.072343	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	include pain
+7	10	0.070063	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	webmd indigestion
+7	11	0.062851	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	digestive problems including indigestion
+7	12	0.060606	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	makes ginger
+7	13	0.060606	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	effective remedy
+7	14	0.055339	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	find lowest drug prices
+7	15	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	find relief
+7	16	0.047471	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	heartburn find natural remedies
+7	17	0.046635	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	natural remedies
+7	18	0.045198	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stomach acid reflux
+7	19	0.043459	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	excellent therapeutic properties
+7	20	0.041558	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	health magazine
+8	1	0.150158	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	whitewater rafting
+8	2	0.142896	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	pocono whitewater rafting
+8	3	0.108229	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	lehigh river
+8	4	0.098145	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	white water rafting trips
+8	5	0.097363	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	rafting america rafting america
+8	6	0.084576	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	river canoeing
+8	7	0.08253	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	england white water rafting
+8	8	0.07722	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	ultimate rafting trip
+8	9	0.073206	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	spille spill white water rafting
+8	10	0.06502	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	family float trips
+8	11	0.058677	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	colorado whitewater river rafting
+8	12	0.056549	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	recreational outdoor activities
+8	13	0.043254	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	lehigh gorge
+8	14	0.042731	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	colorado river
+8	15	0.041487	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	national whitewater center offers mountain
+8	16	0.037801	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	whitewater rafting adventures
+8	17	0.037699	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	wikipedia rafting
+8	18	0.037699	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	inflatable raft
+8	19	0.03754	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	family style whitewater rafting trips
+8	20	0.034269	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	england
+9	1	0.726315	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	mutual funds
+9	2	0.243339	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	mutual fund
+9	3	0.141818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	marketwatch offers advice
+9	4	0.120629	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	mutual fund investing
+9	5	0.113293	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	adding mutual fund holdings
+9	6	0.091388	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	good mutual fund
+9	7	0.084512	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	mutual fund company
+9	8	0.069719	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	mutual fund salespeople speak
+9	9	0.063541	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	investment portfolio
+9	10	0.060835	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	leading mutual fund investment
+9	11	0.060606	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	vanguard learn
+9	12	0.06057	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	frugal rules mutual funds
+9	13	0.059788	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	fidelity investments mutual funds
+9	14	0.059215	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	personal finance
+9	15	0.049764	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	good investment options
+9	16	0.048256	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	mutual funds today
+9	17	0.047617	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	company fails
+9	18	0.045613	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	mutual funds work
+9	19	0.042424	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	chase performance
+9	20	0.042379	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	registered investment companies
+10	1	0.303357	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	living room
+10	2	0.150622	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	living room setup
+10	3	0.149075	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	living room furniture
+10	4	0.127273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	search brought
+10	5	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	move ahead
+10	6	0.088641	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	craftsman living rooms
+10	7	0.080889	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	living room setup design ideas
+10	8	0.075154	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	living rooms
+10	9	0.073722	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	living room setup ideas
+10	10	0.072505	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	interior design ideas placements
+10	11	0.065857	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	room setup
+10	12	0.062545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	dining room
+10	13	0.061381	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	tech living room tour
+10	14	0.06019	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	decorating ideas
+10	15	0.059299	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	interior design
+10	16	0.056578	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	save ideas
+10	17	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	twinkly light
+10	18	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	string lights
+10	19	0.053204	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	commercial movie theaters
+10	20	0.051381	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	ultimate tech living room setup
+11	1	0.163636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	installing extension hair
+11	2	0.116357	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	hair extensions
+11	3	0.109091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	black braided hairstyles
+11	4	0.091352	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	crochet hair extensions
+11	5	0.075816	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	crochet braids hair
+11	6	0.072318	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	ebay find great deals
+11	7	0.071091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	oriental trading company braid extensions
+11	8	0.071034	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	human hair extensions
+11	9	0.063281	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	save ideas
+11	10	0.05825	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	twist extension styles
+11	11	0.057389	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	style hair extension pieces
+11	12	0.054941	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	cheap hair braids online
+11	13	0.054066	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	quick video showing
+11	14	0.049538	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	braid extensions product features usage
+11	15	0.045311	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	braid hair extensions
+11	16	0.044008	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	great protective style
+11	17	0.043042	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	beautiful resilient cornrows
+11	18	0.042768	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	natural hair rules
+11	19	0.041189	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	natural hair
+11	20	0.041189	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	genie locs
+12	1	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	people dream
+12	2	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	fruit growing
+12	3	0.134376	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home vineyard
+12	4	0.097781	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	english wine week
+12	5	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	acre vineyard
+12	6	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	2012 features newscore
+12	7	0.083645	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	winemaker magazine
+12	8	0.083645	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	backyard vineyard
+12	9	0.069415	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	people start
+12	10	0.065146	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	professional vineyard manager
+12	11	0.061364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	planting picturesque grapevines
+12	12	0.061364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	established vines strategically
+12	13	0.061188	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	full production requires
+12	14	0.060512	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	shawangunk wine trail presents start
+12	15	0.057143	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	napa valley grape grower
+12	16	0.055746	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	sonoma county
+12	17	0.055746	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	making wine
+12	18	0.052145	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	decent winery
+12	19	0.049245	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	krouskups opted
+12	20	0.045455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	winemaking process
+13	1	0.351884	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	girl scout cookies
+13	2	0.19991	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	girl scouts
+13	3	0.109261	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	delicious girl scout cookies
+13	4	0.108132	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	thin mints
+13	5	0.082386	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	find delicious girl scout cookies
+13	6	0.081818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	buying girl scout cookies
+13	7	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	girls learn essential skills
+13	8	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	girl scout cookie finder
+13	9	0.069926	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	cookie boxes
+13	10	0.061004	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	girl scout cookies blog
+13	11	0.058943	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	girl scout cookie season
+13	12	0.05782	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	awesome girls
+13	13	0.05782	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	amazing experiences
+13	14	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	peanut butter
+13	15	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	chocolaty coating
+13	16	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	find cookie booths
+13	17	0.05356	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	find girl scout cookie booths
+13	18	0.052423	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	order girl scout cookies online
+13	19	0.051207	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	helping girl scouts learn
+13	20	0.050796	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	find cookies
+14	1	0.364582	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	bank account
+14	2	0.27155	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	bank account online
+14	3	0.15631	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	bank account online today
+14	4	0.122912	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	citibank open
+14	5	0.109328	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	bank accounts
+14	6	0.10166	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	checking account online
+14	7	0.090871	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	bank account step
+14	8	0.086866	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	checking accounts
+14	9	0.080718	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	busy schedule
+14	10	0.068692	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	checklist guides
+14	11	0.054735	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	apply online
+14	12	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	small business loan
+14	13	0.051794	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	checking account online bank
+14	14	0.051794	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	america checking accounts boast
+14	15	0.048477	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	checking account
+14	16	0.048142	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	personal checking accounts
+14	17	0.046819	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	local credit union
+14	18	0.044597	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	account requires
+14	19	0.042424	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	oriented banks
+14	20	0.042424	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	difficult industry
+15	1	0.24208	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	french manicures
+15	2	0.223776	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	classic french manicure
+15	3	0.109091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	latest incarnations
+15	4	0.109091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	trind base coat
+15	5	0.108878	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	good french manicure
+15	6	0.082881	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	view current promotions
+15	7	0.081818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	follow steps
+15	8	0.076364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	sally hansen hard
+15	9	0.075875	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	salon quality french tips
+15	10	0.072765	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	save ideas
+15	11	0.071448	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	french manicure news
+15	12	0.058147	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	perfect french manicure
+15	13	0.055254	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	free shipping
+15	14	0.054361	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stylecraze special french manicure kits
+15	15	0.051067	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home french manicure
+15	16	0.050281	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	nail nail
+15	17	0.0488	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	ebay find great deals
+15	18	0.047632	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	helpful articles
+15	19	0.046796	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	french manicure nail polish
+15	20	0.044556	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	glamour find
+16	1	0.154545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	notebook online
+16	2	0.154545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	extend warranty
+16	3	0.148036	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	extended warranty
+16	4	0.109091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	extended warranties
+16	5	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	year standard warranty
+16	6	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	extended warranties worth
+16	7	0.085115	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	make sense
+16	8	0.077255	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	laptop warranty
+16	9	0.073983	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	limited hardware warranty
+16	10	0.072585	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	laptop extended warranty accident protection
+16	11	0.07223	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	laptop insurance
+16	12	0.071091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	extended warranty buying guide
+16	13	0.069322	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	warranty renewal
+16	14	0.068829	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	warranty status
+16	15	0.065643	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	warranty extension offer
+16	16	0.063636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	accidental damage
+16	17	0.063636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	worst warranties 2015
+16	18	0.061117	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	enter serial number information
+16	19	0.058347	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	specially trained dell service professionals
+16	20	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	tablets online
+17	1	0.418182	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	real tanning
+17	2	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	heard people
+17	3	0.181818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	spend money
+17	4	0.167558	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	fake cute freckles
+17	5	0.127273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	fake tanners smell
+17	6	0.125376	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	tanning products
+17	7	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	gorgeous scent
+17	8	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	dead skin cells
+17	9	0.064237	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	avoid streaking disasters
+17	10	0.063036	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	fake flawless colour
+17	11	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	time flat
+17	12	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	expert tips
+17	13	0.048948	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	latest figures revealing
+17	14	0.038373	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	uneven skin
+17	15	0.038373	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	tale signs
+17	16	0.038373	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	simply leave
+17	17	0.037805	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	tanning product
+17	18	0.036839	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	remove streaked sunless tanning lotion
+17	19	0.035643	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	tanner hacks
+17	20	0.035643	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	gorgeous glow
+18	1	0.163657	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	sell laptop
+18	2	0.148193	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	free shipping
+18	3	0.144475	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	broken laptops
+18	4	0.140057	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	laptop online
+18	5	0.122926	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	sell laptop back
+18	6	0.120223	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	sell laptop online
+18	7	0.097357	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	online quotes
+18	8	0.09501	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	dozen laptop models
+18	9	0.094671	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	free paid shipping
+18	10	0.087188	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	sell
+18	11	0.07401	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	brand online instantly
+18	12	0.072873	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	free instant quote online
+18	13	0.07224	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	super fast free shipping
+18	14	0.070059	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	fast payment
+18	15	0.070059	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	electronics online
+18	16	0.06111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	sell broken
+18	17	0.060265	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	online recommerce portal
+18	18	0.057826	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	online quote instantly
+18	19	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	gift cards
+18	20	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	device cheaper
+19	1	0.299503	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	shirt printing expert
+19	2	0.204453	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	shirt design
+19	3	0.181413	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	free shipping
+19	4	0.109091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	favorite photo
+19	5	0.102778	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	ebay find great deals
+19	6	0.101338	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	uberprints create custom
+19	7	0.094633	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	minimum quantity
+19	8	0.094633	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	fantastic price
+19	9	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	zazzle customize
+19	10	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	outdoor pillows
+19	11	0.0871	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	create custom
+19	12	0.076604	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	online studio
+19	13	0.076604	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	zazzle shop customize
+19	14	0.073614	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	spreadshirt make
+19	15	0.073051	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	shirts online
+19	16	0.07184	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	shirt maker
+19	17	0.070973	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	ooshirts design application
+19	18	0.070274	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	shirt printing
+19	19	0.057	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	free design
+19	20	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	fully loaded online design studio
+20	1	0.452153	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stock market
+20	2	0.163636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stock market today
+20	3	0.139023	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stock investing
+20	4	0.112152	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	start investing
+20	5	0.092116	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	wealthy people invest
+20	6	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	golden years
+20	7	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	offers free real time quotes
+20	8	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	live stock market data
+20	9	0.062593	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	jump head
+20	10	0.06194	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	financial destiny
+20	11	0.060929	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	successfully investing
+20	12	0.057939	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	great reasons
+20	13	0.051389	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	london stock exchange investing
+20	14	0.049794	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	investing
+20	15	0.047777	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	comfortable investing
+20	16	0.046201	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	cnnmoney explains
+20	17	0.043217	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	individual stocks
+20	18	0.042424	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	making market bubble
+20	19	0.04162	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stock market mentor
+20	20	0.040404	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stock market investing
+21	1	0.490909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	dell technical content
+21	2	0.175299	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	operating system
+21	3	0.110104	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	anniversary update
+21	4	0.109091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	problems people report
+21	5	0.109091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	classroom compare learning environments
+21	6	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	early adopters
+21	7	0.084194	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	find additional resources
+21	8	0.077922	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	solving common problems
+21	9	0.075211	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	troubleshoot black screen problems
+21	10	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	incredibly slow
+21	11	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	computer useless
+21	12	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	week microsoft msft
+21	13	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	controversial automatic update system
+21	14	0.065706	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	microsoft support troubleshoot
+21	15	0.063744	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	troubleshoot groove player
+21	16	0.06126	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	access resources
+21	17	0.059799	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	start menu
+21	18	0.059799	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	happened error
+21	19	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	pros find workarounds
+21	20	0.053614	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	innovative windows laptops
+22	1	0.401935	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	united states
+22	2	0.168053	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	health care
+22	3	0.143274	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	health care worker certification
+22	4	0.125131	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	health care provider
+22	5	0.104043	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	wikipedia health care reform
+22	6	0.09697	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	nccih health care providers
+22	7	0.084548	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	entire economy
+22	8	0.074097	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	health care workers
+22	9	0.063987	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	joint commission accreditation
+22	10	0.060447	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	evolving health care systems
+22	11	0.059613	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	healthcare reform
+22	12	0.056693	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	uscis foreign nationals seeking admission
+22	13	0.053928	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	long history
+22	14	0.050926	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	health care interpreters
+22	15	0.050819	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	joint commission
+22	16	0.048371	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	foreign nationals seeking admission
+22	17	0.047002	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	national certification prepared
+22	18	0.046863	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	perform labor
+22	19	0.046683	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	recognized nationwide
+22	20	0.046665	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	healthcare compliance certification
+23	1	0.289926	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	aadhar card
+23	2	0.231609	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	aadhaar card
+23	3	0.099154	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	aadhar card online
+23	4	0.095831	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	aadhaar card online
+23	5	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	rights reserved
+23	6	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	appointment portal
+23	7	0.073997	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	aadhaar card status benefits
+23	8	0.06174	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	aadhaar card importance
+23	9	0.057543	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	apply aadhar card online registration
+23	10	0.055498	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	adhar tracking online
+23	11	0.052324	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	uidai features apply
+23	12	0.051948	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	aadhar card registration
+23	13	0.050636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	moon soft technologies private limited
+23	14	0.048999	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	apply aadhaar card online
+23	15	0.048798	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	american social security card
+23	16	0.045608	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	aadhaar card registration
+23	17	0.045608	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	aadhaar card enrollment
+23	18	0.041742	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	social security number
+23	19	0.041638	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	common questions related
+23	20	0.041353	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	unique identification authority
+24	1	0.352167	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	united kingdom
+24	2	0.163636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	united kingdom drivers
+24	3	0.130733	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	driving licence
+24	4	0.130303	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	official document
+24	5	0.130303	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	motor vehicle
+24	6	0.127273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	vehicle licensing agency
+24	7	0.103636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	international drivers license
+24	8	0.093061	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	drivers license
+24	9	0.090953	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	driving licences
+24	10	0.081818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	united kingdom forum
+24	11	0.073159	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	driving license
+24	12	0.066278	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	united kingdom drivers license
+24	13	0.057258	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	legal obligations
+24	14	0.055039	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	international drivers license requirements
+24	15	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	international driving licences
+24	16	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	canadian driving licence
+24	17	0.04978	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	united states citizen residing
+24	18	0.048244	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	destroyed driving licence
+24	19	0.04753	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	northern ireland
+24	20	0.045404	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stolen driving licence
+25	1	0.41982	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	educational toys
+25	2	0.207285	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	learning toys
+25	3	0.109188	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	educational toys planet
+25	4	0.091475	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	early years home learning
+25	5	0.078155	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	funtastic learning toys focuses
+25	6	0.075815	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	innovative educational toys
+25	7	0.073625	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	national geographic store browse
+25	8	0.066288	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	learning toys encourage
+25	9	0.063625	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	wikipedia educational toys
+25	10	0.062652	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	national geographic store
+25	11	0.060606	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stress cube
+25	12	0.060606	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	relieve stress
+25	13	0.060606	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	featured deals
+25	14	0.055444	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	toys
+25	15	0.054762	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	offer hundreds
+25	16	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	toddler learning toys
+25	17	0.051948	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	educational toys planet play dough
+25	18	0.051325	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	science kits
+25	19	0.046469	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	play furniture
+25	20	0.045466	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	enabling kids
+26	1	0.48845	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	garage sale
+26	2	0.138219	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	yard sale
+26	3	0.126562	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	garage sale tips
+26	4	0.123333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	garage sale customers
+26	5	0.122537	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	garage sale layout tips remember
+26	6	0.120003	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	successful garage sale
+26	7	0.105784	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	garage sale garage sale tips
+26	8	0.096968	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	garage sales
+26	9	0.092376	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	gather items
+26	10	0.090608	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	higher prices
+26	11	0.083053	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	meet penny yard sale
+26	12	0.081818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	giant pain
+26	13	0.067281	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	photobucket browse garage setup pictures
+26	14	0.055934	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	extra cash
+26	15	0.052255	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	garage sale success
+26	16	0.052116	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	garage setup pictures
+26	17	0.051727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	actual sale part
+26	18	0.05055	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	yard sale checklist
+26	19	0.044394	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	finally arrived
+26	20	0.037884	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	yard sale display
+27	1	0.354855	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	government jobs
+27	2	0.203508	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	latest government jobs
+27	3	0.174343	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	govt jobs
+27	4	0.132296	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	government jobs 2017
+27	5	0.130676	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	central government jobs
+27	6	0.109091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	latest govt jobs
+27	7	0.076855	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	monster india
+27	8	0.07013	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	excluding upsc jobs
+27	9	0.065601	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	pursuing degree
+27	10	0.057583	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	latest govt jobs 2017
+27	11	0.057329	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	government sector
+27	12	0.056925	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	indian government jobs
+27	13	0.056566	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	android apps
+27	14	0.056162	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	national portal
+27	15	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	sector workforce
+27	16	0.049183	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	quota system
+27	17	0.049183	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	apply online
+27	18	0.048373	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	section guides users
+27	19	0.046753	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	travel writer
+27	20	0.046753	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	india lots
+28	1	0.236364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	hovedsak benyttet
+28	2	0.193626	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	diagnosing diabetes
+28	3	0.161192	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	fasting plasma glucose test
+28	4	0.139775	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	oral glucose tolerance test
+28	5	0.122765	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	diabetes tests
+28	6	0.120243	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	diagnose diabetes
+28	7	0.098023	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home test
+28	8	0.095528	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	diabetes
+28	9	0.088307	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	reverses diabetes permanently
+28	10	0.086711	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	test
+28	11	0.083109	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	diabetic vitamin pack test
+28	12	0.081818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	symptoms find
+28	13	0.080596	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	webmd explains
+28	14	0.066545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	checking blood sugar levels
+28	15	0.064236	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	medlineplus medical encyclopedia read
+28	16	0.06408	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	laboratory tests
+28	17	0.056003	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	diabetes test
+28	18	0.052621	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	fasting plasma glucose
+28	19	0.048485	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	american heart association explains
+28	20	0.047054	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	mayo clinic symptoms
+29	1	0.183963	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	vegan society
+29	2	0.181818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	veggie table
+29	3	0.181818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	enjoy life
+29	4	0.104555	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	americans polled
+29	5	0.102163	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	vegan diet
+29	6	0.095445	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	digest vegan
+29	7	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	item details
+29	8	0.081818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	vegan living
+29	9	0.076604	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	vegetarian eating style
+29	10	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	laid back
+29	11	0.062376	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	people manage
+29	12	0.061474	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	vegan diet bandwagon
+29	13	0.059721	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	vegan overnight
+29	14	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	receive compensation
+29	15	0.050669	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	small steps
+29	16	0.049901	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	confused carnivore
+29	17	0.049329	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	vesanto melina
+29	18	0.049329	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	brenda davis
+29	19	0.047812	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	proven ways
+29	20	0.047777	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	voracious vegan
+30	1	0.254545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	create appealing buttons
+30	2	0.147996	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	share content
+30	3	0.145455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	social plugins
+30	4	0.142572	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	social traffic drive traffic
+30	5	0.092405	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	share button
+30	6	0.086848	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	website bots
+30	7	0.084848	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	extremely impressive button pack
+30	8	0.082583	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	block semalt
+30	9	0.078631	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	free website buttons maker
+30	10	0.066824	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	website buttons maker
+30	11	0.066446	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	social media buttons
+30	12	0.05632	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	website button maker
+30	13	0.05632	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	online button generator
+30	14	0.049918	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	popular buttons vectors
+30	15	0.049246	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	professionally designed collection
+30	16	0.048595	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	download buttons
+30	17	0.048595	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	action buttons
+30	18	0.047387	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	including round buttons
+30	19	0.04435	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	made professional buttons
+30	20	0.04435	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	animated custom buttons
+31	1	0.153515	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	grow plants
+31	2	0.127971	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	grow flowers
+31	3	0.101168	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	annual flowers
+31	4	0.093506	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	grow flower plants
+31	5	0.088798	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	flowering plants
+31	6	0.084433	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	grow flowering annuals
+31	7	0.079088	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	seed packet
+31	8	0.066216	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	flowering plant
+31	9	0.063929	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	healthy plant ready
+31	10	0.062338	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	containers drip
+31	11	0.062338	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	borders burgeon
+31	12	0.06194	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	adaptive function
+31	13	0.061125	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	favorite flower seeds
+31	14	0.060787	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	grow marijuana plants grown
+31	15	0.057057	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	perennial plants
+31	16	0.055677	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home gardening
+31	17	0.054719	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	growing seeds
+31	18	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	densely flowering chive
+31	19	0.053731	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	main reasons people grow plants
+31	20	0.045387	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	growing annual flowers
+32	1	0.841109	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	social media
+32	2	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	endless possibilities
+32	3	0.077922	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	teaching methods closer
+32	4	0.068415	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	higher education faculty
+32	5	0.063978	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	integrate social media
+32	6	0.061136	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	edutopia creating social media guidelines
+32	7	0.057274	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	learning tool
+32	8	0.054556	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	free social media tutorials
+32	9	0.051948	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	learning tools
+32	10	0.049788	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	page dates back
+32	11	0.049779	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	researching faculty
+32	12	0.049635	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	columnist connie malamed
+32	13	0.04545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	social learning handbook 2014
+32	14	0.045239	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	bring reality
+32	15	0.044545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	gcflearnfree social media
+32	16	0.043586	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	social media tools
+32	17	0.038848	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stem courses focus
+32	18	0.037173	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	social media instructional design
+32	19	0.037072	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	social media etiquette
+32	20	0.036627	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	deepening student learning
+33	1	0.486245	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	sore throat
+33	2	0.301246	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home remedies
+33	3	0.160972	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	sore throat remedies
+33	4	0.136259	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	sore throat home remedies
+33	5	0.097681	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home sore throat remedies
+33	6	0.096698	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	strained vocal cords
+33	7	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	funky sounding home remedies
+33	8	0.086837	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	natural treatment
+33	9	0.086837	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	licorice root
+33	10	0.079683	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	sore throat caused
+33	11	0.069808	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	healthline antibiotics overuse
+33	12	0.06453	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	sore throats
+33	13	0.064465	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	side effect
+33	14	0.056202	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	cure sore throat naturally
+33	15	0.046539	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	resistant bacteria
+33	16	0.046345	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	sore throat treatments
+33	17	0.044015	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	proven home remedies
+33	18	0.043854	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	shrink swollen throat tissue
+33	19	0.040775	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	simple natural remedies
+33	20	0.040497	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	mild sore throats
+34	1	0.208534	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	golf tips
+34	2	0.124334	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	tour players
+34	3	0.123879	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	golf digest
+34	4	0.117859	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	play golf
+34	5	0.115878	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	including tips
+34	6	0.10905	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	find lessons
+34	7	0.092897	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	skill levels
+34	8	0.089689	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	golf lessons
+34	9	0.087293	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	helpful videos
+34	10	0.07285	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	golf channel collection
+34	11	0.069357	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	video golf lessons
+34	12	0.063848	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	find golf instructions
+34	13	0.059049	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	slow easy swing
+34	14	0.050472	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	video lessons
+34	15	0.050472	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	professional golfers
+34	16	0.050472	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	find tips
+34	17	0.049582	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	golf instruction videos covering
+34	18	0.046927	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	denver international airport
+34	19	0.04587	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	equipment reviews
+34	20	0.04587	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	delivers news
+35	1	0.234769	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	hair color
+35	2	0.109091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	platinum blonde
+35	3	0.093943	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	vintage goods
+35	4	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	latest merch
+35	5	0.089143	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	hair coloring
+35	6	0.087875	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	etsy shop
+35	7	0.08249	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	salon stylist
+35	8	0.08249	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	correct type
+35	9	0.079804	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	results consult
+35	10	0.06593	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	select hair color products
+35	11	0.0596	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	temporary hair color
+35	12	0.0596	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	permanent hair color
+35	13	0.057367	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	hair dyes
+35	14	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	health concerns
+35	15	0.053087	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	national cancer institute
+35	16	0.049427	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	easy color
+35	17	0.049427	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	clairol nice
+35	18	0.048459	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home hair color
+35	19	0.047361	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	cancer risk
+35	20	0.0466	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	phony shades
+36	1	0.187039	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	hipped roof
+36	2	0.181818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	good tutorial
+36	3	0.181818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	gable roof
+36	4	0.181818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	easier method
+36	5	0.163636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	visit http
+36	6	0.145455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	uniform angle
+36	7	0.145455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	slopes downward
+36	8	0.145455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	simple roof
+36	9	0.109091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	eave overhang
+36	10	0.076851	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	hipped roof construction
+36	11	0.075529	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	plans scheduling
+36	12	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	gabled roof
+36	13	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	common alternative
+36	14	0.069926	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	documentation jobs
+36	15	0.063636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	proper plans
+36	16	0.063636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	large shed
+36	17	0.055578	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	crew work
+36	18	0.05261	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	vermont farmhouse
+36	19	0.045455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	rectangular building
+36	20	0.045455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	horizontal join
+37	1	0.456963	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home theater
+37	2	0.391044	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home theater system
+37	3	0.101542	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	real home theater
+37	4	0.096205	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	custom home theater system
+37	5	0.093289	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home entertainment system
+37	6	0.091514	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home theater systems
+37	7	0.086778	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	impressive home theater
+37	8	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	people forget
+37	9	0.060606	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	cheaper hardware make
+37	10	0.052354	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home theater audio system
+37	11	0.049249	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	media room
+37	12	0.048945	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home theater tips
+37	13	0.048776	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	speaker system cost
+37	14	0.047566	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	mistakes people make
+37	15	0.045987	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home theater projector
+37	16	0.043014	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	design ideas
+37	17	0.041558	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	power strip
+37	18	0.041558	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	digital trends
+37	19	0.040623	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	cheap movie tickets
+37	20	0.040404	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	popular mechanics
+38	1	0.766795	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	ketogenic diet
+38	2	0.200917	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	keto diet
+38	3	0.132468	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	youtube amazing information
+38	4	0.10377	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	ketogenic diet plan
+38	5	0.094372	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	viable ketones
+38	6	0.084227	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	keto plan
+38	7	0.083052	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	viable diet plan ready
+38	8	0.081505	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	plan ahead
+38	9	0.07941	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	menu plan
+38	10	0.07427	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	ketogenic diet today
+38	11	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	fight migraine
+38	12	0.06042	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	strength ketogenic diet ketogenic diet
+38	13	0.05974	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	side effects
+38	14	0.050858	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	standard ketogenic diet
+38	15	0.048132	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	step instructions
+38	16	0.046238	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	ketogenic diets
+38	17	0.042723	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	ketogenic diet tips
+38	18	0.041558	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	great benefits
+38	19	0.039554	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	start converting protein
+38	20	0.038744	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	keto diet quick start guide
+39	1	0.380501	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	find planets
+39	2	0.149395	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	visible planets
+39	3	0.127273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	single night
+39	4	0.121212	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	planets visible
+39	5	0.109091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	astronomy basics
+39	6	0.098182	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	visible live online
+39	7	0.094447	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	detailed star charts showing
+39	8	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stars move
+39	9	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	handy diagrams
+39	10	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	find mars
+39	11	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	changing display
+39	12	0.080573	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	astroviewer find planets
+39	13	0.075518	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	extrasolar planets
+39	14	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	moon joins
+39	15	0.071386	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	basic star maps show
+39	16	0.065455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	brightest planets
+39	17	0.058017	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	supported astronomy clubs
+39	18	0.055887	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	major star patterns
+39	19	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	planets
+39	20	0.051007	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	superior planets
+40	1	0.293103	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	acid batteries
+40	2	0.281245	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	battery recycling
+40	3	0.272082	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	battery recycling locations
+40	4	0.095022	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	household special waste
+40	5	0.092401	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	small sealed lead acid
+40	6	0.085616	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	large lead
+40	7	0.06922	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	battery council international
+40	8	0.067423	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	federal regulations
+40	9	0.065455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	york state department
+40	10	0.06509	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	battery recycling information
+40	11	0.061276	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	automotive parts store
+40	12	0.060468	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	jersey counties
+40	13	0.053475	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	jersey lead acid battery type
+40	14	0.048485	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	gloucester county improvement authority
+40	15	0.047816	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	frequently asked questions
+40	16	0.046922	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	acid battery recycling
+40	17	0.046487	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	lead acid
+40	18	0.046327	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	recycling batteries
+40	19	0.046327	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	battery manufacturer
+40	20	0.046201	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	nickel zinc
+41	1	1.06375	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	heart attack
+41	2	0.149037	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	heart attack prevention
+41	3	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	implantable devices
+41	4	0.087748	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	prevent heart attacks
+41	5	0.081818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	cardiovascular diseases
+41	6	0.072855	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	subsequent heart attack
+41	7	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	main steps
+41	8	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	blood vessels
+41	9	0.065816	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	coronary heart disease
+41	10	0.062952	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	heart disease
+41	11	0.055741	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	avoid unhealthy food
+41	12	0.050354	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	mayo clinic
+41	13	0.048784	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	taking medications
+41	14	0.047727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	preventing heart attacks
+41	15	0.047727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	avoid heart problems
+41	16	0.044889	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	heart attack prevention tips
+41	17	0.043731	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	american heart association offers
+41	18	0.043035	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stay alive
+41	19	0.043035	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	receive blood
+41	20	0.040585	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	unforeseen heart attack
+42	1	0.559531	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	teddy bear
+42	2	0.163636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	step video tutorial
+42	3	0.156956	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	free teddy bear sewing pattern
+42	4	0.145731	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	make teddy bears
+42	5	0.120985	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	teddy bear tutorial
+42	6	0.109758	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	basic teddy bear outline
+42	7	0.097879	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	free pattern
+42	8	0.085668	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	easy teddy bear
+42	9	0.084715	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	simple teddy bear
+42	10	0.064694	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	teddy bear birthday cake design
+42	11	0.059157	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	teddy bear sewing video tutorial
+42	12	0.057648	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	scrap fabric
+42	13	0.056932	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	teddy bear birthday cake
+42	14	0.052827	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	perfect teddy bear today
+42	15	0.052376	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	make instructions intro
+42	16	0.05017	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	free online sewing patterns
+42	17	0.045274	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	children love making teddy bears
+42	18	0.044029	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	easy
+42	19	0.043437	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	custom teddy bear
+42	20	0.04276	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	make teddy bear
+43	1	0.345455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	easiest ways
+43	2	0.163636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stay anonymous online
+43	3	0.127273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	regular people
+43	4	0.126263	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	browse anonymously
+43	5	0.117277	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	internet anonymously
+43	6	0.10545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	easy tutorial
+43	7	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	mice surf
+43	8	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	essential tips
+43	9	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	blissful anonymity
+43	10	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	internet anonymously free
+43	11	0.088843	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	free software
+43	12	0.060606	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	private internet access
+43	13	0.059091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	prevents people
+43	14	0.059091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	communicate anonymously
+43	15	0.059091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	browsing habits
+43	16	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stay anonymous
+43	17	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	simple tips
+43	18	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	online privacy
+43	19	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	internet explorer
+43	20	0.044628	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	threatens personal freedom
+44	1	0.275759	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	elusive morel mushrooms
+44	2	0.209091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	hunting morel mushrooms
+44	3	0.159566	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	morel mushroom hunting club
+44	4	0.109558	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	morel mushrooms
+44	5	0.095107	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	morel mushroom hunting tips
+44	6	0.093302	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	mushroom hunting
+44	7	0.086893	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	helpful morel mushroom hunting tips
+44	8	0.079366	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	gonomad travel morel picking
+44	9	0.066919	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	find morel mushrooms
+44	10	0.06407	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	great morel home page
+44	11	0.062438	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	gourmet mushrooms home page
+44	12	0.062147	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	organic gardening
+44	13	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	inherent risks involved
+44	14	0.054168	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	morel mushroom hunting
+44	15	0.053487	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	delightful delicious tasting mushroom
+44	16	0.051442	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	youtube morel mushroom habitat
+44	17	0.050339	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	similar terms describe
+44	18	0.050136	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	hunting mushrooms
+44	19	0.049959	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	delicious gourmet treats
+44	20	0.048112	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	enjoy growing morels
+45	1	0.181818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	internet basics
+45	2	0.163636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	watch news
+45	3	0.163636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	time warner cable find
+45	4	0.127273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	sticks community
+45	5	0.127273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	completely original
+45	6	0.078831	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	free tvplayer lets
+45	7	0.071448	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	online streaming video
+45	8	0.066624	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	tablet online
+45	9	0.06576	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	movies anytime
+45	10	0.064961	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	watch communications internet service
+45	11	0.061513	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	free month
+45	12	0.055689	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	live online television
+45	13	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	start thinking
+45	14	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	googletv apps
+45	15	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	good time
+45	16	0.050857	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	speed internet connection
+45	17	0.048485	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	satellite signals
+45	18	0.048485	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	mobile device
+45	19	0.048485	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	analog cables
+45	20	0.047632	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	quit cable
+46	1	0.267069	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	dance class
+46	2	0.169093	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	misha gabriel
+46	3	0.163636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	basic steps
+46	4	0.14146	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	learn
+46	5	0.131893	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	complete beginner
+46	6	0.127273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	prime cart
+46	7	0.115268	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	myachi article info
+46	8	0.109091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	instructional dance videos
+46	9	0.09505	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	pupils learnt
+46	10	0.091647	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	energetic dance style
+46	11	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	dance online
+46	12	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	dance lessons
+46	13	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	videos online
+46	14	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	intermediate level
+46	15	0.071989	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	energetic dance
+46	16	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	backup dancer
+46	17	0.053804	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	studio nearby
+46	18	0.048485	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	unlike traditional instructional dvds
+46	19	0.046443	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	people pick
+46	20	0.04182	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	beginner dancing
+47	1	0.354395	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	send money online
+47	2	0.27454	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	united states
+47	3	0.264775	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	send money
+47	4	0.165475	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	transfer money online
+47	5	0.130207	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	money transfer
+47	6	0.087184	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	online money transfer
+47	7	0.061128	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	xoom launches money transfer services
+47	8	0.057459	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	send money abroad
+47	9	0.05508	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	transfer money online instantly
+47	10	0.052881	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	moneygram global money transfer service
+47	11	0.052223	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	transferwise makes transferring money
+47	12	0.047277	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	worldremit online money transfer
+47	13	0.046071	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	moneygram global money transfer
+47	14	0.044181	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	money transfer service
+47	15	0.042021	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	debit card
+47	16	0.040149	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	super rates
+47	17	0.038104	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	money
+47	18	0.038077	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	great rate
+47	19	0.037583	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	banks hide huge charges
+47	20	0.037577	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	account information
+48	1	0.378231	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	regrow hair naturally
+48	2	0.259587	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	hair loss
+48	3	0.095196	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	thinning hair
+48	4	0.08423	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	hair plugs
+48	5	0.079413	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	chemical solutions
+48	6	0.067521	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	stop hair loss
+48	7	0.065687	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	regrow hair helps regrow hair
+48	8	0.065455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	feeling good
+48	9	0.058586	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	lost hair
+48	10	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	thicken hair
+48	11	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	morning stir
+48	12	0.054007	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	hair regrowth
+48	13	0.053256	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	hair buddha regrow
+48	14	0.051997	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	hair regrowth experts
+48	15	0.049759	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	hair problems
+48	16	0.046825	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	month supply empress
+48	17	0.046068	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	powerful techniques
+48	18	0.043404	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	hair growth vitamins
+48	19	0.04311	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	hair transplant questions answered
+48	20	0.041097	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	fast hair regrowth
+49	1	0.181818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	valid marriage
+49	2	0.163636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	cookie policy
+49	3	0.144429	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	uncontested divorce
+49	4	0.104036	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	divorce
+49	5	0.091484	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	texas understanding
+49	6	0.091189	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	frequently asked questions
+49	7	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	start collecting
+49	8	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	complete paperwork instantly
+49	9	0.090334	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	divorce finding
+49	10	0.083894	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	divorce ends
+49	11	0.075106	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	easy divorce papers
+49	12	0.069649	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	divorce papers
+49	13	0.055254	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	texas divorce papers
+49	14	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	state procedural rules
+49	15	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	legalzoom legal info
+49	16	0.053384	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	texas free legal
+49	17	0.053245	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	helping people
+49	18	0.051613	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	spouses agree
+49	19	0.051039	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	residency requirements
+49	20	0.050648	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	texas divorce
+50	1	0.388742	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home birth
+50	2	0.283458	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	emergency home birth
+50	3	0.163636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	successful home delivery
+50	4	0.10856	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	home allergies
+50	5	0.103939	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	properly deliver
+50	6	0.10103	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	give birth
+50	7	0.097919	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	babycenter find
+50	8	0.096592	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	safely deliver
+50	9	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	unsuspecting cabbie
+50	10	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	expectant parent
+50	11	0.087273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	hospital pediatrician monitoring
+50	12	0.072795	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	expect woman delivers
+50	13	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	giving birth
+50	14	0.072727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	emergency childbirth
+50	15	0.058182	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	major complication
+50	16	0.057549	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	woman delivers
+50	17	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	massive snowstorm
+50	18	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	deliver baby
+50	19	0.051474	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	melissa willets
+50	20	0.044843	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WS	breech birth

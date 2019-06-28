@@ -1,0 +1,1000 @@
+1	1	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	muriatic acid
+1	2	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	trisodium phosphate
+1	3	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	concrete floor
+1	4	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	darker color
+1	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pour water
+1	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	neutralizing solution
+1	7	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	shop vacuum
+1	8	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hydrochloric acid
+1	9	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	concrete surface
+1	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	carefully pour
+1	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	test
+1	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stains
+1	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	metal
+1	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sulfamic acid
+1	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	plastic bucket
+1	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	high concentration
+1	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good choice
+1	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	floor machine
+1	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	entire area
+1	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	citric acid
+2	1	0.8	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pool water
+2	2	0.6	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	swimming pool
+2	3	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	calcium hardness
+2	4	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pool pump
+2	5	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pool chemicals
+2	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pool floor
+2	7	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	water
+2	8	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	skimmer basket
+2	9	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	diatomaceous earth
+2	10	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	water level
+2	11	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	chemical levels
+2	12	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cartridge filters
+2	13	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	test strips
+2	14	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	prevent algae
+2	15	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	chlorine level
+2	16	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	test strip
+2	17	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	liquid chlorine
+2	18	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	total dissolved solids
+2	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	chemicals
+2	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sharp edges
+3	1	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	maximum height
+3	2	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	left foot
+3	3	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	jumping
+3	4	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	canal
+3	5	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sufficient preparation
+3	6	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	small stream
+3	7	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	similar sensation
+3	8	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	short sprints
+3	9	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	scaling trees
+3	10	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	quality poles
+3	11	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	olympic sport
+3	12	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	highest caliber
+3	13	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	greater widths
+3	14	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	gradually vary
+3	15	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	diving boards
+3	16	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	canal jumping
+3	17	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	canal jump
+3	18	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	basic training
+3	19	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	basic skills
+3	20	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	athletic competition
+4	1	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	allergic reaction
+4	2	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	allergic reactions
+4	3	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	blood test
+4	4	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	runny nose
+4	5	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	allergy symptoms
+4	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	united states
+4	7	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	nasal sprays
+4	8	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	nasal passages
+4	9	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	allergy
+4	10	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	immune system
+4	11	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	herbal remedies
+4	12	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	blood pressure
+4	13	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	saline nasal spray
+4	14	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	food diary
+4	15	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	epinephrine injection
+4	16	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	itchy eyes
+4	17	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	allergy test
+4	18	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	emergency room
+4	19	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	symptoms include
+4	20	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	food allergies
+5	1	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	local library
+5	2	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bird watchers
+5	3	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	tail feathers
+5	4	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	daily lives
+5	5	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bird species
+5	6	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	watching animals
+5	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	spotting scope
+5	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good idea
+5	9	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bird
+5	10	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	year lists
+5	11	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	yard lists
+5	12	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wing bars
+5	13	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wildlife watching
+5	14	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wetland birding
+5	15	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wear colognes
+5	16	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wear clothing
+5	17	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	watching club
+5	18	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	watch wildlife
+5	19	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	watch places
+5	20	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wait long
+6	1	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	health
+6	2	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	blood vessels
+6	3	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good behavior
+6	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	health problems
+6	5	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	food
+6	6	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	highly intelligent
+6	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	teeth daily
+6	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	puppy mill
+6	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	luxating patellas
+6	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	itchy skin
+6	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	human foods
+6	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	animal shelters
+6	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	small
+6	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	separation anxiety
+6	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	canned food
+6	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	agility training
+6	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	higher risk
+6	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	health issues
+6	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	great deal
+6	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	urinary accidents
+7	1	0.8	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	acid reflux
+7	2	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stomach acid
+7	3	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	side effects
+7	4	0.6	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	proton pump inhibitors
+7	5	0.6	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	digestive system
+7	6	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	inflammatory drugs
+7	7	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	home remedies
+7	8	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	reduce stress
+7	9	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	avoid
+7	10	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	taking probiotics
+7	11	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	counter antacids
+7	12	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stomach pain
+7	13	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	counter medications
+7	14	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	severe symptoms
+7	15	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	chest pain
+7	16	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	nonsteroidal anti
+7	17	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	celiac disease
+7	18	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	blood
+7	19	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	severe indigestion
+7	20	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	herbal remedies
+8	1	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	rafting
+8	2	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	search online
+8	3	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	trips
+8	4	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	white water
+8	5	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	make reservations
+8	6	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	water shoes
+8	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	rafting guide
+8	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	large group
+8	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	international scale
+8	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bathing suit
+8	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	whitewater rafting trip
+8	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	grand canyon
+8	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	rafting trips
+8	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	raft guide
+8	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	experienced rafter
+8	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	difficulty level
+8	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cold water
+8	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	skill level
+8	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	rafting trip
+8	20	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	single
+9	1	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	funds
+9	2	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	mutual funds
+9	3	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	mutual fund
+9	4	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	risk tolerance
+9	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	invest primarily
+9	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	expense ratios
+9	7	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	college education
+9	8	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stock market
+9	9	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lose money
+9	10	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	long period
+9	11	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fund
+9	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	investment objectives
+9	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fund manager
+9	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	capital appreciation
+9	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	buying
+9	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	risk profile
+9	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	index funds
+9	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	funds seek
+9	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fund company
+9	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	expense ratio
+10	1	0.8	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	living room
+10	2	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	focal point
+10	3	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	large
+10	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	small room
+10	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	dining table
+10	6	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	opposite side
+10	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good idea
+10	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	furniture arrangement
+10	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	draw attention
+10	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	light
+10	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	small space
+10	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sleeping bags
+10	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	seating area
+10	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	prepare snacks
+10	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good place
+10	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wall space
+10	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	living rooms
+10	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	feel free
+10	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	empty space
+10	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	dining room
+11	1	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	natural hair
+11	2	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hair extension
+11	3	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	index finger
+11	4	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hair extensions
+11	5	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	small section
+11	6	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	synthetic hair
+11	7	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	real hair
+11	8	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hair completely
+11	9	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	extension hair
+11	10	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	continue braiding
+11	11	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	spray bottle
+11	12	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	blow dryer
+11	13	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	loose ends
+11	14	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	tooth comb
+11	15	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	regular shampoo
+11	16	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	synthetic extensions
+11	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	center strand
+11	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	tiny braids
+11	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	thin section
+11	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	start braiding
+12	1	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	grape varieties
+12	2	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	growing grapes
+12	3	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	grow grapes
+12	4	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	grape vines
+12	5	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	early spring
+12	6	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	time
+12	7	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	system
+12	8	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	slopes
+12	9	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	slope
+12	10	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	root
+12	11	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	land
+12	12	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	investment
+12	13	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	horticulture
+12	14	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	holes
+12	15	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	growth
+12	16	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	grow
+12	17	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	grape
+12	18	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	gallons
+12	19	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	determine
+12	20	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bottle
+13	1	0.6	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	girl scout
+13	2	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	girl scouts
+13	3	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	girl
+13	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cookies
+13	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	booth sale
+13	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	girl scout cookies
+13	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	troop meetings
+13	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	troop leader
+13	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	horseback riding
+13	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cookie sales
+13	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	girl scout website
+13	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	girl scout troop
+13	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	troop number
+13	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	troop leaders
+13	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sell cookies
+13	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	local troops
+13	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	troop plans
+13	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	local council
+13	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fanny pack
+13	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cookie prices
+14	1	0.8	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bank account
+14	2	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	initial deposit
+14	3	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	debit card
+14	4	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bank accounts
+14	5	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	accounts
+14	6	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	minimum amount
+14	7	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bank
+14	8	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	home country
+14	9	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	banks offer
+14	10	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	savings account
+14	11	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	personal information
+14	12	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	account
+14	13	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	united states
+14	14	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	swiss francs
+14	15	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	swiss banks
+14	16	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	private banks
+14	17	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	swiss bank accounts
+14	18	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	savings accounts
+14	19	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	checking account
+14	20	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	social security number
+15	1	0.6	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	nail polish remover
+15	2	0.6	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	base coat
+15	3	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	nail polish
+15	4	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	nail file
+15	5	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	push back
+15	6	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cuticle pusher
+15	7	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	polish
+15	8	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	coat
+15	9	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	white nail polish
+15	10	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	nail
+15	11	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	orange stick
+15	12	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	dead skin
+15	13	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	nail buffer
+15	14	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cotton swab
+15	15	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	clear base coat
+15	16	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	white tips
+15	17	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	entire nail
+15	18	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	desired length
+15	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	warm water
+15	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	back
+16	1	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	laptop battery
+16	2	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	power cord
+16	3	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	control panel
+16	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	power settings
+16	5	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wireless card
+16	6	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hard drive
+16	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	internet connection
+16	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	energy saver
+16	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	device manager
+16	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	free cloth
+16	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	screen resolution
+16	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	power options
+16	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	power button
+16	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	extended warranty
+16	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	electronics store
+16	16	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	software
+16	17	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	programs
+16	18	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wreak havoc
+16	19	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	working quicker
+16	20	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	work fast
+17	1	0.6	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lemon juice
+17	2	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	warm water
+17	3	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	small amount
+17	4	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	tanning product
+17	5	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	dead skin
+17	6	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	circular motions
+17	7	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	baking soda
+17	8	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	body scrub
+17	9	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	tanning
+17	10	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	tanning spray
+17	11	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	tanning lotion
+17	12	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	entire body
+17	13	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cotton ball
+17	14	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	dead skin cells
+17	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fade
+17	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	skin hydrated
+17	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	tanning products
+17	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	tanned skin
+17	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	steam room
+17	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	spray tans
+18	1	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	home page
+18	2	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	credit card
+18	3	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	home
+18	4	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	worth buying
+18	5	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	storage space
+18	6	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	personal information
+18	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	operating system
+18	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	completed listings
+18	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	social media
+18	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	similar items
+18	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	potential buyers
+18	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	payment methods
+18	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	important information
+18	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good idea
+18	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fair price
+18	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	accept payment
+18	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	potential customers
+18	18	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	table
+18	19	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	shoes
+18	20	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	price
+19	1	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fabric paint
+19	2	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cardboard inside
+19	3	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	steady strokes
+19	4	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	flat surface
+19	5	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	evenly distribute
+19	6	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	craft knife
+19	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cold water
+19	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sponge brush
+19	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	exacto knife
+19	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	contact paper
+19	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	warm water
+19	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	transfer paper
+19	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	screen printing
+19	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	paint dries
+19	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	multiple colors
+19	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hair dryer
+19	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cool completely
+19	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	clothing iron
+19	19	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	tool
+19	20	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	press
+20	1	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stock market
+20	2	0.6	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	mutual funds
+20	3	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stock price
+20	4	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	long term
+20	5	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	risk tolerance
+20	6	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	discount broker
+20	7	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stock prices
+20	8	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	online brokers
+20	9	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	purchase shares
+20	10	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good idea
+20	11	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	investment
+20	12	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	share price
+20	13	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	earnings growth
+20	14	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	year period
+20	15	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	brokerage account
+20	16	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	rate
+20	17	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	service broker
+20	18	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sell stock
+20	19	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sell high
+20	20	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	investment goals
+21	1	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	start menu
+21	2	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	settings
+21	3	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hard disk
+21	4	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	control panel
+21	5	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	operating system
+21	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hard drive
+21	7	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	windows computer
+21	8	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	device manager
+21	9	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	detailed instructions
+21	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	search engine
+21	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	settings menu
+21	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	internet explorer
+21	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	corrupted files
+21	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	connected properly
+21	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	causing problems
+21	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	applications folder
+21	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	show advanced settings
+21	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	chrome menu button
+21	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	system
+21	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	safe mode
+22	1	0.8	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	united states
+22	2	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	high school diploma
+22	3	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	certified
+22	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	health administration
+22	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	health
+22	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hospital setting
+22	7	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	high school
+22	8	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	accredited programs
+22	9	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	accredited program
+22	10	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	education
+22	11	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	nursing homes
+22	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	offer
+22	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	educational requirements
+22	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	private sector
+22	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	private organization
+22	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	level position
+22	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	career center
+22	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	vary depending
+22	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	study guides
+22	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	patient care
+23	1	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	credit card
+23	2	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cards
+23	3	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	simply click
+23	4	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	number
+23	5	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	prove identity
+23	6	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hard copy
+23	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	basic card
+23	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	paper cutter
+23	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	adobe
+23	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	email address
+23	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	application form
+23	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	recent photograph
+23	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	family members
+23	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	card
+23	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	green card
+23	16	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	text
+23	17	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	services
+23	18	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	online
+23	19	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	offer
+23	20	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	information
+24	1	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	united kingdom
+24	2	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	valid reason
+24	3	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	united states
+24	4	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	clean record
+24	5	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	correct form
+24	6	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	insurance company
+24	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	physical address
+24	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	begin training
+24	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	visitor visa
+24	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	speak english
+24	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	family members
+24	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bank account
+24	13	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	drivers
+24	14	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	culture
+24	15	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	covers
+24	16	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	years prior
+24	17	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	work visa
+24	18	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	week ahead
+24	19	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	water bill
+24	20	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	visa granted
+25	1	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	educational toys
+25	2	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	child likes
+25	3	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	older children
+25	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	choose toys
+25	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	younger children
+25	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	board games
+25	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	similar products
+25	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	skills
+25	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	making toys
+25	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	find toys
+25	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	specifically designed
+25	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	books
+25	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	skill levels
+25	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	musical toys
+25	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	choosing toys
+25	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	small parts
+25	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	educational games
+25	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	creative side
+25	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	child learn
+25	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	chemistry sets
+26	1	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	yard sale
+26	2	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	garage sale
+26	3	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	email address
+26	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	local paper
+26	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	yard
+26	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	yard sales
+26	7	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	family member
+26	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good condition
+26	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	items
+26	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	verification word
+26	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	front yard
+26	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	create account
+26	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	craigslist account
+26	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	find things
+26	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	baby clothes
+26	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	arrow pointing
+26	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	plan ahead
+26	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	local newspaper
+26	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good items
+26	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	give people
+27	1	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	contact information
+27	2	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	valid passport
+27	3	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	federal government
+27	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	united states
+27	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	criminal record
+27	6	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	submit transcripts
+27	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good place
+27	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	basic qualifications
+27	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	government
+27	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	vary depending
+27	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	state jobs
+27	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	state government
+27	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	satellite offices
+27	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	personnel management
+27	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	local government
+27	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	government jobs
+27	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	applying
+27	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	teaching english
+27	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	teach english
+27	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	potential employer
+28	1	0.9	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	blood
+28	2	0.8	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	blood sugar levels
+28	3	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sugar
+28	4	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	blood sugar
+28	5	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	gestational diabetes
+28	6	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	blood sample
+28	7	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	blood test
+28	8	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	glucose
+28	9	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	risk factors
+28	10	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	normal range
+28	11	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	glucose tolerance test
+28	12	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	high
+28	13	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	test
+28	14	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	prenatal visit
+28	15	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	higher risk
+28	16	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good sources
+28	17	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pregnant women
+28	18	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	blood glucose
+28	19	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	family history
+28	20	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	brown rice
+29	1	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good idea
+29	2	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	vegetarian diet
+29	3	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	eating meat
+29	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	healthy fats
+29	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	vegan diet
+29	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	meat
+29	7	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	veggie burgers
+29	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	vegan sources
+29	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	dairy products
+29	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	balanced diet
+29	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	ethical concerns
+29	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	essential amino acids
+29	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	vegetarian cookbooks
+29	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	transition easier
+29	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	great sources
+29	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	great source
+29	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good sources
+29	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	black beans
+29	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	vegan food
+29	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	recipe book
+30	1	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	buttons
+30	2	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	text
+30	3	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	settings
+30	4	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	replace
+30	5	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pressing
+30	6	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	press
+30	7	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	image
+30	8	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	frequently
+30	9	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	editor
+30	10	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	work perfectly
+30	11	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	website navigate
+30	12	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	website button
+30	13	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	viewing websites
+30	14	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	user hovers
+30	15	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	unsorted bookmarks
+30	16	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	turn blue
+30	17	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	translate feature
+30	18	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	translate button
+30	19	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	swipe left
+30	20	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	star button
+31	1	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	direct sunlight
+31	2	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	soil moist
+31	3	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	seed packet
+31	4	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	early spring
+31	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	small seeds
+31	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	peat moss
+31	7	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	small container
+31	8	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	retain moisture
+31	9	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	root ball
+31	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	seed
+31	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	seeds sprout
+31	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	root system
+31	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	outdoor garden
+31	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	planted indoors
+31	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	late spring
+31	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	facing window
+31	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	plastic drinking cups
+31	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	seed packets
+31	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	plant directly
+31	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	grow
+32	1	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	social media
+32	2	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	online
+32	3	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	social media sites
+32	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	social media accounts
+32	5	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good idea
+32	6	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	contact information
+32	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	marketing
+32	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	required fields
+32	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	deep breath
+32	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	profile picture
+32	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	profile page
+32	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	privacy settings
+32	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	potential customers
+32	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	post information
+32	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	free account
+32	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	email address
+32	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	common interest
+32	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	social media presence
+32	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	social media pages
+32	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	social media manager
+33	1	0.9	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sore throat
+33	2	0.9	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	warm water
+33	3	0.6	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	drink plenty
+33	4	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	throat spray
+33	5	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	apple cider vinegar
+33	6	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	strep throat
+33	7	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bacterial infection
+33	8	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	relieve pain
+33	9	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sore throats
+33	10	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	give honey
+33	11	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stay hydrated
+33	12	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	immune system
+33	13	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	throat sprays
+33	14	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	antibacterial properties
+33	15	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	throat pain
+33	16	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	throat feel
+33	17	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	ground ginger
+33	18	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fresh ginger
+33	19	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	boiling water
+33	20	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	throat feels
+34	1	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	golf club
+34	2	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	golf swing
+34	3	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	play golf
+34	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	driving range
+34	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	front foot
+34	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	back foot
+34	7	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	golf ball
+34	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	left side
+34	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	shot selection
+34	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	short game
+34	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	golf courses
+34	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	golf clubs
+34	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	beginner golfers
+34	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	skill level
+34	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	flight path
+34	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	club head
+34	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	ball squarely
+34	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	straight line
+34	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sweet spot
+34	20	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	club
+35	1	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hair color
+35	2	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	natural color
+35	3	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	natural hair color
+35	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wear gloves
+35	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	dark color
+35	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	warm water
+35	7	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hair dyes
+35	8	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	small amount
+35	9	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	damp hair
+35	10	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	desired color
+35	11	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	baking soda
+35	12	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	deep conditioning treatment
+35	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stark line
+35	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	natural hair
+35	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lightening product
+35	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hair things
+35	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cold water
+35	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	aluminum foil
+35	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	beauty supply store
+35	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	light hair
+36	1	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	roof deck
+36	2	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	drip edge
+36	3	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	asphalt shingles
+36	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	living space
+36	5	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cement
+36	6	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	ridge shingles
+36	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	chalk line
+36	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	side edges
+36	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	roofing nails
+36	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	roofing material
+36	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	roof installing
+36	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	individual sections
+36	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	ridge board
+36	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	ridge beam
+36	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	metal flashing
+36	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	extra support
+36	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	square footage
+36	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	rectangular building
+36	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	plywood sheathing
+36	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	gambrel roof
+37	1	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	audio
+37	2	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hdmi cable
+37	3	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	viewing area
+37	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	surround sound
+37	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	front speakers
+37	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	home theater
+37	7	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	home theater system
+37	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	speaker cable
+37	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sound quality
+37	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	seating area
+37	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	speaker system
+37	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	component cables
+37	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	back wall
+37	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	audio quality
+37	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	system
+37	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	home
+37	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hdmi cables
+37	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	keyboard layout
+37	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	install ubuntu
+37	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	double click
+38	1	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	side effects
+38	2	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lose weight
+38	3	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	atkins diet
+38	4	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	carb diet
+38	5	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	weight loss
+38	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	healthy fats
+38	7	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	carbohydrate diet
+38	8	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lean meats
+38	9	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	ketogenic diet
+38	10	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	blood sugar
+38	11	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	diet plan
+38	12	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	saturated fats
+38	13	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	water daily
+38	14	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	starchy vegetables
+38	15	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	foundation vegetables
+38	16	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	trans fats
+38	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	atkins
+38	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	strength training
+38	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pale yellow
+38	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	nutrient deficiencies
+39	1	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	light pollution
+39	2	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bright star
+39	3	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bright stars
+39	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	urban area
+39	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	straight line
+39	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	north star
+39	7	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	rural area
+39	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	southern hemisphere
+39	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	northern hemisphere
+39	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	facing south
+39	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	summer months
+39	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	small telescope
+39	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	find saturn
+39	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	star charts
+39	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	star chart
+39	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	star atlases
+39	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	star atlas
+39	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	smart phone
+39	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	long time
+39	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	great view
+40	1	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	positive terminal
+40	2	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	negative terminal
+40	3	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	rechargeable batteries
+40	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	battery terminals
+40	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	alkaline batteries
+40	6	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	negative terminals
+40	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	local auto parts store
+40	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lower price
+40	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lead acid
+40	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	discharged state
+40	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	acid battery
+40	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	protection
+40	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wire brush
+40	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	volt battery
+40	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	electrical wiring
+40	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	auto parts stores
+40	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sulfuric acid
+40	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	recycling centers
+40	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	positive terminals
+40	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	masking tape
+41	1	1.0	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart attack
+41	2	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart
+41	3	0.6	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart attacks
+41	4	0.6	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart disease
+41	5	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	chest pain
+41	6	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	blood pressure
+41	7	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	blood sugar
+41	8	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	warning signs
+41	9	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cold sweats
+41	10	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	higher risk
+41	11	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stop smoking
+41	12	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	trans fats
+41	13	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart problems
+41	14	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	high blood pressure
+41	15	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	emergency personnel
+41	16	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	common symptoms
+41	17	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	begin treatment
+41	18	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart muscle
+41	19	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	deep breaths
+41	20	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	common symptom
+42	1	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	teddy bear
+42	2	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stuffed animals
+42	3	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bear
+42	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	teddy bears
+42	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sewing machine
+42	6	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stuffed animal
+42	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	scrap fabric
+42	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	felt things
+42	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	embroidery thread
+42	10	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	play
+42	11	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	eyes
+42	12	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	visually divide
+42	13	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	tired teddies
+42	14	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	things sweet
+42	15	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	tallest bears
+42	16	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	smaller kids
+42	17	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	short split
+42	18	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sandwiches salad
+42	19	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	saddle stitch
+42	20	0.1	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	prevent tears
+43	1	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	operating system
+43	2	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	network
+43	3	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	proxy server
+43	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	browsing history
+43	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	based proxies
+43	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	tools menu
+43	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	address
+43	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	proxy servers
+43	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	proxy company
+43	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	internet traffic
+43	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	virtual private network
+43	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	store
+43	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	illegal activity
+43	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	based proxy
+43	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	start browsing
+43	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	mozilla firefox
+43	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	internet activity
+43	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	open
+43	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	menu
+43	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	browsing
+44	1	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	mushroom
+44	2	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	mushroom spawn
+44	3	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	grow mushrooms
+44	4	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	oyster mushrooms
+44	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	compost pile
+44	6	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	edible mushrooms
+44	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	drill holes
+44	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	carbon dioxide
+44	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	home improvement stores
+44	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fresh mushrooms
+44	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	direct sunlight
+44	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	diamond pattern
+44	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	coffee grounds
+44	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	petri dish
+44	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	water
+44	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cold water
+44	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	potting soil
+44	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	mushroom spores
+44	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	mushroom growing
+44	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	growing mushrooms
+45	1	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	watch shows
+45	2	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	video player
+45	3	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	free content
+45	4	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hdmi port
+45	5	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	streaming site
+45	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	favorite shows
+45	7	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	free
+45	8	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	time warner
+45	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	content
+45	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	major networks
+45	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cable bill
+45	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	streaming
+45	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sites
+45	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	streaming service
+45	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	roku devices
+45	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	netflix subscription
+45	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	latest episodes
+45	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cable service
+45	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cable provider
+45	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	watch online
+46	1	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	feel confident
+46	2	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	dance
+46	3	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	dance moves
+46	4	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	watching videos
+46	5	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	skill levels
+46	6	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	individual moves
+46	7	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fourth beat
+46	8	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	basic move
+46	9	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wear comfortable clothes
+46	10	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	left side
+46	11	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	left foot
+46	12	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	moves
+46	13	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	strenuous activity
+46	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	simple stretches
+46	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	practice dancing
+46	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	original position
+46	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	move backwards
+46	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	left hand
+46	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	feet wide
+46	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	dance floor
+47	1	0.6	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	money
+47	2	0.6	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	united states
+47	3	0.6	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	debit card
+47	4	0.6	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	send money
+47	5	0.6	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bank account
+47	6	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	transfer money
+47	7	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	credit card
+47	8	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	account number
+47	9	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wire transfer
+47	10	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	western union
+47	11	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	account
+47	12	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	transfer
+47	13	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	online
+47	14	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	receiving money
+47	15	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	foreign currency
+47	16	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	paypal account
+47	17	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	exchange rates
+47	18	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	exchange rate
+47	19	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	email address
+47	20	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	dollar amount
+48	1	0.9	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hair loss
+48	2	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hair follicles
+48	3	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	daily basis
+48	4	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	growth
+48	5	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	healthy
+48	6	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	increase blood flow
+48	7	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	natural oils
+48	8	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	healthy hair
+48	9	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	promote hair growth
+48	10	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hair
+48	11	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	rich foods
+48	12	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stimulate hair growth
+48	13	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hair growth
+48	14	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	grow back
+48	15	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	alopecia areata
+48	16	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hair health
+48	17	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	male pattern baldness
+48	18	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	split ends
+48	19	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	healthy hair growth
+48	20	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	side effects
+49	1	0.6	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	divorce papers
+49	2	0.6	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	divorce decree
+49	3	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	divorce petition
+49	4	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	court clerk
+49	5	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	child support
+49	6	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	court hearing
+49	7	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	divorce proceedings
+49	8	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	process server
+49	9	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	uncontested divorce
+49	10	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	divorce filing
+49	11	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	spousal support
+49	12	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	certified copy
+49	13	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	child custody
+49	14	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	state
+49	15	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	spouse lives
+49	16	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	divorce forms
+49	17	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	certified mail
+49	18	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	child
+49	19	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	states require
+49	20	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	required documents
+50	1	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	give birth
+50	2	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	umbilical cord
+50	3	0.7	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	giving birth
+50	4	0.5	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	warm water
+50	5	0.4	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	birth plan
+50	6	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	home birth
+50	7	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	medical professional
+50	8	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	skin contact
+50	9	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	water birth
+50	10	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hospital birth
+50	11	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	high blood pressure
+50	12	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	birth canal
+50	13	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	birthing process
+50	14	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	completely dilated
+50	15	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	birthing area
+50	16	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	provide pain relief
+50	17	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	birth
+50	18	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	reduce pain
+50	19	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pain relief
+50	20	0.2	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	nearest hospital

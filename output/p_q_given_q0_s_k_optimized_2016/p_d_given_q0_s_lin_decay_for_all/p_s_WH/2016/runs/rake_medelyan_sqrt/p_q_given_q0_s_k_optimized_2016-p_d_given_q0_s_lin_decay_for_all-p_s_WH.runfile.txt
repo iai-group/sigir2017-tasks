@@ -1,0 +1,1000 @@
+1	1	0.012884	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	powdered hydrated lime paste
+1	2	0.011185	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	concrete floor
+1	3	0.010313	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	basic pump style garden sprayer
+1	4	0.009865	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	rotary scrubbing machine
+1	5	0.00957	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	nonflammable chemical stripper
+1	6	0.009266	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	remaining cleaning compounds
+1	7	0.008734	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	trisodium phosphate
+1	8	0.007738	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	caulking compounds
+1	9	0.007324	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	stained area
+1	10	0.007296	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	putty knife
+1	11	0.007215	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	clean water
+1	12	0.007178	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	remaining stains
+1	13	0.007178	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	aggressive scrubbing
+1	14	0.006767	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	shop broom
+1	15	0.006767	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	cleaning concrete
+1	16	0.006678	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	floor scraper
+1	17	0.006451	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	paint roller made
+1	18	0.00633	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	prepare concrete
+1	19	0.006157	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	darker color
+1	20	0.006086	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	water based acrylic stain
+2	1	0.006938	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	pool water
+2	2	0.005199	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	decorated fashion swim caps
+2	3	0.004863	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	swimming pool
+2	4	0.004376	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	prevent bacterial growth
+2	5	0.004235	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	soft fabric caps
+2	6	0.004126	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	baby powder inside
+2	7	0.004039	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	extra chlorine exposure
+2	8	0.003994	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	pool chemicals
+2	9	0.003751	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	calcium hardness
+2	10	0.003647	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	pool pump
+2	11	0.003542	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	total dissolved solids
+2	12	0.003433	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	liquid chlorine
+2	13	0.003368	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	sharp edges
+2	14	0.003345	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	chlorine level
+2	15	0.003254	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	multifunctional shock products
+2	16	0.003183	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	basic shock products
+2	17	0.003163	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	swim caps
+2	18	0.003151	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	diatomaceous earth filters
+2	19	0.00307	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	silicone caps
+2	20	0.00307	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	mesh caps
+3	1	0.031988	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	pues esto puede llevar
+3	2	0.025139	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	para este punto
+3	3	0.024431	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	luego hacia arriba
+3	4	0.017348	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	corre erguido
+3	5	0.015516	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	puedes empezar
+3	6	0.015516	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	hombros abajo
+3	7	0.015516	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	buen material
+3	8	0.008726	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	specialized sporting goods websites
+3	9	0.008598	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	silver duct tape
+3	10	0.008106	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	make animal markings
+3	11	0.007906	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	professional canal jumping equipment
+3	12	0.007906	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	national canal jumping contest
+3	13	0.007906	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	canal jumping involves running
+3	14	0.006896	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	suas pernas estendidas sobre eles
+3	15	0.006545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	friesland fierljeppen site
+3	16	0.006545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	flat plate attached
+3	17	0.00649	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	approach steps smoothly bring
+3	18	0.006397	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	master canal jumper
+3	19	0.006373	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	simply jumping rope
+3	20	0.006221	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	happy canal jumping
+4	1	0.008092	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	allergic reaction
+4	2	0.008041	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	alcohol abuse drug disulfiram present
+4	3	0.008013	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	skin prick test involves pricking
+4	4	0.007752	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	allergic reactions
+4	5	0.007271	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	blood test
+4	6	0.006045	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	skin prick test
+4	7	0.005675	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	allergy symptoms
+4	8	0.00555	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	complete medical history
+4	9	0.005492	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	skin reacts
+4	10	0.005453	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	nasal congestion itchy
+4	11	0.005453	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	immune system response
+4	12	0.00478	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	symptoms include
+4	13	0.004752	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	meaning fewer sulfites
+4	14	0.004263	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	stuffy nose
+4	15	0.004126	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	common symptoms
+4	16	0.003971	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	trigger potentially deadly asthma episodes
+4	17	0.003927	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	common allergen
+4	18	0.003899	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	inflamed skin
+4	19	0.003784	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	fewer preservatives
+4	20	0.003784	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	fewer ingredients
+5	1	0.010978	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	slight greenish tint
+5	2	0.01035	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	longer middle feather
+5	3	0.010021	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	average american crow
+5	4	0.010021	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	american crow makes
+5	5	0.008825	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	bird watchers
+5	6	0.008411	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	tail feathers
+5	7	0.007762	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	american crow
+5	8	0.007318	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	slightly curved
+5	9	0.007318	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	notice differences
+5	10	0.007318	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	large colonies
+5	11	0.007318	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	fairly short
+5	12	0.007318	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	curves downward
+5	13	0.007318	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	croaking sound
+5	14	0.007318	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	bluish shine
+5	15	0.006943	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	iridescent feathers
+5	16	0.006846	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	entire length
+5	17	0.006681	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	common raven
+5	18	0.006364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	bird trip planning tool
+5	19	0.00623	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	local library
+5	20	0.006118	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	find regional birding books
+6	1	0.004827	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	good canine citizen means helping
+6	2	0.004423	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	good behavior
+6	3	0.003489	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	small amount
+6	4	0.003224	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	nice things happen
+6	5	0.003224	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	extra calories represented
+6	6	0.003133	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	long line leash
+6	7	0.00304	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	reducing inappropriate toileting
+6	8	0.003001	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	health problems
+6	9	0.002976	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	puppy alongside roads
+6	10	0.002844	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	daily food ration
+6	11	0.002814	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	toilet spot hourly
+6	12	0.002784	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	commercial training treat
+6	13	0.002723	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	commands potty training
+6	14	0.002689	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	great deal
+6	15	0.002688	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	health issues
+6	16	0.002633	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	teach younger dogs
+6	17	0.002493	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	health
+6	18	0.002473	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	based training
+6	19	0.002432	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	higher risk
+6	20	0.002353	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	potty training
+7	1	0.007405	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	proton pump inhibitors
+7	2	0.006068	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	acid reflux
+7	3	0.005852	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	side effects
+7	4	0.004889	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	digestive system
+7	5	0.004764	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	stomach acid
+7	6	0.003778	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	inflammatory drugs
+7	7	0.003599	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	widen blood vessels
+7	8	0.003418	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	stomach pain
+7	9	0.003295	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	severe indigestion
+7	10	0.003183	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	artichoke leaf extract
+7	11	0.003126	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	bitter candytuft
+7	12	0.003076	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	celiac disease
+7	13	0.002948	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	reduce stress
+7	14	0.002947	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	local pharmacy
+7	15	0.002864	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	herbal remedies
+7	16	0.002772	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	treat acid reflux
+7	17	0.002693	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	home remedies
+7	18	0.002634	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	lower blood sugar levels
+7	19	0.002554	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	home remedy
+7	20	0.002546	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	underlying condition
+8	1	0.008216	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	rafting
+8	2	0.007932	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	whitewater rafting trip
+8	3	0.006969	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	main character gabriel clarke overcomes
+8	4	0.006945	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	complimentary shuttle transports passengers
+8	5	0.006836	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	snow create torrential rapids
+8	6	0.006372	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	water shoes
+8	7	0.006031	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	rafting guide
+8	8	0.005869	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	bathing suit
+8	9	0.005782	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	large group
+8	10	0.00542	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	search online
+8	11	0.005362	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	whitewater rapids trips offer multiple
+8	12	0.005352	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	calmer rapids prevail
+8	13	0.005209	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	people participating increases
+8	14	0.005209	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	offer special packages
+8	15	0.005062	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	overnight raft camping
+8	16	0.005013	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	rafting trips
+8	17	0.004966	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	experienced rafter
+8	18	0.004911	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	leisurely family activity
+8	19	0.00491	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	cold water
+8	20	0.0048	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	whitewater rafting carries
+9	1	0.013548	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	mutual funds
+9	2	0.013178	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	mutual fund
+9	3	0.007861	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	funds
+9	4	0.006244	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	dozen investment firms offer
+9	5	0.005823	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	diversified mutual funds carry
+9	6	0.005728	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	time researching investment companies
+9	7	0.005716	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	expense ratios
+9	8	0.005521	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	risk tolerance
+9	9	0.005018	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	online investment management firms
+9	10	0.004939	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	online investment firms typically
+9	11	0.004884	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	funds charge annual fees
+9	12	0.004831	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	long track record
+9	13	0.004804	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	diversified mutual fund
+9	14	0.004788	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	diversified mutual funds
+9	15	0.004707	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	mutual fund pays
+9	16	0.004707	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	date mutual fund
+9	17	0.004538	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	long term plan
+9	18	0.004408	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	conservative investor
+9	19	0.004215	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	long period
+9	20	0.004159	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	choose mutual funds
+10	1	0.013313	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	living room
+10	2	0.009378	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	writing materials
+10	3	0.009378	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	text books
+10	4	0.009378	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	resource center
+10	5	0.009378	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	read books
+10	6	0.009378	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	objects related
+10	7	0.009378	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	large table
+10	8	0.009378	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	information relating
+10	9	0.009378	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	homeschool environment
+10	10	0.009378	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	grade level
+10	11	0.009378	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	color paper
+10	12	0.008773	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	craft items
+10	13	0.008561	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	young children
+10	14	0.008561	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	homeschool classroom
+10	15	0.008453	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	supply closet
+10	16	0.008344	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	homeschooling room
+10	17	0.005477	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	room decorating snacks creating
+10	18	0.004743	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	cranky parent drop
+10	19	0.004564	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	potentially dangerous items
+10	20	0.004472	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	heat proof mats
+11	1	0.007449	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	natural hair
+11	2	0.005423	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	hair extension
+11	3	0.005161	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	continue braiding
+11	4	0.005154	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	extension hair
+11	5	0.005038	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	hair extensions
+11	6	0.005008	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	index finger
+11	7	0.00468	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	real hair
+11	8	0.004638	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	small section
+11	9	0.004397	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	synthetic hair
+11	10	0.00411	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	hair completely
+11	11	0.003477	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	small amount
+11	12	0.003439	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	loose ends
+11	13	0.003332	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	hair extensions braiding crochet braids
+11	14	0.003264	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	synthetic extensions
+11	15	0.003047	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	thin section
+11	16	0.002989	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	blow dryer
+11	17	0.002939	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	regular crochet needle
+11	18	0.002937	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	left hand
+11	19	0.002894	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	good idea
+11	20	0.002889	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	small rubber band
+12	1	0.025141	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	passos dicas avisos fontes
+12	2	0.020879	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	quer fazer vinho
+12	3	0.019807	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	arrume suas vinhas
+12	4	0.013205	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	solo para
+12	5	0.013205	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	fazendo isso
+12	6	0.012724	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	smaller wineries seldom charge
+12	7	0.012352	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	estude sobre
+12	8	0.011903	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	vinhedo
+12	9	0.010782	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	uvas
+12	10	0.010248	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	size wineries tend
+12	11	0.009586	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	tasting room employees
+12	12	0.007542	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	smaller wineries
+12	13	0.007247	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	wineries left
+12	14	0.007247	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	tasting fees
+12	15	0.007247	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	tasting experience
+12	16	0.007247	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	reserve wines
+12	17	0.007247	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	price range
+12	18	0.007247	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	owned wineries
+12	19	0.007247	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	online shop
+12	20	0.007247	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	larger wineries
+13	1	0.016398	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	girl scouts
+13	2	0.015944	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	girl scout
+13	3	0.012615	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	girl scout cookies
+13	4	0.011387	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	sell girl scout cookies
+13	5	0.009097	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	selling girl scout cookies
+13	6	0.00897	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	enter erroneous data makes responding
+13	7	0.008101	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	good luck selling
+13	8	0.007884	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	popular thin mints
+13	9	0.007749	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	booth sale
+13	10	0.007501	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	cookies
+13	11	0.007228	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	minty chocolate cookies
+13	12	0.007219	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	receiving girl scout emails
+13	13	0.006889	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	girl scout council
+13	14	0.0065	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	main phone number listed
+13	15	0.006458	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	ingredients green dirty girl scout
+13	16	0.006381	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	find actual booth locations
+13	17	0.00633	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	cookie prices
+13	18	0.006295	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	find girl scout cookies
+13	19	0.006258	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	green dirty girl scout making
+13	20	0.006207	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	white dirty girl scout making
+14	1	0.012346	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	bank account
+14	2	0.008498	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	local branch
+14	3	0.007444	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	social security number
+14	4	0.007051	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	offer overdraft facilities
+14	5	0.006784	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	present identification documents
+14	6	0.006784	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	identification include passports
+14	7	0.006064	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	basic bank account
+14	8	0.005631	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	debit card
+14	9	0.005438	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	united states small business administration
+14	10	0.00508	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	application form
+14	11	0.005015	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	employer identification number
+14	12	0.0047	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	wider range
+14	13	0.0047	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	utility bills
+14	14	0.0047	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	tenancy agreements
+14	15	0.0047	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	stock market
+14	16	0.0047	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	interest rates
+14	17	0.0047	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	driving licences
+14	18	0.0047	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	charging policies
+14	19	0.0047	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	building society
+14	20	0.0047	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	building societies
+15	1	0.024833	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	french manicure toes
+15	2	0.024133	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	favorite television show
+15	3	0.022231	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	base coat
+15	4	0.016555	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	suggest waiting
+15	5	0.016555	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	favorite color
+15	6	0.016555	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	eventually create
+15	7	0.015486	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	leave left
+15	8	0.015486	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	finally apply
+15	9	0.012611	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	cela peut vous paraitre surprenant
+15	10	0.010672	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	importe quelle autre couleur
+15	11	0.009255	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	nail polish remover
+15	12	0.008717	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	vous connaissez peut
+15	13	0.008212	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	vous pouvez utiliser
+15	14	0.008212	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	vous pouvez tout
+15	15	0.008151	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	correcteur liquide blanc
+15	16	0.007982	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	huile pour cuticules
+15	17	0.007441	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	tracciare delle linee perfettamente dritte
+15	18	0.006711	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	nail polish
+15	19	0.006452	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	toni delicati della french manicure
+15	20	0.006242	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	vous aimez
+16	1	0.012038	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	external devices attached
+16	2	0.011984	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	laptops power jack
+16	3	0.011984	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	laptops motherboard overtime
+16	4	0.01142	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	existing memory module
+16	5	0.011174	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	power cord
+16	6	0.010854	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	laptop battery
+16	7	0.010598	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	memory module compartment
+16	8	0.009517	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	external devices
+16	9	0.009103	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	suddenly power
+16	10	0.008794	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	laptops specifications
+16	11	0.008723	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	module tilts
+16	12	0.008512	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	retention clips
+16	13	0.008512	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	properly seated
+16	14	0.008512	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	memory compartment
+16	15	0.008512	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	flat surface
+16	16	0.008512	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	flash drives
+16	17	0.008512	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	clips snap
+16	18	0.008512	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	applying pressure
+16	19	0.008142	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	general rule
+16	20	0.008142	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	correct wattage
+17	1	0.041737	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	dark brown color
+17	2	0.030649	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	couple minutes
+17	3	0.02866	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	dark
+17	4	0.028647	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	spray bottle
+17	5	0.023025	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	color
+17	6	0.01127	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	small amount evenly
+17	7	0.010845	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	coffee method things
+17	8	0.010791	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	naturally dark complexion
+17	9	0.009999	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	dark coffee color
+17	10	0.009578	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	unscented body lotion
+17	11	0.008708	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	fair skin
+17	12	0.007858	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	skin color
+17	13	0.007745	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	deep dark
+17	14	0.007514	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	start rubbing
+17	15	0.007514	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	missed spots
+17	16	0.007514	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	lightening product
+17	17	0.007514	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	exfoliating ingredient
+17	18	0.007514	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	excess lotion
+17	19	0.007514	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	completely combined
+17	20	0.007514	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	bare hands
+18	1	0.010133	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	laptops desktops universal work
+18	2	0.010056	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	good idea
+18	3	0.009885	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	selective file wipe method
+18	4	0.008534	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	selling products buying products
+18	5	0.007526	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	working power supply
+18	6	0.007101	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	left hand side
+18	7	0.006781	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	home page
+18	8	0.006755	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	spray external fans
+18	9	0.00595	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	power supply
+18	10	0.005659	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	operating system
+18	11	0.00562	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	personal information
+18	12	0.005322	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	visited websites
+18	13	0.005322	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	virus scan
+18	14	0.005322	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	specific manual
+18	15	0.005322	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	rubbing alcohol
+18	16	0.005322	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	heat sync
+18	17	0.005322	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	heat sink
+18	18	0.005322	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	feel comfortable
+18	19	0.005322	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	data permanently
+18	20	0.005322	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	component individually
+19	1	0.02871	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	fabric paint
+19	2	0.018382	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	scrap pieces
+19	3	0.018382	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	real good
+19	4	0.018382	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	favorite color
+19	5	0.018382	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	fabric glue
+19	6	0.018382	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	drip paint
+19	7	0.018382	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	boxes tape
+19	8	0.01678	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	make stencils
+19	9	0.011288	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	clear book covering
+19	10	0.011114	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	terry cloth towel folded
+19	11	0.010475	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	dimensional fabric paint
+19	12	0.009369	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	contact paper side
+19	13	0.008941	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	paint dries
+19	14	0.008706	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	pull slowly starting
+19	15	0.008597	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	contact paper
+19	16	0.008543	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	soft kitchen towel
+19	17	0.008452	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	exacto knife
+19	18	0.008382	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	sponge brush
+19	19	0.007947	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	picture editing program
+19	20	0.007947	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	lies completely flat
+20	1	0.003059	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	stock market
+20	2	0.002511	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	stock price
+20	3	0.002498	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	brokerage account
+20	4	0.00227	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	mutual funds
+20	5	0.002267	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	discount broker
+20	6	0.002228	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	online brokerage account
+20	7	0.002222	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	brokerage accounts include charts
+20	8	0.002073	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	risk tolerance
+20	9	0.002063	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	york stock exchange
+20	10	0.002018	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	share prices gradually wither
+20	11	0.001959	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	pick stocks
+20	12	0.001841	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	securities dealers automated quotation system
+20	13	0.001836	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	securities dealers automatic quotation system
+20	14	0.001816	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	long term
+20	15	0.001815	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	service broker
+20	16	0.001805	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	good idea
+20	17	0.001793	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	gradually accumulate capital
+20	18	0.001784	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	initial investment
+20	19	0.00175	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	market share
+20	20	0.001745	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	solid business practices
+21	1	0.0212	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	change adapter settings
+21	2	0.016597	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	adapter settings
+21	3	0.015699	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	wireless adapter
+21	4	0.015231	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	sharing center
+21	5	0.015231	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	open network
+21	6	0.015231	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	bandwidth property
+21	7	0.014042	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	click properties
+21	8	0.014042	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	click configure
+21	9	0.005143	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	start menu
+21	10	0.004613	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	safe mode safe mode serves
+21	11	0.004293	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	safe mode checking registry entries
+21	12	0.004283	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	hard disk
+21	13	0.004138	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	windows server 2003 operating systems
+21	14	0.004127	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	microsoft windows recovery console
+21	15	0.003966	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	windows graphical user interface
+21	16	0.003766	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	operating system
+21	17	0.003595	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	safe mode
+21	18	0.003513	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	control panel
+21	19	0.003512	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	graphical user interface
+21	20	0.003338	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	command line interface
+22	1	0.008458	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	united states
+22	2	0.008239	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	additional preparatory work includes legal
+22	3	0.008013	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	certified home health care aide
+22	4	0.00759	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	high school diploma
+22	5	0.00753	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	home health aide classes
+22	6	0.00747	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	home health care aide
+22	7	0.00704	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	include personal care skills
+22	8	0.006379	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	earn continuing education credits
+22	9	0.006172	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	home care agencies
+22	10	0.005928	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	basic medical care
+22	11	0.005733	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	nursing home national exam
+22	12	0.005696	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	changing soiled clothing
+22	13	0.005643	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	high paying positions
+22	14	0.005579	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	completed high school
+22	15	0.005373	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	health care administration
+22	16	0.005257	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	include assisting patients
+22	17	0.005224	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	high school
+22	18	0.004812	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	healthcare related field
+22	19	0.0048	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	nursing home administrator
+22	20	0.004788	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	nursing homes
+23	1	0.021153	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	reliance mobile store
+23	2	0.019943	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	current number entered
+23	3	0.019943	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	current mobile number
+23	4	0.015767	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	play store
+23	5	0.014102	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	address proof
+23	6	0.011492	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	featured free demo version
+23	7	0.010293	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	software program adobe photoshop
+23	8	0.008507	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	select free transform
+23	9	0.008285	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	signature font online
+23	10	0.00823	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	traditional barcodes composed
+23	11	0.007425	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	windows phone marketplace
+23	12	0.007206	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	file menu click
+23	13	0.00691	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	adobe photoshop
+23	14	0.006759	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	barcode scanner
+23	15	0.006746	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	free transform
+23	16	0.006611	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	barcode reader
+23	17	0.006582	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	reading process
+23	18	0.00644	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	read barcodes
+23	19	0.006435	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	scan codes
+23	20	0.006205	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	file menu
+24	1	0.01002	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	united kingdom
+24	2	0.005989	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	automatic number plate recognition
+24	3	0.005974	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	monitor vehicle speed regularly
+24	4	0.005972	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	avoid blinding oncoming drivers
+24	5	0.005658	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	correct motor insurance policy
+24	6	0.005262	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	provisional licence holder
+24	7	0.005113	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	mention positive points
+24	8	0.004961	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	specifically taught techniques
+24	9	0.004961	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	argumentative whilst supervising
+24	10	0.004931	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	police forces stop cars
+24	11	0.004659	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	driving test readiness
+24	12	0.00464	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	provide clear guidance
+24	13	0.004607	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	valid reason
+24	14	0.004546	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	alcohol immediately makes
+24	15	0.004472	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	make criticism personal
+24	16	0.004464	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	insurance company
+24	17	0.004456	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	valid drivers licence
+24	18	0.004411	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	give false details
+24	19	0.004365	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	emergency services vehicles
+24	20	0.004241	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	united states
+25	1	0.007309	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	educational toys
+25	2	0.004779	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	child likes
+25	3	0.004218	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	vinegar makes milk curdle
+25	4	0.004197	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	softly padded play mats
+25	5	0.004147	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	younger children
+25	6	0.003959	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	older children
+25	7	0.00385	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	providing stimulating crib toys
+25	8	0.003783	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	specifically designed
+25	9	0.0037	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	stunning full color photos
+25	10	0.003548	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	choose toys
+25	11	0.00339	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	bright twinkling lights
+25	12	0.003262	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	make funny sounds
+25	13	0.003196	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	sing nursery rhymes
+25	14	0.003196	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	form neural pathways
+25	15	0.003171	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	educational games
+25	16	0.003163	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	television news stories
+25	17	0.003163	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	promotes open conversation
+25	18	0.003128	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	stimulate young brains
+25	19	0.003123	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	holds magnetic chips inside
+25	20	0.003104	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	provide stimulating activities
+26	1	0.018784	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	yard sale
+26	2	0.013723	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	garage sale
+26	3	0.012707	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	include general street intersections
+26	4	0.011982	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	email address
+26	5	0.011968	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	city ordinances requires signs
+26	6	0.009948	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	busy street corners
+26	7	0.009683	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	online classified site
+26	8	0.008229	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	neighborhood yard sale
+26	9	0.008107	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	local paper
+26	10	0.007103	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	place heavy items close
+26	11	0.006975	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	account setup process
+26	12	0.006918	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	upper left area
+26	13	0.006918	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	closest geographic region
+26	14	0.006773	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	yard sales
+26	15	0.006455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	phone number
+26	16	0.006455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	participating neighbor
+26	17	0.006455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	lopsided piece
+26	18	0.006455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	good piece
+26	19	0.006455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	flyer reminding
+26	20	0.006455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	drawer anytime
+27	1	0.013176	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	require formal teaching qualifications
+27	2	0.010316	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	current teaching vacancies
+27	3	0.01004	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	undertake psychometric testing
+27	4	0.009758	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	site offers advertisements
+27	5	0.009466	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	reasonable time frame
+27	6	0.009466	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	find qualified teachers
+27	7	0.009166	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	teacher aide jobs
+27	8	0.007131	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	recruitment agencies
+27	9	0.0071	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	teacher registration
+27	10	0.0071	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	offers insight
+27	11	0.006694	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	working holiday
+27	12	0.006694	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	wonderful list
+27	13	0.006694	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	unusually flexible
+27	14	0.006694	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	resume spruced
+27	15	0.006694	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	paperwork process
+27	16	0.006694	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	latest jobs
+27	17	0.006694	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	good talent
+27	18	0.006534	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	work visa
+27	19	0.006261	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	proper visas
+27	20	0.006034	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	zealand jobs
+28	1	0.013045	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	blood sugar levels
+28	2	0.006945	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	blood sugar
+28	3	0.006621	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	blood
+28	4	0.006433	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	blood glucose test
+28	5	0.005298	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	blood sugar monitor
+28	6	0.005188	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	blood sample
+28	7	0.005109	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	ideal blood sugar levels
+28	8	0.004956	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	blood sugar check performed
+28	9	0.004308	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	sealed sandwich baggie
+28	10	0.004308	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	relieving antibacterial cream
+28	11	0.004308	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	pill bottle filled
+28	12	0.004245	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	sugar levels
+28	13	0.004235	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	sugar
+28	14	0.004199	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	blood tests
+28	15	0.004131	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	test strips
+28	16	0.004039	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	check blood sugar
+28	17	0.004039	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	blood sugar check
+28	18	0.004012	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	blood test
+28	19	0.003903	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	glucose test strips
+28	20	0.003816	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	test strip
+29	1	0.01184	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	stop supporting animal cruelty
+29	2	0.011259	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	vegetarian diet
+29	3	0.010409	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	eating meat
+29	4	0.009431	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	good idea
+29	5	0.008372	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	iron tablets find
+29	6	0.007223	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	pack vegetarian school lunches
+29	7	0.007123	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	recipe book
+29	8	0.00625	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	start cooking vegetarian food
+29	9	0.00592	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	vegetarian decide
+29	10	0.00592	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	school lunches
+29	11	0.00592	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	favorite show
+29	12	0.005806	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	require advance planning
+29	13	0.005806	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	doctor recommends pesco
+29	14	0.005538	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	good time
+29	15	0.005538	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	dinner plate
+29	16	0.005474	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	meat ingredients listed
+29	17	0.005474	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	hidden meat ingredients
+29	18	0.005474	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	fake meat lunch
+29	19	0.005216	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	proper vegetarian diet
+29	20	0.00505	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	vegetarian cookbooks
+30	1	0.044333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	flash document
+30	2	0.04147	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	referred website
+30	3	0.04147	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	choose actions
+30	4	0.019983	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	preferred text editor
+30	5	0.019072	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	process varies slightly depending
+30	6	0.017049	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	popular news aggregators
+30	7	0.016172	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	html link button
+30	8	0.015905	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	create buttons button
+30	9	0.01454	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	html file
+30	10	0.014489	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	selected blog specific
+30	11	0.014304	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	save interesting content
+30	12	0.013991	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	button text
+30	13	0.013709	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	left click
+30	14	0.013345	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	pinterest goodies page
+30	15	0.012514	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	code points
+30	16	0.012156	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	internet explorer window
+30	17	0.01183	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	feedburner feed
+30	18	0.011694	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	button pinterest tips
+30	19	0.0116	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	selected buttons
+30	20	0.0116	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	blog specific
+31	1	0.01338	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	disease free parent plant
+31	2	0.010237	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	young shoots growing
+31	3	0.010237	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	grow flowering plants
+31	4	0.007239	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	water sparingly
+31	5	0.007239	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	warm position
+31	6	0.007239	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	sharp scissors
+31	7	0.007239	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	scraped part
+31	8	0.007239	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	planting site
+31	9	0.007239	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	planting directly
+31	10	0.007239	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	pencil thick
+31	11	0.007239	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	original position
+31	12	0.007239	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	completely removed
+31	13	0.007028	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	plant directly
+31	14	0.006771	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	rooting hormone
+31	15	0.006771	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	make holes
+31	16	0.006771	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	green inside
+31	17	0.006608	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	soil gently
+31	18	0.006561	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	main stem
+31	19	0.006041	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	long stem
+31	20	0.004491	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	peat moss pellets work
+32	1	0.005581	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	social networking site
+32	2	0.005581	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	install cold turkey
+32	3	0.005581	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	important assignment coming
+32	4	0.005243	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	find people
+32	5	0.005095	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	social networking addiction
+32	6	0.005095	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	delete extra people
+32	7	0.004804	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	spend checking things
+32	8	0.004209	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	deep breath
+32	9	0.003947	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	reasonable number
+32	10	0.003947	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	permanently delete
+32	11	0.003929	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	successful social media marketing campaign
+32	12	0.00388	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	favorite followers shout outs occasionally
+32	13	0.003721	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	temporarily deactivate
+32	14	0.003721	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	socialize physically
+32	15	0.003721	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	physically blocks
+32	16	0.003721	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	news feed
+32	17	0.003721	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	friend list
+32	18	0.003721	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	difficult step
+32	19	0.003721	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	completely free
+32	20	0.003721	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	common interests
+33	1	0.008914	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	warm water
+33	2	0.008864	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	sore throat
+33	3	0.007619	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	apple cider vinegar
+33	4	0.005699	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	strep throat
+33	5	0.005536	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	drink plenty
+33	6	0.004992	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	bacterial infection
+33	7	0.004947	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	throat sprays
+33	8	0.00477	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	throat spray
+33	9	0.004767	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	relieve pain
+33	10	0.003974	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	give honey
+33	11	0.00377	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	sore throat quickly
+33	12	0.003631	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	clear blocked nasal passages
+33	13	0.003588	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	apple cider vinegar solution
+33	14	0.003534	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	herbal teas
+33	15	0.003453	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	home remedies
+33	16	0.003441	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	antibacterial properties
+33	17	0.003419	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	sore throats
+33	18	0.003193	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	drink apple cider vinegar
+33	19	0.003187	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	local anesthetic
+33	20	0.003157	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	cayenne pepper
+34	1	0.054545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	golf swing instructions
+34	2	0.020183	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	handled instrument called
+34	3	0.017152	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	golf club hits
+34	4	0.016946	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	play golf
+34	5	0.015635	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	golf ball
+34	6	0.013455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	terms related
+34	7	0.013455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	final results
+34	8	0.013172	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	golf scoring
+34	9	0.012586	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	lower score
+34	10	0.012283	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	final hole
+34	11	0.007014	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	golf club
+34	12	0.005957	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	driving range
+34	13	0.005953	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	golf swing
+34	14	0.005194	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	watch online videos
+34	15	0.005194	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	common sense issues
+34	16	0.004897	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	peoples putting lines
+34	17	0.004894	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	golf courses
+34	18	0.004879	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	golf guides online
+34	19	0.004742	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	certified teaching professional
+34	20	0.004723	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	decent golf courses
+35	1	0.010389	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	hair color
+35	2	0.007624	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	beauty supply store
+35	3	0.007456	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	natural hair color
+35	4	0.006387	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	water runs clear
+35	5	0.006265	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	wear gloves
+35	6	0.006248	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	dark color
+35	7	0.005692	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	warm water
+35	8	0.00563	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	natural color
+35	9	0.005529	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	deep conditioning treatment
+35	10	0.005433	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	local beauty supply store
+35	11	0.005298	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	good idea
+35	12	0.00515	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	preparation preventing skin stains preparing
+35	13	0.005102	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	damp hair
+35	14	0.004565	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	natural oils
+35	15	0.004492	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	large salon clips
+35	16	0.004482	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	tangles left
+35	17	0.004437	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	gloves generally
+35	18	0.004419	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	normal rubber
+35	19	0.004365	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	paper towels nearby
+35	20	0.004365	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	avoid visibly staining
+36	1	0.090909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	roof building
+36	2	0.015742	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	ridge beam allowing room
+36	3	0.013063	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	extra roofing material
+36	4	0.012392	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	ridge board runs
+36	5	0.009917	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	roof deck
+36	6	0.0099	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	plywood sheathing
+36	7	0.009846	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	ridge board
+36	8	0.009721	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	extra support
+36	9	0.009685	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	ridge beam
+36	10	0.009359	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	rectangular building
+36	11	0.009316	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	size make excellent patterns
+36	12	0.008932	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	common rafters
+36	13	0.008832	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	stand solidly
+36	14	0.008832	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	jack rafters
+36	15	0.008832	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	designated positions
+36	16	0.008832	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	correct height
+36	17	0.008832	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	ceiling joists
+36	18	0.008832	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	bottom edges
+36	19	0.008789	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	estimate roofing materials
+36	20	0.008154	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	simple roof
+37	1	0.03769	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	home theater
+37	2	0.008132	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	avoid common home theater mistakes
+37	3	0.006505	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	adjust uneven speaker volume
+37	4	0.006299	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	replace poor quality speakers
+37	5	0.006233	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	install xbox media center
+37	6	0.00618	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	home theater personal computer
+37	7	0.005878	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	home theater system
+37	8	0.005622	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	press install ubuntu button
+37	9	0.005497	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	xbox media center
+37	10	0.005286	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	obtain consumer electronics certification based
+37	11	0.005089	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	recent stable release
+37	12	0.00503	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	electronic systems project management
+37	13	0.005016	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	keyboard layout
+37	14	0.004976	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	install ubuntu
+37	15	0.004911	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	meet reasonable customer demands
+37	16	0.004897	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	hard disk drive
+37	17	0.004879	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	including video projectors
+37	18	0.004852	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	sound quality
+37	19	0.004737	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	select erase disk
+37	20	0.004737	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	date setting select
+38	1	0.004249	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	lose weight
+38	2	0.004219	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	healthy fats
+38	3	0.003799	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	increased energy excessive thirst observe
+38	4	0.00367	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	nail polish remover
+38	5	0.003575	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	long term informational resources
+38	6	0.003573	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	ketogenic diet
+38	7	0.003565	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	carb diet
+38	8	0.003481	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	lean meats
+38	9	0.003461	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	prevent bone density loss
+38	10	0.003413	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	short chain fats signal
+38	11	0.003391	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	promotes healthy bowel movements
+38	12	0.003391	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	carb intake
+38	13	0.003378	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	wide variety
+38	14	0.003354	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	treat existing health conditions
+38	15	0.00334	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	weight loss
+38	16	0.003314	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	local health food store
+38	17	0.003264	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	side effects
+38	18	0.003245	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	blood sugar
+38	19	0.003069	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	german study recently showed
+38	20	0.002948	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	effectively eliminate excessive ketones
+39	1	0.00936	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	light pollution
+39	2	0.008467	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	rural area
+39	3	0.008186	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	mars moves eastward
+39	4	0.008071	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	visible multiple times
+39	5	0.007993	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	bright yellow color
+39	6	0.007823	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	jupiter glows white
+39	7	0.007617	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	bright star
+39	8	0.006342	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	north star
+39	9	0.006271	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	typical summer night
+39	10	0.006271	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	brilliant orange star
+39	11	0.006191	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	white color
+39	12	0.006132	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	find planets
+39	13	0.006007	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	western hemisphere
+39	14	0.006007	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	small yellowish
+39	15	0.006007	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	months inside
+39	16	0.006007	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	lights affect
+39	17	0.006007	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	eastern hemisphere
+39	18	0.006007	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	distinguish starts
+39	19	0.006007	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	climb higher
+39	20	0.006007	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	brightest point
+40	1	0.008091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	negative terminal
+40	2	0.008043	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	positive terminal
+40	3	0.007368	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	local auto parts store
+40	4	0.005934	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	auto parts stores
+40	5	0.00566	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	heavy duty trash bags
+40	6	0.005496	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	recycling center
+40	7	0.004624	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	rechargeable batteries
+40	8	0.004554	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	local battery recycling center
+40	9	0.004509	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	household hazardous waste collection site
+40	10	0.004425	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	auto repair facilities
+40	11	0.004385	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	highly recommended precaution
+40	12	0.004334	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	auto parts store
+40	13	0.004236	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	local recycling center
+40	14	0.004194	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	local recycling centers
+40	15	0.004185	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	specific gravity reading
+40	16	0.004134	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	request assistance locating
+40	17	0.00406	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	charge depletes quickly
+40	18	0.004036	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	hazardous waste collection site
+40	19	0.003986	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	household hazardous waste site
+40	20	0.003986	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	household hazardous waste collection
+41	1	0.007119	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	heart attack
+41	2	0.005257	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	heart attacks
+41	3	0.003849	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	heart
+41	4	0.003741	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	cold sweats
+41	5	0.003722	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	chest pain
+41	6	0.003643	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	heart disease
+41	7	0.003613	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	warning signs
+41	8	0.003577	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	emergency medical services
+41	9	0.003336	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	trans fats
+41	10	0.003273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	blood pressure
+41	11	0.003163	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	high blood pressure
+41	12	0.003131	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	common symptom
+41	13	0.003116	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	deep breaths
+41	14	0.003089	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	mild chest pain
+41	15	0.003047	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	heart problems
+41	16	0.002919	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	stop smoking
+41	17	0.002869	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	heart attack occur
+41	18	0.002865	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	begin treatment
+41	19	0.002808	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	common symptoms
+41	20	0.002723	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	emergency personnel
+42	1	0.045102	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	teddy bears
+42	2	0.030001	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	teddy bear
+42	3	0.020171	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	stuffed animals
+42	4	0.01207	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	paper slightly smaller
+42	5	0.011615	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	scrap fabric
+42	6	0.011456	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	stuffed animal
+42	7	0.011317	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	embroidery thread
+42	8	0.011024	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	felt things
+42	9	0.010862	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	easy teddy bear
+42	10	0.010583	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	write fake hobbies
+42	11	0.010187	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	tiny teddy template
+42	12	0.010133	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	past teddy bears
+42	13	0.010047	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	teddy bear pieces
+42	14	0.009983	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	sewing machine
+42	15	0.009692	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	bear
+42	16	0.009465	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	finished teddy keyring
+42	17	0.008718	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	turns sliding
+42	18	0.008718	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	similar dimensions
+42	19	0.008718	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	pencil lines
+42	20	0.008718	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	lightly round
+43	1	0.011681	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	open internet explorer
+43	2	0.009097	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	tools menu
+43	3	0.007376	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	select internet options
+43	4	0.007045	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	browsing history
+43	5	0.006898	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	inprivate browsing mode
+43	6	0.00675	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	internet explorer shortcut
+43	7	0.006637	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	internet explorer
+43	8	0.006551	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	based proxies
+43	9	0.006476	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	proxy server
+43	10	0.006166	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	inprivate browsing
+43	11	0.006154	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	microsoft internet explorer setting
+43	12	0.005935	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	inprivate tabs
+43	13	0.005931	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	manual proxy configuration option
+43	14	0.005904	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	browse privately
+43	15	0.005901	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	regular tabs
+43	16	0.005892	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	tabs frame
+43	17	0.005892	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	tabs created
+43	18	0.005789	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	check automatic proxy configuration
+43	19	0.00576	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	inprivate window
+43	20	0.005692	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	proxies open mozilla firefox
+44	1	0.022871	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	vast fungi root system
+44	2	0.017047	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	experienced morel hunters
+44	3	0.015437	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	find morel mushrooms
+44	4	0.013205	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	root systems
+44	5	0.012527	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	favorite mushrooms
+44	6	0.011823	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	morel
+44	7	0.011811	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	surest bets
+44	8	0.011811	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	soft maples
+44	9	0.011811	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	late april
+44	10	0.011811	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	gently pick
+44	11	0.011811	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	apple orchards
+44	12	0.011048	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	previous years
+44	13	0.011048	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	good places
+44	14	0.010564	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	locust trees
+44	15	0.006762	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	steaming mushrooms frying mushrooms blanching
+44	16	0.006667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	cold water
+44	17	0.006434	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	local gardening supply store
+44	18	0.006422	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	freezing freezing uncooked morel
+44	19	0.006386	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	type mushrooms duxelles things
+44	20	0.00599	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	simply purchase liquid mycelium
+45	1	0.00644	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	watch shows
+45	2	0.00463	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	hdmi port
+45	3	0.004597	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	free content
+45	4	0.003992	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	time warner
+45	5	0.003907	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	production companies offer free access
+45	6	0.003827	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	video player
+45	7	0.003765	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	amazon prime account
+45	8	0.003398	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	recent television show episodes
+45	9	0.003389	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	roku streaming stick
+45	10	0.003387	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	watching regular cable television
+45	11	0.003295	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	support cable replacement services
+45	12	0.003277	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	cable networks
+45	13	0.003223	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	discovery channel offer lots
+45	14	0.003083	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	start watching
+45	15	0.003062	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	amazon prime
+45	16	0.003048	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	paid subscription
+45	17	0.002994	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	internet service
+45	18	0.002942	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	picture quality
+45	19	0.002941	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	left side
+45	20	0.002941	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	live streams
+46	1	0.006266	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	feet shoulder width
+46	2	0.005902	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	wear comfortable clothes
+46	3	0.005862	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	dancing takes time
+46	4	0.00547	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	classic break dance move
+46	5	0.005111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	people watch videos
+46	6	0.005107	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	slightly lower level
+46	7	0.005107	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	cali swag district
+46	8	0.004963	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	basics adding flair
+46	9	0.004934	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	nearby dance studio
+46	10	0.004888	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	left side
+46	11	0.004858	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	good hiphop dancer
+46	12	0.004815	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	start crouching lower
+46	13	0.004815	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	make forward circles
+46	14	0.004815	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	clockwise circle motion
+46	15	0.004752	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	feel confident
+46	16	0.004653	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	good beat
+46	17	0.004575	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	skill levels
+46	18	0.004531	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	dance moves
+46	19	0.004504	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	legs feel free
+46	20	0.004362	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	popular dougie move
+47	1	0.006754	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	send money
+47	2	0.005649	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	account number
+47	3	0.005551	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	bank account
+47	4	0.005295	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	wire transfer
+47	5	0.005068	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	western union
+47	6	0.005034	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	debit card
+47	7	0.004957	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	transfer money
+47	8	0.004819	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	bank offers online banking services
+47	9	0.004798	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	credit card
+47	10	0.004523	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	international bank account number
+47	11	0.004416	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	foreign currency
+47	12	0.004077	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	united states
+47	13	0.003995	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	foreign currency demand draft
+47	14	0.003936	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	fees vary depending
+47	15	0.003605	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	wire transfers
+47	16	0.003529	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	online banking service
+47	17	0.00342	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	receiving money
+47	18	0.003395	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	local western union office
+47	19	0.003282	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	time registration process
+47	20	0.003251	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	purchase foreign currency
+48	1	0.005901	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	hair loss
+48	2	0.005856	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	hair follicles
+48	3	0.005371	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	increase blood flow
+48	4	0.004269	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	oreal evercreme intense nourishing
+48	5	0.003902	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	natural oils
+48	6	0.003544	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	hair growth
+48	7	0.003524	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	inversion method incorporates massage
+48	8	0.003303	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	high blood pressure
+48	9	0.003302	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	curly hair
+48	10	0.003202	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	achieve full coverage
+48	11	0.003112	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	plastic wrap meant
+48	12	0.003112	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	chronic follicle problems
+48	13	0.003089	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	daily basis
+48	14	0.003019	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	step resembles meditation
+48	15	0.002952	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	hair hang loosely
+48	16	0.002952	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	hair growth potential
+48	17	0.002914	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	promote hair growth
+48	18	0.002875	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	entire scalp
+48	19	0.002778	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	stimulate blood flow
+48	20	0.002753	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	damage hair follicles
+49	1	0.007832	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	divorce papers
+49	2	0.007733	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	avoid additional time spent
+49	3	0.006934	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	divorce petition
+49	4	0.006192	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	court clerk
+49	5	0.006134	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	divorce proceedings
+49	6	0.006025	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	larger legal bills
+49	7	0.005618	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	divorce papers initially
+49	8	0.005613	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	good idea
+49	9	0.005086	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	withdraw divorce papers
+49	10	0.005032	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	court clerk responsible
+49	11	0.004899	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	filing fees
+49	12	0.004886	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	filed divorce papers
+49	13	0.004266	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	divorce decree
+49	14	0.004248	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	divorce proceeding
+49	15	0.004133	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	proper place
+49	16	0.004133	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	marriage intact
+49	17	0.004133	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	legal filing
+49	18	0.004133	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	irreconcilable differences
+49	19	0.004133	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	hired attorneys
+49	20	0.004133	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	double check
+50	1	0.00544	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	umbilical cord
+50	2	0.005039	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	giving birth
+50	3	0.004912	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	give birth
+50	4	0.003579	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	high blood pressure
+50	5	0.003134	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	skin contact
+50	6	0.003107	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	warm water
+50	7	0.002909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	birth plan
+50	8	0.002706	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	brands require additional equipment
+50	9	0.002641	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	cord stump collecting cord blood
+50	10	0.002427	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	sterile gauze
+50	11	0.002421	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	medical professional
+50	12	0.002395	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	sterile woven umbilical tape
+50	13	0.002385	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	feel comfortable
+50	14	0.002292	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	topical antibacterial solutions
+50	15	0.002291	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	hospital birth
+50	16	0.002212	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	avoid touching
+50	17	0.002144	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	home birth
+50	18	0.002141	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	sterile surgical gloves
+50	19	0.002134	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	medical science advances
+50	20	0.002134	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_lin_decay_for_all-p_s_WH	full term infants

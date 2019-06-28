@@ -1,0 +1,1000 @@
+1	1	0.025455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	getting organized at work pdf
+1	2	0.020241	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	organizing tips
+1	3	0.02	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	work learn
+1	4	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	getting organized at work training
+1	5	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	getting organized at work ideas
+1	6	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	getting organized at work book
+1	7	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	getting organized at work and home
+1	8	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	getting organized at work templates
+1	9	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	getting organized at work kenneth zeigler
+1	10	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	getting organized at work clutter
+1	11	0.011157	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	work shows busy professionals
+1	12	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	getting organized at work seminars
+1	13	0.010105	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	space efficiently
+1	14	0.010038	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	leave work keys
+1	15	0.009417	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	setting goals
+1	16	0.008987	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	work life
+1	17	0.008545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	adult adhd
+1	18	0.007752	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	establish priorities
+1	19	0.007309	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	kenneth zeigler
+1	20	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	getting organized at work for the new year
+2	1	0.027273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	choose bathroom fan
+2	2	0.023723	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	bathroom vanity
+2	3	0.021063	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	bathroom sink
+2	4	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	choose bathroom tiles
+2	5	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	choose bathroom paint color
+2	6	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	choose bathroom colors
+2	7	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to choose bathroom lighting
+2	8	0.014789	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	choose bathroom tile
+2	9	0.012969	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	choose bathroom plumbing fixtures
+2	10	0.011285	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	bathroom ideas
+2	11	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	choose bathroom faucet
+2	12	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	choose bathroom color
+2	13	0.010291	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	choosing bathroom tile
+2	14	0.010142	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	including noise level
+2	15	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	choose bathroom sink
+2	16	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to choose bathroom exhaust fan
+2	17	0.008548	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	bathroom sinks
+2	18	0.008116	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	bathroom mirror
+2	19	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	choose bathroom stall game
+2	20	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to choose bathroom faucets
+3	1	0.036037	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	budget wedding
+3	2	0.035571	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	wedding
+3	3	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	normal wedding budget
+3	4	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	low wedding budget ideas
+3	5	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	best wedding budget planner excel
+3	6	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	low budget wedding venues
+3	7	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	best wedding budget calculator
+3	8	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	low budget wedding reception ideas
+3	9	0.012587	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	important thing
+3	10	0.011554	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	dummies cheat sheet
+3	11	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	low cost wedding budget
+3	12	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	low budget wedding dresses
+3	13	0.010066	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	location fees
+3	14	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	yahoo answers
+3	15	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	best wedding budget app
+3	16	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	low budget wedding venues nyc
+3	17	0.008706	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	budget weddings
+3	18	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	low budget wedding checklist
+3	19	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	best wedding budget tracker
+3	20	0.007119	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	wedding budget
+4	1	0.046383	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	heart rate
+4	2	0.025455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lower heart rate during exercise
+4	3	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lower heart rate immediately
+4	4	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lower heart rate fast
+4	5	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lower heart rate and blood pressure
+4	6	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lower heart rate medication
+4	7	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lower heart rate means
+4	8	0.012276	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	resting heart rate
+4	9	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lower heart rate better
+4	10	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lower heart rate while running
+4	11	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lower heart rate than normal
+4	12	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lower heart rate quickly
+4	13	0.008308	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	heart attack
+4	14	0.007343	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lower heart rate naturally
+4	15	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lower heart rate medicine
+4	16	0.007115	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	heart
+4	17	0.00697	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lower high heart rate
+4	18	0.006372	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	heart beats
+4	19	0.006297	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	normal heart rate
+4	20	0.005576	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	breathing speed
+5	1	0.030909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	website design hosting services
+5	2	0.021586	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	website design
+5	3	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	website design hosting and domain registration
+5	4	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	website design hosting and commercial services agreement
+5	5	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	website design hosting and maintenance
+5	6	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	website design hosting packages
+5	7	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	website design & hosting for kansas city
+5	8	0.011241	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	website builder
+5	9	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	website design hosting reviews
+5	10	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	website design & hosting killingly ct
+5	11	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	click setup
+5	12	0.009676	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	mobile website design
+5	13	0.009254	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	small business website design
+5	14	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	website design hosting arizona
+5	15	0.008836	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	network solutions
+5	16	0.008793	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	website design team
+5	17	0.008724	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	professionally designed websites
+5	18	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	website design hosting review
+5	19	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	website design hosting south africa
+5	20	0.00708	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	expert graphic design
+6	1	0.066667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	elliptical trainer eg-3236
+6	2	0.033333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	elliptical trainer with hdmi
+6	3	0.029091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	elliptical trainer reviews
+6	4	0.020736	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	elliptical machines
+6	5	0.02	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	elliptical trainer for sale
+6	6	0.015172	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	elliptical trainer workouts
+6	7	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	elliptical trainer price
+6	8	0.013337	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	elliptical trainers
+6	9	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	elliptical trainer benefits
+6	10	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	elliptical trainer calories burned
+6	11	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	elliptical trainer calories
+6	12	0.01005	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	tablet holder
+6	13	0.009682	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	elliptical trainer machine
+6	14	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	elliptical trainer vs treadmill
+6	15	0.008374	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	free shipping
+6	16	0.007932	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	elliptical reviews
+6	17	0.007405	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	wide selection
+6	18	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	elliptical trainer walmart
+6	19	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	elliptical trainer ratings
+6	20	0.006891	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	elliptical machine
+7	1	0.029334	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	disneyland paris deals
+7	2	0.023636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	disneyland paris tickets
+7	3	0.021818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	disneyland paris map
+7	4	0.016384	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	disneyland paris hotels
+7	5	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	disneyland paris wikipedia
+7	6	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	disneyland paris rides
+7	7	0.014781	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	disneyland paris hotel
+7	8	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	disneyland paris inngangsbillett
+7	9	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	disneyland paris castle
+7	10	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	disneyland paris holidays
+7	11	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	disneyland paris billetter tilbud
+7	12	0.012724	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	official website
+7	13	0.011429	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	incredible experience
+7	14	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	disneyland paris all inclusive
+7	15	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	travel deals
+7	16	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	disneyland paris snl
+7	17	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	disneyland paris packages
+7	18	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	disneyland paris christmas
+7	19	0.008645	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	disney village
+7	20	0.007977	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	disneyland paris half marathon
+8	1	0.029091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	solar power home kits
+8	2	0.026122	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	powered home
+8	3	0.025455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	solar power home depot
+8	4	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	solar power homes
+8	5	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	solar power home systems
+8	6	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	solar power home system
+8	7	0.014269	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	power home solar
+8	8	0.012116	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	residential solar power
+8	9	0.011875	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	solar power
+8	10	0.011618	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	start saving money
+8	11	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	solar power home generator
+8	12	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	solar power home battery
+8	13	0.010567	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	home solar electric system
+8	14	0.010366	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	adding solar panels
+8	15	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	solar power home india
+8	16	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	solar power home appliances
+8	17	0.00823	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	affordable solar power
+8	18	0.007763	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	solar
+8	19	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	solar power home designs
+8	20	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	solar power homes for sale
+9	1	0.1	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	build a excel model that use capitaliq
+9	2	0.032727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	build a fence gate
+9	3	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	build a fence in minecraft
+9	4	0.014853	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	wood fence
+9	5	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	build a fence cost
+9	6	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	build a fence cheap
+9	7	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	build a fence on a slope
+9	8	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	build a fence youtube
+9	9	0.011042	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	digging post holes
+9	10	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	build a fence nz
+9	11	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	build a fence with pallets
+9	12	0.010775	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	privacy fence
+9	13	0.010343	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	livestock fencing
+9	14	0.010097	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	strictly utilitarian
+9	15	0.009976	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	livestock fence
+9	16	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	build a fence plans
+9	17	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	build a fence around the torah
+9	18	0.009	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	home depot learn
+9	19	0.009	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	home depot guide
+9	20	0.008108	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	fence gate
+10	1	0.1	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	get rid of mouse
+10	2	0.04449	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	pantry moths
+10	3	0.032727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	get rid of moths in house
+10	4	0.027273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	get rid of moths naturally
+10	5	0.023636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	get rid of moths in pantry
+10	6	0.020152	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	common household problem
+10	7	0.01417	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	martha stewart
+10	8	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	get rid of moths without moth balls
+10	9	0.012481	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	moth infestation
+10	10	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	get rid of moths in wardrobe
+10	11	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	get rid of moths in closet
+10	12	0.01086	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	clothes moths
+10	13	0.010407	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	moth problem
+10	14	0.010334	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	based pest control strategies
+10	15	0.00946	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	moth facts
+10	16	0.009208	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	moth identification
+10	17	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	get rid of moths uk
+10	18	0.008489	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	pantry moth life cycle
+10	19	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	get rid of moths closet
+10	20	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	get rid of moths in yard
+11	1	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to improve cholesterol levels
+11	2	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	improve cholesterol levels quickly
+11	3	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	improve cholesterol levels with supplements
+11	4	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	improve cholesterol levels without statins
+11	5	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	improve cholesterol levels with these 7 superfoods
+11	6	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lowering cholesterol levels
+11	7	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	foods that improve cholesterol levels
+11	8	0.012441	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lower cholesterol naturally
+11	9	0.011637	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	mayo clinic cholesterol
+11	10	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	reducing cholesterol levels
+11	11	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	foods to improve cholesterol levels naturally
+11	12	0.01053	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	cholesterol
+11	13	0.010303	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	trans fats affect cholesterol levels
+11	14	0.009562	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	cholesterol levels
+11	15	0.009493	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	high cholesterol
+11	16	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	reducing cholesterol levels naturally
+11	17	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	best ways to improve cholesterol levels
+11	18	0.008233	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	unhealthy cholesterol levels
+11	19	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lowering cholesterol levels naturally
+11	20	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	foods to help improve cholesterol levels
+12	1	0.029091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	living in indiana
+12	2	0.021818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	living in india pros and cons
+12	3	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	living in india as an american
+12	4	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	living in indianapolis
+12	5	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	living in india as a foreigner
+12	6	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	living in indiana pros and cons
+12	7	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	living in india cost of living
+12	8	0.010098	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	africans living
+12	9	0.010062	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	living india
+12	10	0.010027	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	planning stage
+12	11	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	vivid description
+12	12	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	intense paradoxes
+12	13	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	economic benefits
+12	14	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	living in india vs usa
+12	15	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	living in india expats
+12	16	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	living in indianapolis pros and cons
+12	17	0.007193	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	expats living
+12	18	0.006	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	india homing pigeons
+12	19	0.005971	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	diverse place
+12	20	0.005969	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	offer expats
+13	1	0.03006	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	raised garden beds
+13	2	0.021429	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to build raised gardens
+13	3	0.017857	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	pics of easy to build raised gardens
+13	4	0.016403	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	raised beds
+13	5	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	diy raised gardens
+13	6	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	build raised garden bed
+13	7	0.014286	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	best way to build raised gardens
+13	8	0.013765	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	elevated garden
+13	9	0.013491	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	build raised garden beds
+13	10	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	build raised garden bed cheap
+13	11	0.012237	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	grow fresh veggies
+13	12	0.011622	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	garden
+13	13	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	build raised garden bed sleepers
+13	14	0.010714	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to build raised gardens beds
+13	15	0.010274	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	raised vegetable garden
+13	16	0.01022	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	basic idea
+13	17	0.010219	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	poor soil
+13	18	0.009435	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	table gardens
+13	19	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	build raised garden bed along fence
+13	20	0.008182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	perfect solution
+14	1	0.03759	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lose weight fast
+14	2	0.028942	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lose weight
+14	3	0.021818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lose weight diet and exercise
+14	4	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lose weight diet plan
+14	5	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lose weight diet pills
+14	6	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lose weight diet menu
+14	7	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lose weight diet chart
+14	8	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lose weight diet recipes
+14	9	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lose weight diet in hindi
+14	10	0.010108	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	calorie meal plan takes
+14	11	0.009755	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	numerous effective weight loss tips
+14	12	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lose weight diet plan uk
+14	13	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lose weight diet for men
+14	14	0.00823	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	healthy recipes
+14	15	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lose weight diet program
+14	16	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lose weight diet plan pdf
+14	17	0.006836	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	access denied access denied
+14	18	0.006796	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	helpful weight loss tools
+14	19	0.005775	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	weight loss
+14	20	0.005455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lose weight diet foods
+15	1	0.100022	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	earn money online free
+15	2	0.045425	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	earn money online
+15	3	0.044381	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	make money online
+15	4	0.027273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	earn money online using facebook
+15	5	0.021267	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	access denied access denied
+15	6	0.020006	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	make money
+15	7	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	earn money online usa
+15	8	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	make money online using paypal
+15	9	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	earn money online using mobile
+15	10	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	earn money online in the us
+15	11	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	earn money online usd
+15	12	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	make money online usa
+15	13	0.012536	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	earn extra money online
+15	14	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	earn money online using paypal
+15	15	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	make money online using chitika ads
+15	16	0.010576	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	earn easy money
+15	17	0.009845	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	access
+15	18	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	make money online using clickbank
+15	19	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	earn money online using facebook and internet
+15	20	0.007781	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	money online
+16	1	0.033333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	risk of asbestos in the home
+16	2	0.033333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	pictures of asbestos in the home
+16	3	0.020749	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	safety education resources
+16	4	0.014087	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	asbestos exposure
+16	5	0.010604	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	health risk
+16	6	0.010384	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	older homes
+16	7	0.010123	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	fibrous mineral found
+16	8	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	realities asbestos
+16	9	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	asbestos fibre
+16	10	0.009738	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	asbestos dangerous
+16	11	0.006937	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	environmental health
+16	12	0.006745	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	asbestos
+16	13	0.006579	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	asbestos fibres
+16	14	0.006526	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	cancer risk fact sheet
+16	15	0.005695	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	asbestos awareness asbestos
+16	16	0.005443	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	asbestos materials
+16	17	0.005406	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	building materials
+16	18	0.005399	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	europe began certifying professionals
+16	19	0.005392	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	home maintenance
+16	20	0.005236	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	find asbestos
+17	1	0.04303	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	prepare for job interview questions
+17	2	0.031101	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	common interview questions
+17	3	0.020083	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	intimidating ways
+17	4	0.02	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	prepare for job interview for lpn
+17	5	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	prepare for job interview reddit
+17	6	0.013333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	prepare for job interview questions and answers
+17	7	0.013267	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	good preparation
+17	8	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	prepare for job interview presentation
+17	9	0.011637	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	interview including tips
+17	10	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	prepare for job interview questions to ask
+17	11	0.010684	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	practical tips
+17	12	0.010485	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	digital marketing
+17	13	0.010455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	interview preparation
+17	14	0.010176	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	nice resume
+17	15	0.010152	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	crucial part
+17	16	0.010107	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	putting people
+17	17	0.010045	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	stressful part
+17	18	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	steer clear
+17	19	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	application process
+17	20	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	prepare for job interview youtube
+18	1	0.083122	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	reach test
+18	2	0.033333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	homemade sit and reach test
+18	3	0.033333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to do a sit and reach test at home
+18	4	0.016667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to do sit and reach test at home
+18	5	0.016197	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lower back
+18	6	0.010786	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	reach test performed
+18	7	0.010643	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	reach flexibility test
+18	8	0.010529	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	gentle warm
+18	9	0.010281	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	reach
+18	10	0.008886	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	hamstring flexibility
+18	11	0.007007	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	test
+18	12	0.00684	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	common flexibility test
+18	13	0.006754	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	home fitness assessment
+18	14	0.006517	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	minimal equipment
+18	15	0.006336	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	reach test assesses flexibility
+18	16	0.005736	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	fitness
+18	17	0.0057	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	vertical jump
+18	18	0.005359	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	reach test amazon
+18	19	0.005324	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	image continue shopping conditions
+18	20	0.005279	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	test objective
+19	1	0.110818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	atypical squamous cells
+19	2	0.053218	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	undetermined significance
+19	3	0.027273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	atypical squamous cells cannot exclude hsil
+19	4	0.021111	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	behave correctly
+19	5	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	atypical squamous cells of undetermined significance
+19	6	0.018109	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	acog atypical squamous cells
+19	7	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	atypical squamous cells pap smear
+19	8	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	atypical squamous cells cervix
+19	9	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	atypical squamous cells of undetermined significance icd 10
+19	10	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	atypical squamous cells on pap
+19	11	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	atypical squamous cells of undetermined
+19	12	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	atypical squamous cells on pap smear
+19	13	0.010617	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	squamous cells
+19	14	0.009314	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	common abnormal finding
+19	15	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	atypical squamous cells hpv negative
+19	16	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	atypical squamous cells and hpv
+19	17	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	atypical squamous cells in urine
+19	18	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	atypical squamous cells in lungs
+19	19	0.005455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	atypical squamous cells pap smear results
+19	20	0.005455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	atypical squamous cells on cervical papanicolaou smear
+20	1	0.033333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	spider bite youtube
+20	2	0.02	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	spider bites on dogs
+20	3	0.016667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	spider bite is it serious
+20	4	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	spider bites uk
+20	5	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	spider bites pictures and symptoms
+20	6	0.01598	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	treat spider bites
+20	7	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	spider bites piercing
+20	8	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	spider bites pictures
+20	9	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	spider bites treatment
+20	10	0.01188	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	spider bites symptoms
+20	11	0.011528	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	identify spider bites
+20	12	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	spider bites piercings
+20	13	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	spider bites on face
+20	14	0.009967	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	spider bite pictures
+20	15	0.009921	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	spider bite
+20	16	0.009784	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	insect bites
+20	17	0.009381	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	black widow spider
+20	18	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	spider bites images
+20	19	0.008972	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	left untreated
+20	20	0.008325	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	treatment spider bites
+21	1	0.122222	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	sangre de cristo mountains hikes
+21	2	0.020868	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	mexico hike pecos wilderness
+21	3	0.019444	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	sangre de cristo mountains backpacking
+21	4	0.016667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	sangre de cristo mountains trail map
+21	5	0.013889	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	sangre de cristo mountains trails
+21	6	0.011863	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	national forest
+21	7	0.011111	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	sangre de cristo mountains hiking trails
+21	8	0.010209	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	rainbow trail arcs
+21	9	0.010119	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	exploratory hike
+21	10	0.010078	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	excellent mountain pages
+21	11	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	hikes hikes
+21	12	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	detailed descriptions
+21	13	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	hike colorado lakes
+21	14	0.009681	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	hiking colorado
+21	15	0.008333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	sangre de cristo mountains atv trails
+21	16	0.006806	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	mountain photographer
+21	17	0.006242	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	hunts lake trail
+21	18	0.005724	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	east side
+21	19	0.005674	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	searchable slide shows
+21	20	0.005556	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	sangre de cristo mountains colorado backpacking
+22	1	0.026667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	perennial plants for cold climates
+22	2	0.020206	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	cold climates
+22	3	0.02	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	flowering plants for cold weather
+22	4	0.013333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	perennial plants for cold weather
+22	5	0.012259	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	cold climate
+22	6	0.010997	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	winter flowers
+22	7	0.006667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	best flowering plants for cold weather
+22	8	0.006328	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	small trees
+22	9	0.006215	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	cold weather
+22	10	0.006051	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	make perfect flowering vines
+22	11	0.005937	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	hardy plants
+22	12	0.00548	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	local county extension agent
+22	13	0.005361	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	cold climate gardening
+22	14	0.005134	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	hardy perennials
+22	15	0.005103	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	blooming perennials
+22	16	0.005095	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	landscaping ideas
+22	17	0.005043	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	flowering quince tolerates climate extremes
+22	18	0.005019	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	climate gardening
+22	19	0.004915	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	growing flowering vines
+22	20	0.004868	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	choosing plants
+23	1	0.070546	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	altitude sickness
+23	2	0.021818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	altitude sickness medication peru
+23	3	0.01658	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	altitude sickness acclimatization
+23	4	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	altitude sickness peru death
+23	5	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	altitude sickness in cusco peru
+23	6	0.016348	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	machu picchu
+23	7	0.014578	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	avoid altitude sickness
+23	8	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	diamox altitude sickness peru
+23	9	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	altitude sickness peru machu picchu
+23	10	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	altitude sickness medicine peru
+23	11	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	altitude sickness peru cusco
+23	12	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	altitude sickness peru diamox
+23	13	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	altitude sickness pills peru
+23	14	0.008534	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	prevent altitude sickness
+23	15	0.007712	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	south america travel news blog
+23	16	0.007565	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	tripadvisor inside peru
+23	17	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	altitude sickness prevention peru
+23	18	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	altitude sickness lima peru
+23	19	0.006446	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	treat altitude sickness
+23	20	0.00586	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	visit tripadvisor
+24	1	0.017778	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	septic system options for difficult sites
+24	2	0.016828	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	septic systems
+24	3	0.016768	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	septic system options in pa
+24	4	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	septic system options ontario
+24	5	0.015556	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	above ground septic system options
+24	6	0.015123	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	alternative septic system
+24	7	0.013333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	septic system options in texas
+24	8	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	septic system options texas
+24	9	0.012205	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	septic system repair options
+24	10	0.011111	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	residential septic system options
+24	11	0.010581	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	alternative septic systems
+24	12	0.010346	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	septic system
+24	13	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	california edmund
+24	14	0.009877	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	site wastewater treatment system options
+24	15	0.009489	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	high water table
+24	16	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	septic system design options
+24	17	0.008889	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	redidental communities septic system options
+24	18	0.008383	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	effective septic system management
+24	19	0.008044	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	james backhoe service
+24	20	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	septic system drainfield options
+25	1	0.033333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	barbados holidaylettings
+25	2	0.019576	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	barbados holidays 2017
+25	3	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	barbados holidays 2016
+25	4	0.015556	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	barbados holidays from manchester
+25	5	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	barbados holidays 2018
+25	6	0.013333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	barbados holidays all-inclusive
+25	7	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	barbados holidays cheap
+25	8	0.011313	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	barbados holidays virgin
+25	9	0.011111	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	barbados holidays and celebrations
+25	10	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	barbados holidays november 2016
+25	11	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	barbados overview
+25	12	0.008889	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	barbados holidays calendar
+25	13	0.007321	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	cheap holidays
+25	14	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	barbados holidays october 2017
+25	15	0.007167	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	travel super
+25	16	0.006667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	barbados holidays august
+25	17	0.006002	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	british airways book package holidays
+25	18	0.00581	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	wikipedia public holiday
+25	19	0.005666	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	compare
+25	20	0.005455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	barbados holidays in february
+26	1	0.110448	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	heart attack
+26	2	0.03399	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	first aid heart attack aspirin
+26	3	0.027475	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	first aid heart attack treatment
+26	4	0.026616	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	first aid heart attack position
+26	5	0.016667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	first aid heart attack treatment images
+26	6	0.015529	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	heart attacks
+26	7	0.013829	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	heart muscle
+26	8	0.013473	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	heart attack occurs
+26	9	0.012155	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	heart attack symptoms
+26	10	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	first aid heart attack video
+26	11	0.010203	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	mayo clinic
+26	12	0.009192	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	first aid heart attack youtube
+26	13	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	first aid heart attack defibrillator
+26	14	0.008333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	first aid heart attack symptoms
+26	15	0.007566	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	heart attack treatment
+26	16	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	first aid heart attack wikipedia
+26	17	0.006754	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	heart attack victim
+26	18	0.00647	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	blood supply
+26	19	0.006153	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	treat small wounds
+26	20	0.005455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	first aid heart attack stroke
+27	1	0.068821	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	term care insurance
+27	2	0.05	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	long-term care insurance canada
+27	3	0.034191	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	long term care insurance
+27	4	0.033333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	long-term care insurance in canada
+27	5	0.016667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	long-term care insurance ontario canada
+27	6	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	long term care insurance canada pros and cons
+27	7	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	long term care insurance canada cost
+27	8	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	long term care insurance canada carp
+27	9	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	long term care insurance canada quotes
+27	10	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	long term care coverage canada
+27	11	0.00766	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	care insurance
+27	12	0.007395	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	term care insurance premiums
+27	13	0.007277	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	include long term care insurance
+27	14	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	rbc long-term care insurance canada
+27	15	0.006338	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	significant healthcare costs
+27	16	0.006	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	free quotes online
+27	17	0.005992	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	long term care
+27	18	0.005713	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	term care insurance information
+27	19	0.005455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	long term care insurance premiums canada
+27	20	0.005316	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	long term care insurance policy
+28	1	0.0424	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	cook pork tenderloin
+28	2	0.041709	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	pork tenderloin
+28	3	0.025455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to cook pork tenderloin medallions
+28	4	0.021426	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	pork tenderloin recipe
+28	5	0.016471	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	pork tenderloin recipes
+28	6	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to cook pork tenderloin in the oven
+28	7	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to cook pork tenderloin on grill
+28	8	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to cook pork tenderloin in slow cooker
+28	9	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to cook pork tenderloin in crock pot
+28	10	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to cook pork tenderloin roast
+28	11	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to cook pork tenderloin on the grill
+28	12	0.012618	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	perfect pork tenderloin recipe
+28	13	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to cook pork tenderloin in pressure cooker
+28	14	0.010181	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	boneless pork loin
+28	15	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to cook pork tenderloin medallions in oven
+28	16	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to cook pork tenderloin uk
+28	17	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to cook pork tenderloin tips
+28	18	0.006571	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	minute weeknight meals
+28	19	0.006258	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	food network
+28	20	0.00613	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	cooking pork tenderloin
+29	1	0.032727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	buy condo in florida keys
+29	2	0.021989	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	florida condos
+29	3	0.020218	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	united states
+29	4	0.02	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	compare condominium listings online
+29	5	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	buy apartments in florida
+29	6	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	best place to buy condo in florida
+29	7	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	buy condo in naples florida
+29	8	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	buy condo in florida sarasota
+29	9	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	buy beachfront condo in florida
+29	10	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	looking to buy condo in florida
+29	11	0.010107	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	west palm beach
+29	12	0.010082	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	association dues
+29	13	0.009629	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	united states forum
+29	14	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	buy beach condo in florida
+29	15	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	best time to buy condo in florida
+29	16	0.007294	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	good advice depending
+29	17	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	buy condo in kissimmee florida
+29	18	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	should i buy condo in florida
+29	19	0.006836	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	access denied access denied
+29	20	0.00665	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	oceanfront condos
+30	1	0.034041	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	chronic pain
+30	2	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to live with fibromyalgia
+30	3	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	can't live with fibromyalgia
+30	4	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	best place to live with fibromyalgia
+30	5	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	u live with fibromyalgia
+30	6	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	live well with fibromyalgia
+30	7	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	best places to live with fibromyalgia
+30	8	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	live smarter with fibromyalgia
+30	9	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how long can you live with fibromyalgia
+30	10	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	live fibromyalgia chat rooms
+30	11	0.010289	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	fulfilling life
+30	12	0.010152	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	include regular exercise
+30	13	0.010146	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	good life
+30	14	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	sharecare living
+30	15	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	forum rules
+30	16	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	felicia fibro
+30	17	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	where to live with fibromyalgia
+30	18	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to live with fibromyalgia and your family
+30	19	0.008652	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	widespread pain relief
+30	20	0.008007	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	past chronic pain
+31	1	0.034545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	organize wedding guest list
+31	2	0.029091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	organize wedding planning
+31	3	0.02	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	organize wedding reception
+31	4	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	organize wedding binder
+31	5	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	organize wedding photo in frame
+31	6	0.014002	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	stay organized
+31	7	0.012709	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	wedding planning
+31	8	0.012255	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	wedding planner
+31	9	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	organize wedding ceremony
+31	10	0.010814	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	organized bride
+31	11	0.010125	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	organize wedding information
+31	12	0.009652	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	wedding
+31	13	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	organize wedding board
+31	14	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	wedding organizer games
+31	15	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	organize wedding seating chart
+31	16	0.005831	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	ultimate wedding planning checklist
+31	17	0.005661	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	shopping cart
+31	18	0.005556	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	wedding planning tools
+31	19	0.005535	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	wedding reception organizing
+31	20	0.00552	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	wedding reception
+32	1	0.012368	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	remote motion detector
+32	2	0.012173	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	burglar alarm motion detector
+32	3	0.011212	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	motion light detector
+32	4	0.010192	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	outdoor motion sensor light
+32	5	0.009778	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	motion sensor
+32	6	0.008628	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	electrical expert james young shows
+32	7	0.007965	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	motion sensor light
+32	8	0.007832	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	motion detectors
+32	9	0.007602	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	install motion detector lighting
+32	10	0.00697	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	infrared beam detector
+32	11	0.006423	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	infrared beam motion
+32	12	0.006224	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	small electronic eyes
+32	13	0.006	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	element passive infrared
+32	14	0.006	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	double beam sensor
+32	15	0.005705	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	passive infrared sensor
+32	16	0.005612	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	sense motion
+32	17	0.005377	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	installation instructions
+32	18	0.00528	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	sensor light switch
+32	19	0.005	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lithium batteries
+32	20	0.004834	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	infrared sensors
+33	1	0.1	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to tell if roof needs repair
+33	2	0.024405	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	shingle roof
+33	3	0.022661	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	roof repair
+33	4	0.016269	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	warning signs
+33	5	0.010742	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	weaver roofing
+33	6	0.010313	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	flat roof
+33	7	0.009954	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	leaking roof
+33	8	0.007673	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	missing shingles
+33	9	0.007142	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	granules filling
+33	10	0.007102	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	home repair
+33	11	0.006354	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	asphalt shingle roof
+33	12	0.006	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	roughly thirty years
+33	13	0.006	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	roofing article identifies
+33	14	0.005714	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	repaired inspection tips offered
+33	15	0.005578	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	roof replacement
+33	16	0.005509	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	roof damage
+33	17	0.005507	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	showing signs
+33	18	0.005357	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	early intervention
+33	19	0.005245	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	reputable roofing contractor
+33	20	0.005166	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	promaster home repair
+34	1	0.035871	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	small apartment
+34	2	0.033333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to make a studio apartment look larger
+34	3	0.023844	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	small room
+34	4	0.017216	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	tiny apartment feel larger
+34	5	0.01704	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	small space
+34	6	0.015526	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	small space feel
+34	7	0.010281	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	apartment therapy
+34	8	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	platform bedden
+34	9	0.006836	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	access denied access denied
+34	10	0.006328	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	living room
+34	11	0.005404	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	small living room
+34	12	0.00535	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	tiny living room
+34	13	0.005239	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	contact designrulz
+34	14	0.005156	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	small areas
+34	15	0.004976	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	smart ways
+34	16	0.004556	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	bigger
+34	17	0.004509	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	make small spaces feel bigger
+34	18	0.004195	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	studio apartments
+34	19	0.004165	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	small spaces
+34	20	0.004078	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	small apartment feel
+35	1	0.069748	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	paint home interior walls
+35	2	0.066667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	painting home interior walls
+35	3	0.033333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	paint mobile home interior walls
+35	4	0.033333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	paint for mobile home interior walls
+35	5	0.011669	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	interior walls
+35	6	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	easy ways
+35	7	0.009407	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	interior painting tips
+35	8	0.007717	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	interior paints interior paints
+35	9	0.00671	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	home depot painting interior walls
+35	10	0.006693	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	high quality washable paint
+35	11	0.006476	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	painting interior walls
+35	12	0.006357	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	interior paint reviews
+35	13	0.006141	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	perform interior pants
+35	14	0.005992	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	interior painting project
+35	15	0.005572	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	interior painting diynetwork
+35	16	0.005554	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	home depot
+35	17	0.005548	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	gloss paint
+35	18	0.005514	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	home
+35	19	0.005222	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	berger paints check
+35	20	0.005156	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	interior wall
+36	1	0.034221	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	prepare home for winter vacation
+36	2	0.021429	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to prepare home for winter power outages
+36	3	0.020985	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	winter weather
+36	4	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	prepare home for winter storm
+36	5	0.014286	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to prepare home for winter
+36	6	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	prepare home for winter weather
+36	7	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	prepare home for winter checklist
+36	8	0.010715	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	american home shield website
+36	9	0.010714	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to easily prepare home for winter
+36	10	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	full proof methods
+36	11	0.009891	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	cold weather
+36	12	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	prepare home for winter freeze
+36	13	0.007769	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	winter home prep
+36	14	0.007694	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	winter approaches
+36	15	0.007422	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	greater wintertime safety
+36	16	0.007405	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	extremely cold weather
+36	17	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	prepare your home for winter tips
+36	18	0.007143	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to prepare home for winter absence
+36	19	0.006836	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	access denied access denied
+36	20	0.006569	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	winter preparation checklist
+37	1	0.052885	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	hurricane safety tips
+37	2	0.034402	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	hurricane safety
+37	3	0.029691	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	hurricane
+37	4	0.023636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	safety tips for hurricanes and tornadoes
+37	5	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	safety tips for hurricanes
+37	6	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	images of safety tips for hurricane
+37	7	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	safety tips for hurricane
+37	8	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	safety tips for hurricane katrina
+37	9	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	safety tips for hurricane season
+37	10	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	list of safety tips for hurricanes
+37	11	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	three safety tips for hurricanes
+37	12	0.01158	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	destructive phenomena
+37	13	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	safety tips for hurricane sandy
+37	14	0.009635	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	spawn tornadoes
+37	15	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	safety tips for hurricanes before
+37	16	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	10 safety tips for hurricanes
+37	17	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	5 safety tips for hurricanes
+37	18	0.007489	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	hurricane season
+37	19	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	safety tips for hurricane andrew
+37	20	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	kid safety tips for hurricanes
+38	1	0.033333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to add value to your home for sale
+38	2	0.020239	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	home selling
+38	3	0.020214	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	window treatments
+38	4	0.018179	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	home improvements
+38	5	0.013671	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	access denied access denied
+38	6	0.010476	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	sale price
+38	7	0.010101	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	swimming pools
+38	8	0.010071	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	home based
+38	9	0.010053	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	homeowners preparing
+38	10	0.010052	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	phil spencer
+38	11	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	home remodeling projects
+38	12	0.007808	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	home improvement
+38	13	0.007179	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	increase home
+38	14	0.007116	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	essential home improvement tips
+38	15	0.006329	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	access
+38	16	0.00604	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	current home seller
+38	17	0.005381	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	sales price
+38	18	0.00533	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	home searching made simple buying
+38	19	0.005259	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	simple upgrades
+38	20	0.005182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	adding curb appeal
+39	1	0.043527	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	technical presentation skills training
+39	2	0.013585	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	deliver effective technical presentations
+39	3	0.010211	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	effective presentation
+39	4	0.010025	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	deliver effective presentations
+39	5	0.009006	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	knockout business presentation
+39	6	0.00835	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	visual aids
+39	7	0.007599	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	deliver effective business
+39	8	0.006267	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	generic sales presentation
+39	9	0.006262	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	giving effective presentations
+39	10	0.005989	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	make effective
+39	11	0.005714	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	successful presentations
+39	12	0.005658	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	effective presentation makes
+39	13	0.005525	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	effective presentation research shows
+39	14	0.005417	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	technical presentations
+39	15	0.005216	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	fourth edition
+39	16	0.005211	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	presentation tools
+39	17	0.005197	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	gold standard
+39	18	0.004717	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	deliver effective
+39	19	0.004654	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	effective communication skills training delivery
+39	20	0.004499	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	effective oral presentation
+40	1	0.011956	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	tech clusters
+40	2	0.010154	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	latin america
+40	3	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	mapquest search
+40	4	0.009192	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	acclaimed engineering talent
+40	5	0.008943	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	european business magazine
+40	6	0.006464	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	tech business
+40	7	0.00634	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	great tech companies
+40	8	0.006269	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	report rates ireland
+40	9	0.006128	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	ugly tech
+40	10	0.006121	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	business life rely
+40	11	0.00606	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	tech companies locate
+40	12	0.005752	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	tech firms
+40	13	0.005419	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	easiest city
+40	14	0.005251	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	high tech locating
+40	15	0.00524	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	high demand market
+40	16	0.004708	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	business london
+40	17	0.004702	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	startup
+40	18	0.004444	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	microsoft worldwide sites surface
+40	19	0.004441	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	mira technology park
+40	20	0.004395	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	ireland heads forbes
+41	1	0.041151	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	alternative form
+41	2	0.033333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to be an art investor
+41	3	0.026192	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	investment portfolio
+41	4	0.021232	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	small part
+41	5	0.015403	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	famous artist
+41	6	0.01047	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	purpose reselling
+41	7	0.010221	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	asset class
+41	8	0.010097	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	discovered artist
+41	9	0.01008	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	wise investor
+41	10	0.010066	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	property owner
+41	11	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	funny read
+41	12	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	edit article
+41	13	0.007347	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	step career guide individuals searching
+41	14	0.006098	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	critique artwork
+41	15	0.005478	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	investment
+41	16	0.005376	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	small portion
+41	17	0.005213	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	keen users
+41	18	0.005084	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	career roadmap
+41	19	0.005075	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	cruise auction
+41	20	0.005071	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	fine investment
+42	1	0.038989	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	human rights
+42	2	0.021429	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	organizations that support human rights
+42	3	0.017857	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	celebrities who support human rights
+42	4	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	support human rights in china
+42	5	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	support non human rights
+42	6	0.014286	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	companies support human rights
+42	7	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	i support human rights because
+42	8	0.012224	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	human rights campaign
+42	9	0.011159	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	human rights campaign represents
+42	10	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	support albanian human rights & equality in the balkans
+42	11	0.010714	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	i support human rights
+42	12	0.00937	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	united nations
+42	13	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	support albanian human rights
+42	14	0.007726	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	defending human rights worldwide donate
+42	15	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	support for human rights act
+42	16	0.007143	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	human rights legal support centre
+42	17	0.007143	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	organisations that support human rights
+42	18	0.006236	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	human rights organizations
+42	19	0.005955	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	human rights watch
+42	20	0.005731	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	support human rights defenders builds
+43	1	0.030778	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	single mothers
+43	2	0.026225	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	single mother
+43	3	0.023916	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	single parents
+43	4	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	single mother in uk the right
+43	5	0.015805	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	income support
+43	6	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	single mother benefits in the uk
+43	7	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	single mother in uk housing
+43	8	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	single mother help in uk
+43	9	0.010143	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	successful single parents
+43	10	0.010035	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	fourth highest number
+43	11	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	single mother allowance in uk
+43	12	0.009056	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	myths surrounding single parents
+43	13	0.008895	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	single parent
+43	14	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	single mother grants in uk
+43	15	0.007187	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	single parent families
+43	16	0.006333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	million single parents
+43	17	0.006044	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	receiving universal credit
+43	18	0.00547	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	fresh figures show
+43	19	0.005455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	single mother benefits uk 2014
+43	20	0.005359	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	single mums onlymums
+44	1	0.1	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to deal with a depressed family member
+44	2	0.072265	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	family member
+44	3	0.042713	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	depressed family member
+44	4	0.03	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	dealing with a severely depressed family member
+44	5	0.02	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how do i deal with a depressed family member
+44	6	0.012022	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	depressed friend
+44	7	0.010455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	universal things
+44	8	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	webmd offers tips
+44	9	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to cope with a depressed family member
+44	10	0.008768	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	depressed person
+44	11	0.00634	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	depressed loved
+44	12	0.006217	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	webmd webmd explains
+44	13	0.005974	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	friend dealing
+44	14	0.005853	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	bipolar disorder
+44	15	0.005258	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	webmd helping
+44	16	0.005242	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	depressed pessimist family member
+44	17	0.005041	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	wonderful resource
+44	18	0.005	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	healthyplace effects
+44	19	0.005	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	depressed patients
+44	20	0.004366	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	mental health condition
+45	1	0.066111	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	school bullying statistics
+45	2	0.025455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	school bullying articles
+45	3	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	school bullying policy
+45	4	0.016852	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	fight school bullying
+45	5	0.014825	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	wikipedia school bullying
+45	6	0.014753	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	bullying
+45	7	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	school bullying video
+45	8	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	school bullying powerpoint
+45	9	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	school bullying definition
+45	10	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	school bullying videos
+45	11	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	school bullying laws
+45	12	0.007963	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	school bullies
+45	13	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	school bullying stories
+45	14	0.007273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	school bullying statistics 2016
+45	15	0.00719	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	stop bullying
+45	16	0.007015	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	middle school students
+45	17	0.006896	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	educational setting
+45	18	0.006895	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	comprehensive definition
+45	19	0.005455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	school bullying prevention
+45	20	0.005455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	school bullying in the philippines
+46	1	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	adopt a child in california requirements
+46	2	0.016364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	requirements to adopt a child in california
+46	3	0.015654	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	foster care
+46	4	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	adopt a baby in california
+46	5	0.014545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to adopt a child in california forms
+46	6	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	adopt a child in southern california
+46	7	0.012727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to qualify to adopt a child in california
+46	8	0.012306	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	california foster care
+46	9	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	who can adopt a child in california
+46	10	0.010909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how do you adopt a child in california
+46	11	0.010756	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	foster parent
+46	12	0.01025	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	adoption laws
+46	13	0.010181	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	ages needing adoption
+46	14	0.010114	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	offer money
+46	15	0.010052	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	adoptions occur
+46	16	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	california general
+46	17	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	california adopt
+46	18	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	adopt a child for free in california
+46	19	0.009091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how do i adopt a child in california
+46	20	0.008	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	child photolisting search results
+47	1	0.071935	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	autistic child
+47	2	0.05	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to raise an autistic child
+47	3	0.035714	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	cost to raise an autistic child
+47	4	0.021429	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	best place to raise an autistic child
+47	5	0.021429	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	best states to raise an autistic child
+47	6	0.017857	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	where to raise an autistic child
+47	7	0.014286	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	average cost to raise an autistic child
+47	8	0.010885	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	constant challenge
+47	9	0.010714	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	best country to raise an autistic child
+47	10	0.010714	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	best place in tn to raise an autistic child
+47	11	0.010235	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	david royko
+47	12	0.010202	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	autistic tantrums
+47	13	0.010082	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	lara jane balfour submitted
+47	14	0.008282	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	image continue shopping conditions
+47	15	0.008015	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	autism raising
+47	16	0.007143	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	best places to raise an autistic child
+47	17	0.007143	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	is it hard to raise an autistic child
+47	18	0.007104	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	long journey
+47	19	0.006152	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	robot check enter
+47	20	0.006059	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	complex developmental disorder
+48	1	0.011403	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	prices soar
+48	2	0.011395	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	opening markets
+48	3	0.010644	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	chinese acquire
+48	4	0.010352	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	olive oils
+48	5	0.010086	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	biggest importer
+48	6	0.010072	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	greece play
+48	7	0.010068	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	china progressing slowly
+48	8	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	manufacturers directory
+48	9	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	greek origin
+48	10	0.009792	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	china market
+48	11	0.007997	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	world economic power
+48	12	0.007029	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	international olive council lists
+48	13	0.006581	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	export barriers stifle economic growth
+48	14	0.006384	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	greece borders turkey
+48	15	0.006054	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	trade partners greece
+48	16	0.005858	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	bottling company located
+48	17	0.005228	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	global demand
+48	18	0.004967	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	complex economy
+48	19	0.004863	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	olive
+48	20	0.004772	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	greece sold
+49	1	0.066667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to raise venture capital in canada
+49	2	0.033333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how can i raise venture capital
+49	3	0.030919	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	raise venture capital
+49	4	0.01273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	venture capital funding
+49	5	0.012234	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	venture capital
+49	6	0.009404	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	nvca yearbook report
+49	7	0.007251	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	raise venture capital georges doriot
+49	8	0.00686	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	venture capital firm backing early
+49	9	0.00625	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	important steps
+49	10	0.005774	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	raising venture capital
+49	11	0.005666	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	venture capital firms
+49	12	0.005626	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	columbia raised venture capital funding
+49	13	0.005076	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	venture capital investors
+49	14	0.005	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	2014 venture capital funding
+49	15	0.004942	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	national venture capital association
+49	16	0.004873	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	mycapital official website
+49	17	0.004825	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	raise venture capital funds
+49	18	0.004777	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	raise funds
+49	19	0.004746	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	harvard business school
+49	20	0.004664	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	venture capital firm
+50	1	0.1	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	ham radio setup
+50	2	0.1	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	how to set up an amateur radio station
+50	3	0.022297	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	amateur radio
+50	4	0.015628	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	amateur radio operator
+50	5	0.014	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	backdoor survival
+50	6	0.010137	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	internet radio station
+50	7	0.010095	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	seasoned amateur
+50	8	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	technician class exam
+50	9	0.01	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	amateur radio emergency service
+50	10	0.007789	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	free radio enthusiast video
+50	11	0.007438	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	norge begrenset innhold
+50	12	0.007202	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	radio society
+50	13	0.006844	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	great britain
+50	14	0.006795	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	call sign domain
+50	15	0.006345	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	working amateur radio station
+50	16	0.006325	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	amateur radio aprs receive
+50	17	0.006193	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	emergency communications
+50	18	0.006	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	technician class operator
+50	19	0.006	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	shelf collecting dust
+50	20	0.005814	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_optimized_2015-p_s_uniform	short video

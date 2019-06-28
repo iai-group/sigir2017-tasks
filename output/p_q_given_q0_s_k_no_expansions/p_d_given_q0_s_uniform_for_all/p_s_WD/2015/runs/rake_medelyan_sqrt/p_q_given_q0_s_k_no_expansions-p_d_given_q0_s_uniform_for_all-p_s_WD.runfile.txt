@@ -1,0 +1,1000 @@
+1	1	0.037268	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	image continue shopping conditions
+1	2	0.027682	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	robot check enter
+1	3	0.019574	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	accepting cookies
+1	4	0.015475	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	image
+1	5	0.012517	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	long verbose error message
+1	6	0.012119	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	facebook youtube twitter pinterest
+1	7	0.01073	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+1	8	0.009524	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	toughest organizing challenges
+1	9	0.009524	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	bestselling organization books
+1	10	0.009387	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rolling jubilee works
+1	11	0.009387	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	pencils neatly stored
+1	12	0.009387	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	optimal working conditions
+1	13	0.009387	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	kate kershner money
+1	14	0.009387	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	handling multiple tasks
+1	15	0.009387	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	favorite android device
+1	16	0.009387	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	employee benefits quiz
+1	17	0.009387	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	avoid travel fees
+1	18	0.009123	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	stressful life events
+1	19	0.008502	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	work shows busy professionals
+1	20	0.00752	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	stay focused
+2	1	0.043006	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wayfair special nonexistent furniture
+2	2	0.035783	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	online home store
+2	3	0.035783	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	detected unusual traffic
+2	4	0.023855	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	page checks
+2	5	0.023855	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	computer network
+2	6	0.019569	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wayfair
+2	7	0.018859	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	furniture
+2	8	0.017473	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wishlists kitchen selection guides
+2	9	0.014226	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	selection guides caring
+2	10	0.01386	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	guides water conservation
+2	11	0.01361	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	product selections online
+2	12	0.01361	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	ideal bathing experience
+2	13	0.012235	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	bathroom
+2	14	0.009073	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	products care
+2	15	0.009073	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	kohler folder
+2	16	0.009073	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	kohler canada
+2	17	0.007196	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+2	18	0.007163	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	avoid water stains
+2	19	0.006753	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	shiny framed mirrors
+2	20	0.006753	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	antiqued framed mirrors
+3	1	0.024269	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wedding
+3	2	0.021049	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wedding budget
+3	3	0.015212	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	budget wedding
+3	4	0.012916	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wedding decor online
+3	5	0.01258	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	comdiy wedding hairstyle
+3	6	0.012427	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	floral monogram letters
+3	7	0.012178	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	careers investors media advertise
+3	8	0.012077	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	comcool centerpiece idea
+3	9	0.011878	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cheap wedding decor
+3	10	0.011407	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+3	11	0.010843	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	save money
+3	12	0.009736	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	great ideas
+3	13	0.009133	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy terms
+3	14	0.009017	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	budget
+3	15	0.008788	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	hair idea
+3	16	0.008732	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	budget rehearsal dinner
+3	17	0.008731	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	budget weddings
+3	18	0.008285	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	white straws
+3	19	0.008285	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	paper flower
+3	20	0.007971	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	weddings
+4	1	0.023889	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	heart rate
+4	2	0.020064	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	resting heart rate
+4	3	0.017019	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	heart attack
+4	4	0.016515	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	heart
+4	5	0.014565	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	blood pressure
+4	6	0.010334	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	high blood pressure
+4	7	0.009452	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	normal heart rate
+4	8	0.008999	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	high heart rate
+4	9	0.008711	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	heart disease
+4	10	0.007608	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	fast heart rate
+4	11	0.007514	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	slow heart rate
+4	12	0.007411	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	local american heart area search
+4	13	0.00733	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	content american heart association learn
+4	14	0.007264	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	high resting heart rate
+4	15	0.006982	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	high
+4	16	0.00681	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy
+4	17	0.006772	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	lower blood pressure quickly
+4	18	0.006767	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	lower heart rate naturally
+4	19	0.006697	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	lower
+4	20	0.006639	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	heart health
+5	1	0.032455	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	website design
+5	2	0.028882	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	opprett kontoen minuser namekundenummer
+5	3	0.021631	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	2017 godaddy operating company
+5	4	0.02016	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+5	5	0.020002	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy
+5	6	0.017477	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	enhver virksomhet
+5	7	0.016706	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	website
+5	8	0.015667	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	partners previousnext quick linksterms
+5	9	0.015413	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	ring
+5	10	0.015298	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	finn svar
+5	11	0.01427	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	slags behov
+5	12	0.01427	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	nederlandsnew zealand
+5	13	0.01427	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	kjelleren hjemme
+5	14	0.01427	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	englishunited states
+5	15	0.01427	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	englishsouth africa
+5	16	0.014229	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	nettsted uten
+5	17	0.014229	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	kraftig nettsted
+5	18	0.014043	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	finn
+5	19	0.013227	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	design
+5	20	0.012746	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	godaddy
+6	1	0.037268	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	image continue shopping conditions
+6	2	0.027682	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	robot check enter
+6	3	0.023952	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+6	4	0.019574	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	accepting cookies
+6	5	0.015475	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	image
+6	6	0.014768	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	power user moving
+6	7	0.014351	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	immediately regain access
+6	8	0.01421	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	party browser plugin
+6	9	0.014117	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	special deals treadmills
+6	10	0.013215	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	elliptical machine
+6	11	0.013055	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	guiderelated equipment reviewsfitness equipment blogabout
+6	12	0.0126	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	fitness goals
+6	13	0.012379	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	elliptical
+6	14	0.011723	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	home treadmills site
+6	15	0.01114	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	learn
+6	16	0.010951	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	exercise equipment
+6	17	0.01073	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	informed elliptical trainer consumer
+6	18	0.010247	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	browser made
+6	19	0.010058	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	learning proper elliptical trainer form
+6	20	0.010048	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access http
+7	1	0.143926	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	disneyland paris deals
+7	2	0.028037	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	tickets offers
+7	3	0.028037	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	package offers
+7	4	0.023006	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	hong kong disneyland hotel
+7	5	0.022639	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	hong kong website
+7	6	0.021785	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+7	7	0.021429	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	ezio wordpress theme
+7	8	0.021429	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	2015 effective logo design
+7	9	0.02112	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	disney website presented
+7	10	0.020166	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	disney
+7	11	0.019889	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	walt disney studios park
+7	12	0.018975	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	make hotel reservations
+7	13	0.018975	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	hollywood hotel managed
+7	14	0.016785	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy
+7	15	0.015594	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	enveisbilletter bestill restplassvarsel tilbud tilbud
+7	16	0.01557	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	extra magic hours
+7	17	0.014867	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	disneyland paris website
+7	18	0.01464	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	leaving disneyland paris
+7	19	0.014286	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	recent posts
+7	20	0.014286	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	incredible experience
+8	1	0.027171	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	solar
+8	2	0.026875	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	contact recent news saving money
+8	3	0.021162	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	residential solar power
+8	4	0.021129	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	solar solar power begins
+8	5	0.019956	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	obtaining solar energy finance purchase
+8	6	0.019353	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	save money
+8	7	0.019299	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	solar panels
+8	8	0.018329	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	power home roofing
+8	9	0.018084	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	power home solar
+8	10	0.017534	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	contact residential solar power
+8	11	0.017227	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	residential solar power consultants
+8	12	0.01618	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	start saving money
+8	13	0.01457	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	solar power
+8	14	0.01445	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	energy
+8	15	0.013459	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	current electric usage
+8	16	0.011803	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	foundation marketing
+8	17	0.011124	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	solar energy
+8	18	0.010323	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cash purchase
+8	19	0.009995	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	solar turning
+8	20	0.009989	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	solar system
+9	1	0.021016	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	norge begrenset innhold
+9	2	0.019617	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wood fence
+9	3	0.01436	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	fence
+9	4	0.01401	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	viewing youtube
+9	5	0.01401	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	selskap hopp
+9	6	0.013937	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	horizontal fence
+9	7	0.013836	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	board fence
+9	8	0.013336	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	fence gate
+9	9	0.01307	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cedar fence
+9	10	0.011787	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	step guide
+9	11	0.011763	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	install chain link fence
+9	12	0.010422	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	digging post holes
+9	13	0.010099	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+9	14	0.010042	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	basic tools needed
+9	15	0.009805	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	vinyl privacy fence
+9	16	0.00959	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	home depot
+9	17	0.009526	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	picket fence presented
+9	18	0.008882	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wooden fence
+9	19	0.008705	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	install fence posts
+9	20	0.008552	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	home
+10	1	0.011751	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	moth larvae
+10	2	0.010426	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	contact press privacy policy
+10	3	0.010159	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	pantry moths
+10	4	0.009995	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+10	5	0.009717	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	moth
+10	6	0.009387	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	terro pantry moth traps
+10	7	0.009149	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	soapy water
+10	8	0.00895	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	moth infestation
+10	9	0.008119	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	carpet beetles
+10	10	0.007688	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	adult moths
+10	11	0.007473	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	norge begrenset innhold
+10	12	0.007473	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	head hawk moth
+10	13	0.007439	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	moths
+10	14	0.007024	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	pantry pests
+10	15	0.006957	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	home moth free
+10	16	0.006689	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	plastic containers
+10	17	0.006615	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	pest control professional
+10	18	0.006094	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	economy mutual funds view
+10	19	0.005988	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	personal finance money hacks
+10	20	0.005932	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	jersey cherry hill west paterson
+11	1	0.068357	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access denied access denied
+11	2	0.031643	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access
+11	3	0.018527	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+11	4	0.014216	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	health make healthy happen weight
+11	5	0.011131	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	heart disease
+11	6	0.011032	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	weeknights healthy juice recipes
+11	7	0.010888	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cholesterol
+11	8	0.010742	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy
+11	9	0.010033	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	california rights data policy
+11	10	0.010021	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	american heart association
+11	11	0.009325	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	account sign
+11	12	0.008924	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	total cholesterol
+11	13	0.008495	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	give cholesterol levels
+11	14	0.00848	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	high cholesterol
+11	15	0.007349	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	lower cholesterol
+11	16	0.007094	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	data policy
+11	17	0.007094	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	california rights
+11	18	0.006911	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	healthy prescription
+11	19	0.006815	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cholesterol levels
+11	20	0.006813	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	heart health
+12	1	0.008774	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	modern times indian diplomacy
+12	2	0.008373	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	india homing pigeonsthis video
+12	3	0.006889	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	norge begrenset innhold
+12	4	0.006562	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	treatment newsakali core group meets
+12	5	0.006451	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	fastest growing economies
+12	6	0.006381	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	amritsarshiv singh khushipur portrait installed
+12	7	0.006186	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	shiv singh khushipur portrait installed
+12	8	0.006143	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	indian food
+12	9	0.006041	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rohtak ambalaharyana farmers express happiness
+12	10	0.005971	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	globally important consumer economy
+12	11	0.005305	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	capita purchasing power parity
+12	12	0.005305	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	adjusted gross domestic product
+12	13	0.005286	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	haryana farmers express happiness
+12	14	0.005132	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	punjab police arrests woman
+12	15	0.005079	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	extremely large labour pool
+12	16	0.005064	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	accountyour usernameyour password forgot
+12	17	0.005052	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	predict punjab elections outcome
+12	18	0.00501	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	life index rate latests quality
+12	19	0.004925	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	indian documentary
+12	20	0.004858	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wenn menschen sich verstehen
+13	1	0.027092	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+13	2	0.019849	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy questions
+13	3	0.019849	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	brute force attempts
+13	4	0.017453	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	sucuri website firewall
+13	5	0.01703	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access denied sucuri
+13	6	0.016223	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	garden
+13	7	0.014743	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	raised beds
+13	8	0.014546	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	website firewall
+13	9	0.014035	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access denied
+13	10	0.01364	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	block details
+13	11	0.013232	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	requested page
+13	12	0.013232	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	malware infections
+13	13	0.012378	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	visit https
+13	14	0.012082	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	raised garden beds
+13	15	0.011774	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	site owner
+13	16	0.01116	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	ultimate veggie garden
+13	17	0.010946	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	norge begrenset innhold
+13	18	0.010532	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	food shortage option
+13	19	0.010496	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	fertile garden food
+13	20	0.010422	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	learn organic gardening
+14	1	0.068357	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access denied access denied
+14	2	0.031643	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access
+14	3	0.01997	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	lose weight
+14	4	0.017893	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+14	5	0.014908	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	weight
+14	6	0.012502	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	weight loss
+14	7	0.011563	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy
+14	8	0.010495	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	health make healthy happen weight
+14	9	0.009464	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	losing weight
+14	10	0.009303	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	lose weight fast
+14	11	0.008806	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	health care provider
+14	12	0.008644	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	weeknights healthy juice recipes
+14	13	0.007722	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	california rights data policy
+14	14	0.007401	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	account sign
+14	15	0.007033	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	resources symptom checker expert blogs
+14	16	0.007014	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	diet meal plans
+14	17	0.006976	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	diet meal plan
+14	18	0.006881	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	easily swap things
+14	19	0.006753	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	loss challenge download
+14	20	0.006648	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	calorie meal plan
+15	1	0.219373	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	earn money online
+15	2	0.212666	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access denied access denied
+15	3	0.098445	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access
+15	4	0.031908	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	earn money online pages home
+15	5	0.024902	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	make money online
+15	6	0.015436	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	home subscribe
+15	7	0.013562	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	make money
+15	8	0.013164	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	template images
+15	9	0.013164	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	simple template
+15	10	0.013164	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	high demand
+15	11	0.013164	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	apply apply
+15	12	0.013069	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	paid surveys
+15	13	0.01301	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	make extra money
+15	14	0.010968	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+15	15	0.010732	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	money
+15	16	0.008986	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	earn money
+15	17	0.00894	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	earning trusted site today https
+15	18	0.008649	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy
+15	19	0.008516	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	making money online
+15	20	0.008153	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	start work make money online
+16	1	0.013647	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	consumer product safety commission
+16	2	0.011735	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	poster contest pool safely regulations
+16	3	0.011488	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	asbestos exposure
+16	4	0.011283	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	asbestos fibers
+16	5	0.01089	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	left anytime website feedback connect
+16	6	0.010758	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	lung cancer
+16	7	0.010624	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	environmental protection agency
+16	8	0.01051	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	spread consumer product safety information
+16	9	0.010051	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cpsc safety publications inside cpsc
+16	10	0.009532	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	toll free consumer hotline
+16	11	0.009524	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	floor tiles
+16	12	0.009207	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	recalls safety education regulations
+16	13	0.00889	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	neighborhood safety network posters
+16	14	0.007638	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	left anytime cpsc
+16	15	0.007488	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	safety education resources
+16	16	0.007425	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy
+16	17	0.007345	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	information
+16	18	0.007294	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	free safety alerts
+16	19	0.006984	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	mail related links
+16	20	0.006836	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	information collection practices
+17	1	0.019737	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	norge begrenset innhold
+17	2	0.017909	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	interview questions
+17	3	0.017163	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	interview
+17	4	0.016175	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	kategori utdanning lisens standard youtube
+17	5	0.015915	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	english learning program
+17	6	0.014277	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	viewing youtube
+17	7	0.013699	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	perfect answer
+17	8	0.013176	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy center security center find
+17	9	0.013158	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	selskap hopp
+17	10	0.012604	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	nederland find jobs post jobs
+17	11	0.012509	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	monster international helpful resources contact
+17	12	0.012468	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	learn english
+17	13	0.011636	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	interview question
+17	14	0.010985	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	social media
+17	15	0.010522	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	questions
+17	16	0.01038	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	common interview questions
+17	17	0.0096	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	harvard career advisor
+17	18	0.009119	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	neste interview questions
+17	19	0.008431	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	hiring manager
+17	20	0.008155	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	body language
+18	1	0.054408	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	reach test
+18	2	0.053241	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	image continue shopping conditions
+18	3	0.043743	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	lower back
+18	4	0.039546	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	robot check enter
+18	5	0.034758	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	kategori utdanning lisens standard youtube
+18	6	0.028514	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	reach
+18	7	0.027963	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	accepting cookies
+18	8	0.024647	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	test
+18	9	0.022107	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	image
+18	10	0.021521	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	fitness
+18	11	0.02151	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	norge begrenset innhold
+18	12	0.020926	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	tape measure
+18	13	0.019465	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	reach flexibilty test
+18	14	0.018937	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	fitness test
+18	15	0.018153	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	lower back muscles
+18	16	0.017822	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	lean forward
+18	17	0.017021	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	measuring tape
+18	18	0.016815	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	viewing youtube
+18	19	0.01676	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	daily beginner stretching routine
+18	20	0.016234	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	legs straight
+19	1	0.211111	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	behave correctly
+19	2	0.040494	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	atypical squamous cells
+19	3	0.022633	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	undetermined significance
+19	4	0.019068	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	grade squamous intraepithelial lesion
+19	5	0.017928	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	atypical glandular cells
+19	6	0.017272	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cervical cancer
+19	7	0.016884	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	abnormal cells
+19	8	0.014672	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	human papillomavirus
+19	9	0.010893	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cancer
+19	10	0.010702	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	abnormal
+19	11	0.010601	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	glandular cells
+19	12	0.010224	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cells
+19	13	0.010015	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	scientistsnci research areascancer biologycancer genomicscauses
+19	14	0.009537	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	squamous cell carcinoma
+19	15	0.009182	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	squamous cells
+19	16	0.008905	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+19	17	0.008776	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cancer research advanced cancer choices
+19	18	0.00865	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	diagnosis research cancer treatment types
+19	19	0.008627	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	mildly abnormal
+19	20	0.008449	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	basic local alignment search tool
+20	1	0.068357	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access denied access denied
+20	2	0.031643	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access
+20	3	0.016286	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	brown recluse spiders
+20	4	0.014286	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	spider
+20	5	0.014132	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	spider bite
+20	6	0.011975	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	brown recluse spider bites
+20	7	0.011166	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	black widow spider
+20	8	0.011127	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	black widow
+20	9	0.010707	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	treatment guide dust mite bites
+20	10	0.010023	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	bites
+20	11	0.009903	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	treatment guide wolf spider bite
+20	12	0.009698	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	black widow spider bite
+20	13	0.009619	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	united states
+20	14	0.00916	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	treatment sand flea bites
+20	15	0.009053	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	2013 brown recluse spider bite
+20	16	0.009052	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+20	17	0.008966	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	treatment guide tick bites
+20	18	0.008966	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	treatment guide insect bites
+20	19	0.008966	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	treatment guide flea bites
+20	20	0.008851	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	brown recluse spider
+21	1	0.01245	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+21	2	0.012323	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	vacation rentals topic pages advertise
+21	3	0.011997	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	travel road trips popular travel
+21	4	0.011674	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	trails photos trails topo maps
+21	5	0.011236	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	lake clementine canyon creek lakes
+21	6	0.010022	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	recent reviews popular hiking trails
+21	7	0.009858	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy support contact
+21	8	0.009074	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	great sand dunes national park
+21	9	0.009051	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	trails
+21	10	0.008315	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	south colony lakes westcliffe
+21	11	0.008315	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	highland mary lakes silverton
+21	12	0.008302	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	trail
+21	13	0.008234	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	glacier gorge longs peak
+21	14	0.008181	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	huckleberry botanic regional preserve
+21	15	0.008057	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	trading post trail morrison
+21	16	0.007972	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	opinion trail finder search
+21	17	0.007784	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	abyss lake trail grant
+21	18	0.007775	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	caribou ranch loop nederland
+21	19	0.007394	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	pennsylvania section company
+21	20	0.00715	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	lake
+22	1	0.015081	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	garden
+22	2	0.010722	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cold climates
+22	3	0.010588	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	coastal living cooking light food
+22	4	0.010109	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	containersmain perennials borders natives warm
+22	5	0.009668	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	season flowers print email photo
+22	6	0.009475	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+22	7	0.008863	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	handle ajax powered gravity forms
+22	8	0.008501	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	leatherleaf viburnum parterre garden design
+22	9	0.008429	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	advertising gardening writers media terms
+22	10	0.008098	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	solar panels videos travelbrowse
+22	11	0.008003	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	shade sunset main food
+22	12	0.007843	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	season color brighten gray
+22	13	0.00765	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	gardening
+22	14	0.00764	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cold frame laurustinus plant information
+22	15	0.007591	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	main content
+22	16	0.007122	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cold climate gardening
+22	17	0.006807	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	late winter
+22	18	0.006735	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	winter
+22	19	0.006596	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	growing laurustinus shrubs learn
+22	20	0.006532	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy
+23	1	0.027221	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	altitude sickness
+23	2	0.02613	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	machu picchu
+23	3	0.01151	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+23	4	0.01114	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	avoid altitude sickness
+23	5	0.01077	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	altitude
+23	6	0.010341	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	ballestas islands scenic views read
+23	7	0.01009	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	sacred valley
+23	8	0.009876	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	breakfast peru vacation rentals flights
+23	9	0.009815	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	high altitude
+23	10	0.009684	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	inca trail
+23	11	0.008798	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	awesome mystical night scene
+23	12	0.008328	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	peru peru restaurants things
+23	13	0.008273	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	real travelers background heading
+23	14	0.007966	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	sleeping pills
+23	15	0.007957	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	peru topics include transportation
+23	16	0.007599	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	altitude sickness review review
+23	17	0.007385	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	altitude sickness save article
+23	18	0.007379	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	peru
+23	19	0.007095	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	peru peru hotel deals
+23	20	0.007072	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	acute mountain sickness
+24	1	0.017028	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	mail city request unblock
+24	2	0.016943	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	septic systems
+24	3	0.014168	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	power user moving
+24	4	0.013633	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	party browser plugin
+24	5	0.013619	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	septic tank addtiive info
+24	6	0.01307	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	ontario septic tank information
+24	7	0.01307	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	ontario septic system information
+24	8	0.012958	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	septic system repair options
+24	9	0.012844	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	ontario septic systems fail
+24	10	0.012592	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	system
+24	11	0.011541	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	septic system
+24	12	0.011222	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	ontario building code
+24	13	0.010733	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	failing septic systemwhy
+24	14	0.010506	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	septic tank
+24	15	0.010143	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	systems
+24	16	0.009884	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	toxics climate change environmental information
+24	17	0.009884	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	facebook twitter youtube flickr instagram
+24	18	0.009831	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	browser made
+24	19	0.009684	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	location greener living health land
+24	20	0.009445	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	support article
+25	1	0.012549	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	barbados virtual travel guide
+25	2	0.01192	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	personality matching hotels
+25	3	0.00972	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	worries family holiday
+25	4	0.009665	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	perfect place
+25	5	0.009202	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	barbados
+25	6	0.009164	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	luxury sales index
+25	7	0.008853	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	nevis saint lucia saint vincent
+25	8	0.008764	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	north america sovereign states antigua
+25	9	0.00847	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	barbados things
+25	10	0.008174	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	club barbados resort
+25	11	0.007917	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	fascinating travellers
+25	12	0.007859	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+25	13	0.007754	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy
+25	14	0.007608	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	public holidays
+25	15	0.007506	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	hotel
+25	16	0.007321	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	united kingdom
+25	17	0.007245	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	luxury sales
+25	18	0.007245	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	book barbados
+25	19	0.007245	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	barbados history
+25	20	0.007098	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	range luxury exclusive
+26	1	0.05646	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	heart attack
+26	2	0.031956	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	kategori utdanning lisens standard youtube
+26	3	0.028737	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	norge begrenset innhold
+26	4	0.023408	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	chest pain
+26	5	0.022035	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cardiac arrest
+26	6	0.021598	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	heart muscle
+26	7	0.021434	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	viewing youtube
+26	8	0.019728	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	correct treatment
+26	9	0.019665	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	chest meet
+26	10	0.019158	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	selskap hopp
+26	11	0.019158	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	hearts beating
+26	12	0.015826	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	account customer service free shipping
+26	13	0.015062	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	include central chest pain
+26	14	0.014958	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+26	15	0.013586	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	blood supply
+26	16	0.013037	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	local emergency number
+26	17	0.012922	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	smoking free signs design
+26	18	0.012872	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	franciscan health
+26	19	0.012421	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	heart
+26	20	0.012179	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	grey skin colour
+27	1	0.024691	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	term care insurance
+27	2	0.016775	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	long term care insurance
+27	3	0.016472	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	care
+27	4	0.016278	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	long term care
+27	5	0.01577	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	term care facility
+27	6	0.015515	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+27	7	0.012157	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	term care
+27	8	0.010227	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	insurance
+27	9	0.010148	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	birth january february march april
+27	10	0.010007	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	term care insurance plan ahead
+27	11	0.009839	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	long term care insurance quote
+27	12	0.00928	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	life insurance canada quotes blog
+27	13	0.009132	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	canada
+27	14	0.008646	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	home care
+27	15	0.008596	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy direct line
+27	16	0.008574	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	term care insurance coverage
+27	17	0.008386	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	blue cross insurance broker
+27	18	0.007903	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	term care plan
+27	19	0.007551	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	health care
+27	20	0.007491	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	private room
+28	1	0.03743	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	pork tenderloin
+28	2	0.023783	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cook pork tenderloin
+28	3	0.01963	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	pork tenderloin recipe
+28	4	0.019533	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	pork
+28	5	0.015619	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	roasted pork tenderloin
+28	6	0.013507	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	norge begrenset innhold
+28	7	0.013497	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	roast pork tenderloin
+28	8	0.013273	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	southwestern pork recipe
+28	9	0.013187	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+28	10	0.012051	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cookies thanksgiving countdown food network
+28	11	0.011865	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	comfort classics trending videos chopped
+28	12	0.011687	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	fitness playbook watch full episodes
+28	13	0.010961	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	make crispy roast pork
+28	14	0.010544	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	high heat
+28	15	0.010458	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	easy
+28	16	0.010027	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	adchoices infringements privacy policy
+28	17	0.010003	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	tenderloin
+28	18	0.009624	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	hook appetizers ginormous food
+28	19	0.009595	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	home cooking worst cooks
+28	20	0.009507	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	viewing youtube
+29	1	0.068357	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access denied access denied
+29	2	0.031643	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access
+29	3	0.017366	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	famous hollywood movie pads
+29	4	0.016723	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	real estate
+29	5	0.015503	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	florida real estate prices
+29	6	0.013382	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	housing starts strong
+29	7	0.013025	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rich ride horses
+29	8	0.013025	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	fort myers waterfront
+29	9	0.013025	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	beverly hills mansion
+29	10	0.013025	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	beverly hills contemporary
+29	11	0.012658	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	enter email phone
+29	12	0.011814	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	naples golf condos
+29	13	0.010469	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	pompano beach
+29	14	0.010015	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	florida condos
+29	15	0.009615	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	naples condos
+29	16	0.009283	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	oceanfront condos
+29	17	0.009283	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	area condos
+29	18	0.00921	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	trump golf
+29	19	0.008862	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	info enter
+29	20	0.008683	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	spiers realty
+30	1	0.06	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	requested content shortly
+30	2	0.04	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	accessing feliciafibro
+30	3	0.020338	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+30	4	0.011403	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	national suicide prevention lifeline
+30	5	0.009971	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy
+30	6	0.009512	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	pain
+30	7	0.009342	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	professional medical advice
+30	8	0.008553	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	turn hopeless situations
+30	9	0.008287	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	fibromyalgia symptoms
+30	10	0.008231	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	chronic illness
+30	11	0.008188	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	chronic pain share
+30	12	0.007928	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	hope filled ways
+30	13	0.007076	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	national fibromyalgia association
+30	14	0.006903	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	fibromyalgia pain
+30	15	0.006616	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	chronic pain
+30	16	0.006405	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	subscribe body reboot adult adhdalzheimer
+30	17	0.006269	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	support groups
+30	18	0.006219	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	information provided
+30	19	0.00617	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	toolsmy webmd pagesmy accountsign outhealtha
+30	20	0.006059	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	heart failuremobile drug information appdrug
+31	1	0.027284	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wedding planning
+31	2	0.021097	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	inspiring ideas real weddings
+31	3	0.020119	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wedding planning notebook
+31	4	0.016526	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reservedprivacy policy
+31	5	0.016526	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	california rightsdata policyterms
+31	6	0.016282	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	repost weddingwedding listswedding adviceplanning
+31	7	0.015936	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wedding websites
+31	8	0.015752	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	guest list
+31	9	0.015231	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wedding
+31	10	0.01356	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+31	11	0.012726	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	html article info categories
+31	12	0.012654	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	meredith corporation
+31	13	0.012053	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	theftlaptop casestrunk lauggage scalesgarage view
+31	14	0.0119	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	ideas vendors
+31	15	0.011848	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wedding planning customized eventsnorsk
+31	16	0.011388	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wedding planning customized events
+31	17	0.010853	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	creative commons license
+31	18	0.010637	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	answer questions learn
+31	19	0.010203	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	video editrelated wikihows
+31	20	0.010203	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	mail invitations answer
+32	1	0.023158	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	motion sensor
+32	2	0.021728	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	burglar alarm motion detector
+32	3	0.020972	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	norge begrenset innhold
+32	4	0.019626	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	motion sensor light switch
+32	5	0.01892	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	motion sensor light
+32	6	0.017213	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	maestro motion sensor light switch
+32	7	0.016651	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	motion light detector
+32	8	0.015141	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	motion activated light switch
+32	9	0.014349	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	motion sensor lights
+32	10	0.013982	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	selskap hopp
+32	11	0.013826	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	viewing youtube
+32	12	0.012558	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	motion detector
+32	13	0.012155	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	motion sensor halogen
+32	14	0.012155	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	motion sensor camera
+32	15	0.011803	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	home electronics
+32	16	0.011617	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	halloween prop controllers
+32	17	0.01131	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	intelligent lighting control settings
+32	18	0.010953	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	home repair tutor
+32	19	0.010296	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	mount wireless motion sensor installation
+32	20	0.009966	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	sensor
+33	1	0.037268	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	image continue shopping conditions
+33	2	0.027682	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	robot check enter
+33	3	0.019574	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	accepting cookies
+33	4	0.017495	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+33	5	0.015475	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	image
+33	6	0.014955	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	professional roofing contractor
+33	7	0.013087	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	norge begrenset innhold
+33	8	0.012651	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	roofing
+33	9	0.01262	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	roof repair
+33	10	0.012153	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	promaster home repair
+33	11	0.01178	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	national roofing contractors association
+33	12	0.011608	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	areas served testimonials contact
+33	13	0.011195	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	home
+33	14	0.01088	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	roof deck
+33	15	0.009911	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policyyour california privacy rightsterms
+33	16	0.009883	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	shingle granules
+33	17	0.009753	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	labor free quotes
+33	18	0.009745	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	deck sheathing causing replacement costs
+33	19	0.009684	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	roofing solutions
+33	20	0.009648	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	weather tight home improvement tips
+34	1	0.068357	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access denied access denied
+34	2	0.031643	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access
+34	3	0.022523	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	contact press privacy policy
+34	4	0.02184	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	small space
+34	5	0.018537	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	small apartment
+34	6	0.017039	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	email share email share email
+34	7	0.016063	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	small spaces
+34	8	0.014119	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	thin white venetian blinds
+34	9	0.014119	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	kitchen examples everyday elegance
+34	10	0.013897	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	king duvet sets include
+34	11	0.013818	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	faux stone panels create
+34	12	0.012987	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wood pallet wall cladding
+34	13	0.012449	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	share email submit
+34	14	0.011844	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	comultra tiny home design
+34	15	0.011844	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	beautifully designed tiny homes
+34	16	0.01172	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	additional alcove space furnished
+34	17	0.011283	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	drystack faux panels
+34	18	0.011262	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	home tour
+34	19	0.011262	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	2017 apartment therapy
+34	20	0.011042	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	bigger
+35	1	0.016399	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+35	2	0.011575	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	interior
+35	3	0.010178	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	paint
+35	4	0.009806	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	painting
+35	5	0.00877	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	home
+35	6	0.008535	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	email address
+35	7	0.008477	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	paint color
+35	8	0.008475	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	interior walls
+35	9	0.00832	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	credit card account account profile
+35	10	0.007636	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	north east hindupur project completion
+35	11	0.007636	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	determine material events investors chairman
+35	12	0.007369	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	independent directors policies investors chairman
+35	13	0.007244	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	transactions risk management policy policy
+35	14	0.006988	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policyyour california privacy rightsterms
+35	15	0.00696	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	header links homeowners quick order
+35	16	0.006848	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	choosing interior colour schemes read
+35	17	0.00657	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	2016 home depot product authority
+35	18	0.006553	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	checkout continue shopping back shop
+35	19	0.006163	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	independent directors standard letter
+35	20	0.006163	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	independent directors familiarization program
+36	1	0.068357	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access denied access denied
+36	2	0.031643	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access
+36	3	0.010083	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	kategori utdanning lisens standard youtube
+36	4	0.009914	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	winter weather
+36	5	0.007557	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	neste servicemaster restore testimonials
+36	6	0.00715	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	american home shield website
+36	7	0.007045	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	long verbose error message
+36	8	0.006996	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+36	9	0.006843	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cold weather
+36	10	0.006821	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	facebook youtube twitter pinterest
+36	11	0.006668	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	time building sledding ramps
+36	12	0.006496	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	winter storm
+36	13	0.006427	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	home winter maintenance tips
+36	14	0.006413	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	norge begrenset innhold
+36	15	0.006413	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	emergency evacuation plan
+36	16	0.006232	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	aquarium tank ready
+36	17	0.006171	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	louisiana flood relief
+36	18	0.006036	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	carbon monoxide poisoning
+36	19	0.005869	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	bleach reopening healthcare facilities checklist
+36	20	0.005796	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	winter storm season
+37	1	0.058065	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	hurricane safety
+37	2	0.05	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	weather company
+37	3	0.019992	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	hurricane safety tips
+37	4	0.015322	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	report downed power lines
+37	5	0.015322	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	home meets building codes
+37	6	0.015176	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	evacuation routes
+37	7	0.013534	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	hurricane season
+37	8	0.011535	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	perishable foods
+37	9	0.011492	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	civil service bulletins
+37	10	0.011168	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	provide helpful information
+37	11	0.011168	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	local weather reports
+37	12	0.010963	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	downed power lines
+37	13	0.010346	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy
+37	14	0.010326	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	hurricane strikes
+37	15	0.010032	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	tropical storm
+37	16	0.00948	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	optical illusions weather experiments
+37	17	0.009326	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	tropical storms
+37	18	0.009319	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	permanent storm shutters offer
+37	19	0.009185	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	weather folklore weather words
+37	20	0.009099	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	bottled water
+38	1	0.136714	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access denied access denied
+38	2	0.063286	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access
+38	3	0.009137	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	home improvements
+38	4	0.008709	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	remodeling start countdownnext start
+38	5	0.008708	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	curb appeal
+38	6	0.008433	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	long verbose error message
+38	7	0.008433	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	facebook youtube twitter pinterest
+38	8	0.008291	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	make kitchen cabinet doors
+38	9	0.008147	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	tight real estate market
+38	10	0.006896	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	make
+38	11	0.006711	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	uncertain stock market
+38	12	0.006711	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	real estate pictures
+38	13	0.006695	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	good shape
+38	14	0.006674	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+38	15	0.006532	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	surviving communal bathrooms
+38	16	0.006532	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	lasting building materials
+38	17	0.006532	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	housing bubble burst
+38	18	0.006532	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	hang wallpaper border
+38	19	0.006532	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	favorite android device
+38	20	0.006532	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	activated screwdrivers work
+39	1	0.3	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	technical presentation skills training
+39	2	0.00919	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	visual aids
+39	3	0.008712	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	presentations
+39	4	0.007633	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+39	5	0.007104	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	main points
+39	6	0.006778	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	faqs teaching resources presentation glossary
+39	7	0.006214	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wendy russell presentation software expert
+39	8	0.005917	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	valid email address
+39	9	0.005887	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	good idea
+39	10	0.005846	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	creating successful presentations presentation tips
+39	11	0.005793	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	evidence approach home tutorial presenting
+39	12	0.005468	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	transitions business presentations tips
+39	13	0.005234	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	shanghai jiao tong university
+39	14	0.005014	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	body language
+39	15	0.004954	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	graduating class received full scholarships
+39	16	0.004932	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	newslatest newsnews articles stay informed
+39	17	0.004873	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	penn state university park
+39	18	0.004871	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	presentation skills checklists file type
+39	19	0.004532	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	good salespeople today treat
+39	20	0.004432	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	effective presentation
+40	1	0.034026	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	morocco mozambique myanmar namibia
+40	2	0.02552	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	ihre geografische lage
+40	3	0.019021	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	erweiterte suche
+40	4	0.017013	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	netherlands trinidad
+40	5	0.015687	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	route planner hotel deals legal
+40	6	0.015531	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	united republic
+40	7	0.011258	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	emotional whiplashdavid poguetrending techa smartwatch
+40	8	0.009621	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	friendly fccdavid poguetrending techditch
+40	9	0.009607	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	prefer mapquest classic
+40	10	0.009547	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	explain qualcomm lawsuitdaniel howleyprivacy
+40	11	0.009547	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	brokeyahoo financetrending techrock band
+40	12	0.009512	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	microsoft worldwide sitestry microsoft edge
+40	13	0.009472	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	view route directions
+40	14	0.009336	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	providing customized content
+40	15	0.009244	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	chromebook yetdaniel howleyamazon echopogue
+40	16	0.009057	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	mapquest mapquest search
+40	17	0.009057	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	including collecting information
+40	18	0.008092	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	solutions provider volume licensing
+40	19	0.007978	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	windows phones microsoft hololens
+40	20	0.00795	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+41	1	0.037191	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	constantly changing demands
+41	2	0.026883	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	capital gains
+41	3	0.026506	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	investment portfolio
+41	4	0.024794	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	alternative form
+41	5	0.024415	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	necessarily lead
+41	6	0.02407	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	small part
+41	7	0.015705	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	norge begrenset innhold
+41	8	0.015072	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	successful artists tend
+41	9	0.012693	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	takes intimate involvement
+41	10	0.012571	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	investment
+41	11	0.012504	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	fine auction houses
+41	12	0.012076	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	trusted auction houses
+41	13	0.01204	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	financial investment firms
+41	14	0.012009	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	hard time parting
+41	15	0.011673	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	seek good advice
+41	16	0.011228	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	good investment advice
+41	17	0.010982	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	critique artwork
+41	18	0.010577	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	investment purposes
+41	19	0.010551	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	feel confident
+41	20	0.01047	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	viewing youtube
+42	1	0.025524	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	human rights
+42	2	0.010178	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights
+42	3	0.008063	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	human rights defenders
+42	4	0.007278	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	united nations
+42	5	0.006896	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	protect human rights
+42	6	0.006781	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	title amnesty index number date
+42	7	0.006559	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	local issues local issues find
+42	8	0.006287	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	independent lgbtq youth addressing anti
+42	9	0.006058	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	amnesty international
+42	10	0.005934	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	middle east
+42	11	0.005869	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	updates shop donate explore topics
+42	12	0.005775	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	united states
+42	13	0.005656	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	torture prison saydnaya prison
+42	14	0.005656	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	syrian state quietly slaughters
+42	15	0.005656	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	suspend copper mine linked
+42	16	0.005656	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	historic ruling blocks closure
+42	17	0.005591	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	persons requesting legal services requests
+42	18	0.005413	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	human rights system sexual harassment
+42	19	0.00534	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	popular newest oldest filter
+42	20	0.00533	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	blog 2017 state legislature adoption
+43	1	0.015213	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	choice search primary menu skip
+43	2	0.014756	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	single mothers
+43	3	0.014251	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	lively online private discussion forum
+43	4	0.013793	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	single parents
+43	5	0.013371	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	frequently asked questions philosophy
+43	6	0.012064	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	single mother
+43	7	0.011783	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	login email address password forgotten
+43	8	0.011714	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	learning employing people environment
+43	9	0.011282	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	single parent
+43	10	0.010175	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	spent weeks explaining
+43	11	0.009665	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	universal credit contact arrangements answers
+43	12	0.009638	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	username password remember
+43	13	0.009609	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	content home thinking
+43	14	0.009544	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	provide expert advice
+43	15	0.009435	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	eliza quickly pointed
+43	16	0.008913	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wrong send services
+43	17	0.008913	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	wasanaethau cymraeg built
+43	18	0.008913	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	national insurance number
+43	19	0.008913	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	local services money
+43	20	0.008913	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	credit card details
+44	1	0.015949	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	family member
+44	2	0.014893	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+44	3	0.011027	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy questions
+44	4	0.011027	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	brute force attempts
+44	5	0.009696	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	sucuri website firewall
+44	6	0.009461	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access denied sucuri
+44	7	0.008401	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	resources symptom checker expert blogs
+44	8	0.008081	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	website firewall
+44	9	0.007866	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	family members
+44	10	0.007797	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access denied
+44	11	0.007734	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	visit https
+44	12	0.007633	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	depressed person
+44	13	0.007599	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	kids multiple myeloma hearing loss
+44	14	0.007578	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	block details
+44	15	0.007548	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	children diabetes diet safer sports
+44	16	0.007475	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	taking care
+44	17	0.007421	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	depressed family member
+44	18	0.007387	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	regular basis
+44	19	0.007369	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	doctor featured topics video learn
+44	20	0.007351	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	requested page
+45	1	0.028584	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	info menu back page
+45	2	0.022918	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	workforce solutions solutions
+45	3	0.021105	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+45	4	0.016993	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy
+45	5	0.015279	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	driven development
+45	6	0.014349	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	federal government website managed
+45	7	0.013772	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	found oops
+45	8	0.013688	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	community training center respond
+45	9	0.013622	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	mail city request unblock
+45	10	0.013437	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	specific groups prevent bullying
+45	11	0.013207	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	prevent cyberbullying report cyberbullying
+45	12	0.012052	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	middle school
+45	13	0.011334	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	power user moving
+45	14	0.010906	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	party browser plugin
+45	15	0.010781	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	high school
+45	16	0.008572	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	norge begrenset innhold
+45	17	0.008476	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	bullies movie scenes
+45	18	0.008229	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	reddit close text size
+45	19	0.008149	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	high school students
+45	20	0.008082	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	evil school bullies
+46	1	0.022986	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	foster care
+46	2	0.02216	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	adoptive parents
+46	3	0.021165	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy notice
+46	4	0.020888	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	licensed adoption agency
+46	5	0.020479	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	facilityprovide foster careadopt
+46	6	0.019405	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	california
+46	7	0.018275	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+46	8	0.017718	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	adoption
+46	9	0.01741	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	california adoption service providers
+46	10	0.017296	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy
+46	11	0.015501	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	frequently asked questions
+46	12	0.014909	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	adoption services including
+46	13	0.014473	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	adoptive families
+46	14	0.01433	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	california kids connection
+46	15	0.013906	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	fiscal newsgrants
+46	16	0.013906	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	appealssite mapself
+46	17	0.013906	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	alphabetic listforms
+46	18	0.012307	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	creative young women
+46	19	0.011842	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	licensed california fost
+46	20	0.011603	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	success stories meet
+47	1	0.082819	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	image continue shopping conditions
+47	2	0.061516	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	robot check enter
+47	3	0.043499	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	accepting cookies
+47	4	0.034389	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	image
+47	5	0.011827	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	autistic child
+47	6	0.00819	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	safety laundry detergent lotions organic
+47	7	0.007837	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	creams baby monitors baby sunscreen
+47	8	0.007734	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	search close search close join
+47	9	0.007679	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+47	10	0.007039	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	provide medical advice
+47	11	0.006652	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved privacy policy
+47	12	0.006652	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	california rights data policy
+47	13	0.00521	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	terms privacy contact
+47	14	0.00521	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	strong evidence points
+47	15	0.00521	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	responsible adults seek
+47	16	0.00521	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	iron clad answer
+47	17	0.00521	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	introduce high levels
+47	18	0.00521	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	evidence based info
+47	19	0.00521	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	display significant delays
+47	20	0.005165	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	doctor live online
+48	1	0.033446	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	iocmission statement basic textsstructure list
+48	2	0.027029	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	selected markets country profileslists
+48	3	0.027029	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	password recover password remember
+48	4	0.026083	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	international olive council english
+48	5	0.020272	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	computer spotlight receive
+48	6	0.017292	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	olive
+48	7	0.017117	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	olive oils
+48	8	0.013514	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	pomace oils
+48	9	0.013514	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cardiovascular diseases
+48	10	0.013514	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	antioxidant properties
+48	11	0.012443	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+48	12	0.011034	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	lists
+48	13	0.010322	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	campaign
+48	14	0.006819	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	based international olive council
+48	15	0.006466	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	affiliate product listing policy
+48	16	0.006396	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	exports
+48	17	0.006257	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	matching verified suppliers find
+48	18	0.005857	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	globally famous historical characters explore
+48	19	0.005646	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	globally famous historical characters
+48	20	0.005601	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	visualizations page economic complexity ranking
+49	1	0.022445	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	venture capital
+49	2	0.016831	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	works press careers blog support
+49	3	0.01454	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy
+49	4	0.013016	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+49	5	0.012811	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	contact raise member services
+49	6	0.010416	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	back guarantee learn
+49	7	0.00982	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	sell gift cards
+49	8	0.00982	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	redeeming gift cards
+49	9	0.009629	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	capital
+49	10	0.009613	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	registered trademarks belonging
+49	11	0.009444	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	raise venture capital
+49	12	0.009305	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	respective owners
+49	13	0.009144	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	venture capitalist
+49	14	0.008961	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	tobago tunisia turkey turkmenistan turks
+49	15	0.008726	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	venture capital firms
+49	16	0.007909	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	active venture capital firms worldwide
+49	17	0.007813	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	venture capitalists
+49	18	0.007764	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	gift cards
+49	19	0.007307	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	business plan
+49	20	0.007219	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	venture capital funds
+50	1	0.07438	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	norge begrenset innhold
+50	2	0.049587	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	viewing youtube
+50	3	0.049587	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	selskap hopp
+50	4	0.034309	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	amateur radio
+50	5	0.029773	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	privacy policy questions
+50	6	0.029773	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	brute force attempts
+50	7	0.026179	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	sucuri website firewall
+50	8	0.025544	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access denied sucuri
+50	9	0.022438	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	rights reserved
+50	10	0.021818	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	website firewall
+50	11	0.021053	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	access denied
+50	12	0.021016	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	contacting stations
+50	13	0.02046	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	block details
+50	14	0.019849	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	requested page
+50	15	0.019849	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	malware infections
+50	16	0.018567	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	visit https
+50	17	0.01766	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	site owner
+50	18	0.01516	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	cloudproxy
+50	19	0.014467	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	sucuri
+50	20	0.011943	p_q_given_q0_s_k_no_expansions-p_d_given_q0_s_uniform_for_all-p_s_WD	free radio enthusiast video

@@ -1,0 +1,1000 @@
+1	1	0.004521	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	half hour sessions
+1	2	0.004306	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	include extra tasks
+1	3	0.004282	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	schools provide planners
+1	4	0.004282	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	color coordinate notebooks
+1	5	0.004282	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	getting organized at work schools provide planners
+1	6	0.004034	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	accomplish small tasks
+1	7	0.00381	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	organize school work
+1	8	0.003461	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good night
+1	9	0.003461	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	getting organized at work good night
+1	10	0.003402	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stay focused
+1	11	0.003385	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	color coordinate
+1	12	0.003076	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	weekly tasks
+1	13	0.003076	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	divide tasks
+1	14	0.003076	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	consuming tasks
+1	15	0.003028	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	work easier
+1	16	0.003028	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	language arts
+1	17	0.003028	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	great alternatives
+1	18	0.003028	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good thing
+1	19	0.003028	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	getting organized at work language arts
+1	20	0.003028	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	getting organized at work great alternatives
+2	1	0.003081	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	typical traditional style vanity
+2	2	0.002977	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wide variety
+2	3	0.002977	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	choose bathroom wide variety
+2	4	0.002736	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	chrome finish coupled
+2	5	0.002736	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	access adjoining areas
+2	6	0.002736	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	chrome finish coupled bathroom
+2	7	0.002736	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bathroom chrome finish coupled
+2	8	0.002736	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	choose bathroom access adjoining areas
+2	9	0.002687	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bathroom vanity
+2	10	0.002495	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bathroom
+2	11	0.002493	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	custom bathroom vanity
+2	12	0.002493	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bathroom custom vanity
+2	13	0.002484	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	granite bathroom vanities
+2	14	0.002484	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bathroom granite vanities
+2	15	0.002469	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	contemporary style home
+2	16	0.002469	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	contemporary style home bathroom
+2	17	0.002469	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bathroom contemporary style home
+2	18	0.002408	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	modern bathroom vanity
+2	19	0.002408	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bathroom modern vanity
+2	20	0.002225	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bathroom cabinets
+3	1	0.05	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wedding budget chart sample
+3	2	0.010684	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wedding stressful additional resources
+3	3	0.010684	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stressful additional wedding resources
+3	4	0.008686	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	additional wedding resources
+3	5	0.008686	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	low wedding budget additional resources
+3	6	0.007036	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	save money
+3	7	0.007036	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wedding save money
+3	8	0.007036	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	save money wedding
+3	9	0.006428	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	small wedding
+3	10	0.006428	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	low wedding budget small
+3	11	0.005711	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	tips section
+3	12	0.005711	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	realistically afford
+3	13	0.005711	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	important thing
+3	14	0.005711	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	amazing outfits
+3	15	0.005711	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wedding tips section
+3	16	0.005711	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wedding amazing outfits
+3	17	0.005711	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	tips section wedding
+3	18	0.005711	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	amazing outfits wedding
+3	19	0.005711	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	low wedding budget realistically afford
+3	20	0.005711	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	low wedding budget important thing
+4	1	0.00638	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart rate resting
+4	2	0.006069	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart rate
+4	3	0.005512	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	resting heart rate
+4	4	0.004542	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	maximum heart rate
+4	5	0.004542	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart rate maximum
+4	6	0.003815	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lower heart rate monitor
+4	7	0.00371	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart rate reserve
+4	8	0.003229	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lower heart rate reserve
+4	9	0.003047	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart
+4	10	0.002867	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	target heart rate
+4	11	0.002867	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart rate target
+4	12	0.002845	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	resting heart rate average
+4	13	0.002845	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart rate resting average
+4	14	0.002845	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart rate average resting
+4	15	0.002845	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	average resting heart rate
+4	16	0.002554	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart beats
+4	17	0.002554	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lower heart rate beats
+4	18	0.002429	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	carotid artery
+4	19	0.002429	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart rate carotid artery
+4	20	0.002429	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	carotid artery heart rate
+5	1	0.004931	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cost starting packages
+5	2	0.004931	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	website cost starting packages
+5	3	0.004931	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cost starting packages website
+5	4	0.004827	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	create advertisement banners
+5	5	0.004827	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	website create advertisement banners
+5	6	0.004827	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	create advertisement banners website
+5	7	0.004283	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	website design
+5	8	0.004152	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	apache default serving document root
+5	9	0.004152	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	website apache default serving document root
+5	10	0.004152	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	apache default serving document root website
+5	11	0.003898	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	submission progress
+5	12	0.003898	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hosting package
+5	13	0.003898	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	website submission progress
+5	14	0.003898	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	website hosting package
+5	15	0.003898	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	submission progress website
+5	16	0.003898	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hosting package website
+5	17	0.003486	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	similar site
+5	18	0.003486	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	page header
+5	19	0.003486	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	frontpage office
+5	20	0.003486	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	website page header
+6	1	0.008545	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	suaves para terem bons resultados
+6	2	0.008545	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	suaves para terem bons resultados elliptical trainer
+6	3	0.008545	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	elliptical trainer suaves para terem bons resultados
+6	4	0.007144	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	melhor programa para iniciantes
+6	5	0.007144	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	melhor programa para iniciantes elliptical trainer
+6	6	0.007144	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	elliptical trainer melhor programa para iniciantes
+6	7	0.006041	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	deben inclinarse hacia adentro
+6	8	0.006041	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	elliptical trainer deben inclinarse hacia adentro
+6	9	0.006041	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	deben inclinarse hacia adentro elliptical trainer
+6	10	0.005542	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	intensidade deles usando
+6	11	0.005542	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	intensidade deles usando elliptical trainer
+6	12	0.005542	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	elliptical trainer intensidade deles usando
+6	13	0.004997	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	para muchas personas
+6	14	0.004997	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	para muchas personas elliptical trainer
+6	15	0.004997	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	elliptical trainer para muchas personas
+6	16	0.004916	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	ejercicio cardiovascular agotador
+6	17	0.004916	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	elliptical trainer ejercicio cardiovascular agotador
+6	18	0.004916	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	ejercicio cardiovascular agotador elliptical trainer
+6	19	0.004791	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	deben estar exactamente
+6	20	0.004791	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	elliptical trainer deben estar exactamente
+7	1	0.005147	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	safety restrictions sign
+7	2	0.005147	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	frighten smaller children
+7	3	0.005147	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	frighten smaller children disneyland paris
+7	4	0.005147	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	disneyland paris safety restrictions sign
+7	5	0.005147	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	disneyland paris frighten smaller children
+7	6	0.004626	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	books directly relating
+7	7	0.004402	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	simple personality test
+7	8	0.004402	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	simple personality test disneyland paris
+7	9	0.004402	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	disneyland paris simple personality test
+7	10	0.004334	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	inspired hidden mickey
+7	11	0.004334	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	inspired hidden mickey disneyland paris
+7	12	0.004334	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	disneyland paris inspired hidden mickey
+7	13	0.004288	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hidden mickeys gather
+7	14	0.004288	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hidden mickeys gather disneyland paris
+7	15	0.004288	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	disneyland paris hidden mickeys gather
+7	16	0.004205	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	disneyland employees belong
+7	17	0.004205	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	disneyland paris employees belong
+7	18	0.004205	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	disneyland employees belong paris
+7	19	0.003727	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	popular rides
+7	20	0.003727	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	disneyland paris popular rides
+8	1	0.005608	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	solar power panels
+8	2	0.005597	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	solar power cell
+8	3	0.00519	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	paste burned copper sheet
+8	4	0.00519	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	solar power paste burned copper sheet
+8	5	0.00519	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	paste burned copper sheet solar power
+8	6	0.005149	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	solar panels
+8	7	0.005149	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	solar panels power
+8	8	0.004854	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	solar cell
+8	9	0.004854	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	solar cell power
+8	10	0.004679	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	solar power
+8	11	0.004503	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	opposite direction paste
+8	12	0.004503	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	solar power opposite direction paste
+8	13	0.004503	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	opposite direction paste solar power
+8	14	0.004163	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	copper sheet touched
+8	15	0.004163	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	copper sheet completely
+8	16	0.004163	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	solar power copper sheet touched
+8	17	0.004163	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	solar power copper sheet completely
+8	18	0.004163	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	copper sheet touched solar power
+8	19	0.004163	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	copper sheet completely solar power
+8	20	0.004033	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	charge controller
+9	1	0.003267	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	special power equipment
+9	2	0.003267	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	larger flat rocks
+9	3	0.003267	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	build a fence special power equipment
+9	4	0.003267	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	build a fence larger flat rocks
+9	5	0.003104	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	move heavy stones
+9	6	0.003104	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	extraordinarily large stones
+9	7	0.003104	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	move heavy stones fence
+9	8	0.003104	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fence move heavy stones
+9	9	0.003104	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	build a fence extraordinarily large stones
+9	10	0.003022	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fence posts
+9	11	0.002712	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	post hole digger
+9	12	0.002712	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	post hole digger fence
+9	13	0.002712	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fence post hole digger
+9	14	0.002668	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	flagging tape
+9	15	0.002668	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	flagging tape fence
+9	16	0.002668	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fence flagging tape
+9	17	0.002212	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stones beneath
+9	18	0.002212	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	smaller stones
+9	19	0.002212	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	small stones
+9	20	0.002212	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stones beneath fence
+10	1	0.002368	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	larva fast saves
+10	2	0.002368	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	moths larva fast saves
+10	3	0.002368	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	larva fast saves moths
+10	4	0.002347	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	soapy water
+10	5	0.002347	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	soapy water moths
+10	6	0.002347	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	moths soapy water
+10	7	0.002311	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	moth larva casings
+10	8	0.002311	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	moths moth larva casings
+10	9	0.002311	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	moth larva casings moths
+10	10	0.002266	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	find moth activity
+10	11	0.002266	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	moths find moth activity
+10	12	0.002266	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	find moth activity moths
+10	13	0.002233	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	perfect house cleaner
+10	14	0.002233	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	perfect house cleaner moths
+10	15	0.002233	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	moths perfect house cleaner
+10	16	0.002172	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	spot moth damage
+10	17	0.002172	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	spot moth damage moths
+10	18	0.002172	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	moths spot moth damage
+10	19	0.002162	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	rugs professionally cleaned
+10	20	0.002162	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	rugs professionally cleaned moths
+11	1	0.004689	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cholesterol levels
+11	2	0.003689	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good cholesterol
+11	3	0.003689	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cholesterol good
+11	4	0.003652	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	exercise program
+11	5	0.003652	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	exercise program cholesterol
+11	6	0.003652	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cholesterol exercise program
+11	7	0.003644	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lose weight
+11	8	0.003644	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lose weight cholesterol
+11	9	0.003644	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cholesterol lose weight
+11	10	0.003344	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stay wide open
+11	11	0.003344	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stay wide open cholesterol
+11	12	0.003344	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cholesterol stay wide open
+11	13	0.00311	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	high cholesterol numbers
+11	14	0.00311	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cholesterol high numbers
+11	15	0.002904	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cholesterol level understand
+11	16	0.002788	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	density lipoprotein cholesterol
+11	17	0.002788	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cholesterol density lipoprotein
+11	18	0.002298	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	levels checked
+11	19	0.002298	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	levels change
+11	20	0.002266	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	density lipoprotein
+12	1	0.001537	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	school board examination result certificate
+12	2	0.0014	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	state bank
+12	3	0.0014	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	living in india state bank
+12	4	0.001393	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	specific language provided
+12	5	0.001362	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	quiet port town
+12	6	0.001362	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	abandoned army battleship
+12	7	0.001362	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	quiet port town india
+12	8	0.001362	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	india quiet port town
+12	9	0.001362	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	india abandoned army battleship
+12	10	0.001362	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	abandoned army battleship india
+12	11	0.001358	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	birth certificate
+12	12	0.001358	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	india birth certificate
+12	13	0.001358	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	birth certificate india
+12	14	0.001356	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	provide proof
+12	15	0.001356	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	provide proof india
+12	16	0.001356	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	india provide proof
+12	17	0.001285	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	climb high trees
+12	18	0.001285	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	india climb high trees
+12	19	0.001285	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	climb high trees india
+12	20	0.00127	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	indian government
+13	1	0.004443	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	raised garden
+13	2	0.004443	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	garden raised
+13	3	0.004128	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	garden raised beds
+13	4	0.003812	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bermuda grass
+13	5	0.003812	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	garden bermuda grass
+13	6	0.003812	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bermuda grass garden
+13	7	0.003583	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	side walls
+13	8	0.003583	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	side walls garden
+13	9	0.003583	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	garden side walls
+13	10	0.002938	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	growing plants
+13	11	0.002938	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	growing plants garden
+13	12	0.002938	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	garden growing plants
+13	13	0.002616	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	waste water
+13	14	0.002616	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	side wall
+13	15	0.002616	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	providing drainage
+13	16	0.002616	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	perforated hoses
+13	17	0.002616	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	marked edges
+13	18	0.002616	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	drip irrigation
+13	19	0.002616	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	corner posts
+13	20	0.002616	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	waste water garden
+14	1	0.003667	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	weight lose
+14	2	0.003667	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lose weight
+14	3	0.002905	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	weight gain
+14	4	0.002247	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	weight losing
+14	5	0.002247	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	losing weight
+14	6	0.001935	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	weight loss
+14	7	0.001592	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lose weight diet healthy
+14	8	0.001531	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	gain weight
+14	9	0.001043	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	white bread
+14	10	0.001043	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lose weight diet white bread
+14	11	0.001042	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	meal plan
+14	12	0.001042	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	weight meal plan
+14	13	0.001042	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	meal plan weight
+14	14	0.000995	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	empty calories
+14	15	0.000995	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	weight empty calories
+14	16	0.000995	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	empty calories weight
+14	17	0.000961	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart disease
+14	18	0.000961	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lose weight diet heart disease
+14	19	0.000957	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	weight
+14	20	0.000955	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good idea
+15	1	0.004199	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	money make
+15	2	0.004199	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	make money
+15	3	0.003703	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	money making
+15	4	0.003703	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	making money
+15	5	0.00267	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	websites making money dependently
+15	6	0.00267	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	money websites making dependently
+15	7	0.002497	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	websites making money independently
+15	8	0.002497	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	money websites making independently
+15	9	0.002315	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	volunteer vast amounts
+15	10	0.002315	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	volunteer vast amounts money
+15	11	0.002315	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	money volunteer vast amounts
+15	12	0.002228	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	information online forever
+15	13	0.002228	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	earn money online us information forever
+15	14	0.002163	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	scarcity helps make
+15	15	0.002163	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	scarcity helps make money
+15	16	0.002163	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	money scarcity helps make
+15	17	0.00197	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	making occasional videos directly related
+15	18	0.00197	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	money making occasional videos directly related
+15	19	0.00197	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	making occasional videos directly related money
+15	20	0.001968	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	offer genuinely reliable items
+16	1	0.05	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	home improvements
+16	2	0.05	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	home improvements asbestos
+16	3	0.05	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	asbestos home improvements
+16	4	0.0032	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	private property laws vary
+16	5	0.003147	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	avoid breaking local laws
+16	6	0.003147	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	avoid breaking local laws asbestos
+16	7	0.003147	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	asbestos avoid breaking local laws
+16	8	0.002518	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	avoid unfounded accusations
+16	9	0.002518	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	avoid unfounded accusations asbestos
+16	10	0.002518	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	asbestos avoid unfounded accusations
+16	11	0.002451	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	police report filed
+16	12	0.002451	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	police report filed asbestos
+16	13	0.002451	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	asbestos police report filed
+16	14	0.002347	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	unmentioned structures show
+16	15	0.002347	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	unmentioned structures show asbestos
+16	16	0.002347	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	asbestos unmentioned structures show
+16	17	0.002083	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	find structure locations
+16	18	0.002083	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	explore abandoned structures
+16	19	0.002083	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	find structure locations asbestos
+16	20	0.002083	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	explore abandoned structures asbestos
+17	1	0.002883	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good impression
+17	2	0.002883	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	prepare for job interview good impression
+17	3	0.002354	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	job interview administrative assistant
+17	4	0.00235	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good idea
+17	5	0.00235	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	prepare for job interview good idea
+17	6	0.00228	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	answer questions
+17	7	0.00228	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	job interview answer questions
+17	8	0.00228	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	answer questions job interview
+17	9	0.0018	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	thick gold chains
+17	10	0.0018	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	thick gold chains job interview
+17	11	0.0018	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	job interview thick gold chains
+17	12	0.001791	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	common administrative assistant interview questions
+17	13	0.001749	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	breath mints handy
+17	14	0.001749	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	job interview breath mints handy
+17	15	0.001749	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	breath mints handy job interview
+17	16	0.001697	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sweaty hands result
+17	17	0.001697	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	depth technical knowledge
+17	18	0.001697	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sweaty hands result job interview
+17	19	0.001697	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	job interview sweaty hands result
+17	20	0.001697	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	job interview depth technical knowledge
+18	1	0.002933	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	central rising point
+18	2	0.002933	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sit and reach test at home central rising point
+18	3	0.002648	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	abdominal muscles gently
+18	4	0.002495	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	comfortable position
+18	5	0.002495	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sit and reach test at home comfortable position
+18	6	0.002215	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stool sample ahead
+18	7	0.002186	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	abdominal muscles
+18	8	0.002142	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	reach test
+18	9	0.002035	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	gently lift
+18	10	0.002035	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	gently contracting
+18	11	0.002035	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sit and reach test at home gently lift
+18	12	0.001955	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	strength increases
+18	13	0.001955	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	slightly elevated
+18	14	0.001955	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	shoulder blades
+18	15	0.001955	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	reverse crunches
+18	16	0.001955	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	opposing shoulders
+18	17	0.001955	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	minimize strain
+18	18	0.001955	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lower abdominals
+18	19	0.001955	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lose weight
+18	20	0.001955	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	degree angle
+19	1	0.00337	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	atypical squamous cells
+19	2	0.003016	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	squamous cell cancer
+19	3	0.003016	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	squamous-cell carcinoma squamous cell cancer
+19	4	0.003016	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	squamous cell cancer squamous-cell carcinoma
+19	5	0.002395	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	green eyes fair complexion family
+19	6	0.002357	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	basal cell carcinoma
+19	7	0.002357	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	squamous-cell carcinoma basal cell
+19	8	0.002357	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	basal cell carcinoma squamous-cell
+19	9	0.002323	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	taking birth control pills
+19	10	0.002323	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	taking birth control pills squamous-cell carcinoma
+19	11	0.002323	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	squamous-cell carcinoma taking birth control pills
+19	12	0.002268	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	squamous intraepithelial lesion refers
+19	13	0.002268	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	squamous-cell carcinoma squamous intraepithelial lesion refers
+19	14	0.002268	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	squamous intraepithelial lesion refers squamous-cell carcinoma
+19	15	0.00215	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	loop electrosurgical excision procedure
+19	16	0.00215	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	squamous-cell carcinoma loop electrosurgical excision procedure
+19	17	0.00215	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	loop electrosurgical excision procedure squamous-cell carcinoma
+19	18	0.002142	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cervical cancer
+19	19	0.002142	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	atypical squamous cells cervical cancer
+19	20	0.002099	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	rarely spreads squamous cell carcinoma
+20	1	0.006438	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	spider bite brown recluse
+20	2	0.004852	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	spider bite
+20	3	0.004772	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	brown recluse spider bite
+20	4	0.004078	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	spider bites black widow
+20	5	0.003375	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	brown recluse spiders
+20	6	0.003375	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	spider bite brown recluse spiders
+20	7	0.003375	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	brown recluse spiders spider bite
+20	8	0.003246	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	plant material entwined
+20	9	0.002996	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	large fangs venomous
+20	10	0.002888	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	baboon spiders vary
+20	11	0.002888	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	spider bite baboon spiders vary
+20	12	0.002888	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	baboon spiders vary spider bite
+20	13	0.002866	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	united states
+20	14	0.002866	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	united states spider bite
+20	15	0.002866	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	spider bite united states
+20	16	0.002786	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bite area
+20	17	0.002786	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	spider bite area
+20	18	0.002786	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bite area spider
+20	19	0.002759	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	watch prey approach
+20	20	0.002759	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	watch prey approach spider bite
+21	1	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	writer
+21	2	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	window
+21	3	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wilderness
+21	4	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	west
+21	5	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	visitors
+21	6	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	villa
+21	7	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	view
+21	8	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	videos
+21	9	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	venable
+21	10	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	valley
+21	11	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	vail
+21	12	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	vacation
+21	13	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	twhp
+21	14	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	trip
+21	15	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	trek
+21	16	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	travel
+21	17	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	trails
+21	18	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	trailhead
+21	19	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	trail
+21	20	0.0	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	town
+22	1	0.002459	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	growing season
+22	2	0.002459	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	growing season flowering plant
+22	3	0.002459	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	flowering plant growing season
+22	4	0.002319	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	light brown papery skin
+22	5	0.002319	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	light brown papery skin flowering plant
+22	6	0.002319	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	flowering plant light brown papery skin
+22	7	0.002174	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	southern hemisphere
+22	8	0.002174	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	northern hemisphere
+22	9	0.002174	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	southern hemisphere flowering plant
+22	10	0.002174	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	northern hemisphere flowering plant
+22	11	0.002174	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	flowering plant southern hemisphere
+22	12	0.002174	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	flowering plant northern hemisphere
+22	13	0.001824	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	late summer
+22	14	0.001824	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	late summer flowering plant
+22	15	0.001824	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	flowering plant late summer
+22	16	0.001796	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	thorny bush branches
+22	17	0.001796	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	thorny bush branches flowering plant
+22	18	0.001796	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	flowering plant thorny bush branches
+22	19	0.001694	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sprinkle kitty litter
+22	20	0.001694	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sprinkle kitty litter flowering plant
+23	1	0.006038	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	viene bajo varios nombres
+23	2	0.006038	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	viene bajo varios nombres altitude sickness
+23	3	0.006038	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	altitude sickness viene bajo varios nombres
+23	4	0.005924	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	date tiempo para adecuarte
+23	5	0.005682	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	toma cualquier medicamento normal
+23	6	0.005682	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	toma cualquier medicamento normal altitude sickness
+23	7	0.005682	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	altitude sickness toma cualquier medicamento normal
+23	8	0.005394	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	high altitude sickness
+23	9	0.005394	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	altitude sickness high
+23	10	0.005044	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	vuelo puede ayudarte
+23	11	0.005044	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	vuelo puede ayudarte altitude sickness
+23	12	0.005044	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	altitude sickness vuelo puede ayudarte
+23	13	0.004987	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	ellas puede ayudarte
+23	14	0.004987	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	ellas puede ayudarte altitude sickness
+23	15	0.004987	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	altitude sickness ellas puede ayudarte
+23	16	0.004838	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	high altitude
+23	17	0.004628	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	taxi para dirigirte
+23	18	0.004628	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	taxi para dirigirte altitude sickness
+23	19	0.004628	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	altitude sickness taxi para dirigirte
+23	20	0.004134	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	desfase horario
+24	1	0.00301	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	septic system
+24	2	0.002857	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	perforated drain pipe connected
+24	3	0.002686	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	septic tank
+24	4	0.002686	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	septic system options tank
+24	5	0.002389	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	water borne organisms
+24	6	0.002389	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	septic system options water borne organisms
+24	7	0.002362	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	small septic system
+24	8	0.002362	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	incoming waste line
+24	9	0.002362	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	septic system options small
+24	10	0.002259	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	septic tanks resemble
+24	11	0.002227	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	perpendicular line drawn
+24	12	0.002227	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	larger capacity tank
+24	13	0.002227	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	septic system options larger capacity tank
+24	14	0.002191	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	drain pipes
+24	15	0.002075	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	upper drum opposite
+24	16	0.00204	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	ground storage tanks
+24	17	0.002017	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	toilet flange pipe
+24	18	0.001974	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	remaining trench area
+24	19	0.001951	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	level shows level
+24	20	0.001941	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	designed specifically
+25	1	0.004018	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	customer service number written
+25	2	0.003169	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	tightly wound purse strap
+25	3	0.002929	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	card stolen immediately
+25	4	0.002929	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	card stolen immediately barbados
+25	5	0.002929	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	barbados card stolen immediately
+25	6	0.002841	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lightly populated area
+25	7	0.002841	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	barbados holidays lightly populated area
+25	8	0.002584	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	prevent purse snatching
+25	9	0.002584	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	prevent purse snatching barbados
+25	10	0.002584	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	barbados prevent purse snatching
+25	11	0.002131	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	credit card
+25	12	0.002131	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	barbados holidays credit card
+25	13	0.002102	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	rocking nightlife awaits visitors
+25	14	0.002102	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	rocking nightlife awaits visitors barbados
+25	15	0.002102	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	barbados rocking nightlife awaits visitors
+25	16	0.002009	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	tucked safely
+25	17	0.002009	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	shiny object
+25	18	0.002009	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lurking someplace
+25	19	0.002009	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hard yank
+25	20	0.002009	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	credit cards
+26	1	0.003285	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart attack
+26	2	0.002183	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart attacks
+26	3	0.002183	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	first aid heart attack attacks
+26	4	0.00208	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	first aid heart attack common symptoms
+26	5	0.001796	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart
+26	6	0.001766	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	common symptom
+26	7	0.001766	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	first aid heart attack common symptom
+26	8	0.001578	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	common symptoms
+26	9	0.001569	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	chest pain
+26	10	0.001569	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart attack chest pain
+26	11	0.001569	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	chest pain heart attack
+26	12	0.00155	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pain
+26	13	0.00155	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pain heart attack
+26	14	0.00155	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart attack pain
+26	15	0.001549	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart problems
+26	16	0.001549	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	first aid heart attack problems
+26	17	0.001465	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	permanent brain damage
+26	18	0.001465	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	permanent brain damage heart attack
+26	19	0.001465	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	heart attack permanent brain damage
+26	20	0.001453	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cold sweats
+27	1	0.001954	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	long term care insurance canada health
+27	2	0.001685	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	house sitting agencies arrange services
+27	3	0.001486	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	house sitting position versus
+27	4	0.001452	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	insurance
+27	5	0.001425	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	trusted house sitters provide
+27	6	0.001425	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	trusted house sitters provide long-term care insurance
+27	7	0.001425	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	long-term care insurance trusted house sitters provide
+27	8	0.001367	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	long term care insurance canada health coverage
+27	9	0.001213	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fair daily wage
+27	10	0.001213	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	long-term care insurance fair daily wage
+27	11	0.001213	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fair daily wage long-term care insurance
+27	12	0.001208	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	simple house chores
+27	13	0.001208	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	simple house chores long-term care insurance
+27	14	0.001208	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	long-term care insurance simple house chores
+27	15	0.001183	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	house sitters america
+27	16	0.001163	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fair hourly wage
+27	17	0.001163	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	long-term care insurance fair hourly wage
+27	18	0.001163	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fair hourly wage long-term care insurance
+27	19	0.001131	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	house sitter promptly
+27	20	0.001131	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	house sitter databases
+28	1	0.006737	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	high heat
+28	2	0.006737	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pork tenderloin high heat
+28	3	0.006737	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	high heat pork tenderloin
+28	4	0.005522	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pork tenderloin
+28	5	0.004485	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pork tenderloin roast
+28	6	0.004416	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pork loin
+28	7	0.004416	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pork tenderloin loin
+28	8	0.004416	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pork loin tenderloin
+28	9	0.003928	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	aluminum foil
+28	10	0.003928	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pork tenderloin aluminum foil
+28	11	0.003928	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	aluminum foil pork tenderloin
+28	12	0.003453	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	dijon mustard mixed
+28	13	0.003453	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pork tenderloin dijon mustard mixed
+28	14	0.003453	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	dijon mustard mixed pork tenderloin
+28	15	0.003429	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	garlic powder
+28	16	0.003429	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pork tenderloin garlic powder
+28	17	0.003429	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	garlic powder pork tenderloin
+28	18	0.003338	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	medium heat
+28	19	0.003338	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pork tenderloin medium heat
+28	20	0.003338	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	medium heat pork tenderloin
+29	1	0.00253	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	seller reach acceptable terms
+29	2	0.002309	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	real estate attorney draw
+29	3	0.002102	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	real estate attorney
+29	4	0.002102	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	buy condo in florida real estate attorney
+29	5	0.002066	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	real estate sections
+29	6	0.002066	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	real estate magazines
+29	7	0.002066	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	buy condo in florida real estate sections
+29	8	0.002066	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	buy condo in florida real estate magazines
+29	9	0.002028	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	numbers listed directly
+29	10	0.001971	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	comparative market analysis
+29	11	0.001952	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	real estate websites
+29	12	0.001952	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	buy condo in florida real estate websites
+29	13	0.001912	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	perform searches based
+29	14	0.001912	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	paying full cash
+29	15	0.001852	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	online classifieds sites
+29	16	0.001434	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	online search
+29	17	0.001434	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	current market
+29	18	0.001434	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	buy condo in florida current market
+29	19	0.001352	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	secure financing
+29	20	0.001352	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sales contract
+30	1	0.004214	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	medical information private
+30	2	0.003716	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hard time understanding
+30	3	0.003704	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lupus patients generally
+30	4	0.003704	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lupus patients generally fibromyalgia
+30	5	0.003704	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fibromyalgia lupus patients generally
+30	6	0.003581	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	difficult time understanding
+30	7	0.002809	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wear sunscreen
+30	8	0.002809	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	support group
+30	9	0.002809	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	real life
+30	10	0.002809	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lifestyle change
+30	11	0.002809	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	internet based
+30	12	0.002809	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good website
+30	13	0.002809	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wear sunscreen fibromyalgia
+30	14	0.002809	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	support group fibromyalgia
+30	15	0.002809	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lifestyle change fibromyalgia
+30	16	0.002809	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	internet based fibromyalgia
+30	17	0.002809	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good website fibromyalgia
+30	18	0.002809	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fibromyalgia wear sunscreen
+30	19	0.002809	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fibromyalgia support group
+30	20	0.002809	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fibromyalgia lifestyle change
+31	1	0.005429	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	additional wedding resources
+31	2	0.005429	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	organize wedding additional resources
+31	3	0.003994	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	visit multiple vendors
+31	4	0.003994	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wedding visit multiple vendors
+31	5	0.003994	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	visit multiple vendors wedding
+31	6	0.003766	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wedding planning consume
+31	7	0.003615	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bridal party shots typically
+31	8	0.003615	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wedding bridal party shots typically
+31	9	0.003615	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bridal party shots typically wedding
+31	10	0.003542	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	large mixing bowl half full
+31	11	0.003395	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wedding planning notebook
+31	12	0.003168	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	toilet paper bridal shower games
+31	13	0.003168	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wedding toilet paper bridal shower games
+31	14	0.003168	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	toilet paper bridal shower games wedding
+31	15	0.003059	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	original file intact
+31	16	0.003059	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wedding original file intact
+31	17	0.003059	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	original file intact wedding
+31	18	0.002948	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	average size album
+31	19	0.002948	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wedding average size album
+31	20	0.002948	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	average size album wedding
+32	1	0.01052	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	arduino program window upload
+32	2	0.01052	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	motion detection arduino program window upload
+32	3	0.01052	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	arduino program window upload motion detection
+32	4	0.009307	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	correct board type
+32	5	0.009307	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	motion detection correct board type
+32	6	0.009307	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	correct board type motion detection
+32	7	0.009202	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	motion detection infrared sensor
+32	8	0.009142	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	align garage door sensors
+32	9	0.009142	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	motion detection align garage door sensors
+32	10	0.009142	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	align garage door sensors motion detection
+32	11	0.008961	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	garage door sensor downward
+32	12	0.008961	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	motion detection garage door sensor downward
+32	13	0.008961	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	garage door sensor downward motion detection
+32	14	0.007909	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	infrared motion sensor
+32	15	0.007909	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	infrared motion sensor detection
+32	16	0.007518	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	garage door sensors
+32	17	0.007518	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	motion detection garage door sensors
+32	18	0.007518	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	garage door sensors motion detection
+32	19	0.007509	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	mounting bracket upward
+32	20	0.007509	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	mounting bracket upward motion detection
+33	1	0.006341	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	board lays flat
+33	2	0.005387	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	utility knife
+33	3	0.005387	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	how to tell if roof needs be repaired utility knife
+33	4	0.004531	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	prevent water
+33	5	0.004531	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	damaged tiles
+33	6	0.004531	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	damaged section
+33	7	0.004531	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	roof repair prevent water
+33	8	0.004531	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	roof repair damaged tiles
+33	9	0.004531	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	roof repair damaged section
+33	10	0.004531	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	prevent water roof repair
+33	11	0.004531	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	damaged tiles roof repair
+33	12	0.004531	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	damaged section roof repair
+33	13	0.004436	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wrapped board
+33	14	0.004436	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fourth board
+33	15	0.004436	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wrapped board roof repair
+33	16	0.004436	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	roof repair wrapped board
+33	17	0.004436	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	how to tell if roof needs be repaired fourth board
+33	18	0.004339	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	rolled side
+33	19	0.004339	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	folded side
+33	20	0.004339	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	roof repair rolled side
+34	1	0.007932	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	purchase curtain rods
+34	2	0.007932	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	purchase curtain rods apartment
+34	3	0.007932	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	apartment purchase curtain rods
+34	4	0.007845	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	open curtains resting
+34	5	0.007845	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	open curtains resting apartment
+34	6	0.007845	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	apartment open curtains resting
+34	7	0.006188	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	curtain rods
+34	8	0.006188	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	curtain rods apartment
+34	9	0.006188	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	apartment curtain rods
+34	10	0.006077	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	open curtains
+34	11	0.006077	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	open curtains apartment
+34	12	0.006077	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	apartment open curtains
+34	13	0.005885	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	window frame
+34	14	0.005885	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	window frame apartment
+34	15	0.005885	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	apartment window frame
+34	16	0.00587	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	make a small apartment look larger window
+34	17	0.005729	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	effect immediately
+34	18	0.005435	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	small window
+34	19	0.005359	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wall making
+34	20	0.005359	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wall making apartment
+35	1	0.005238	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wear full cover work suits
+35	2	0.005238	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wear full cover work suits wall
+35	3	0.005238	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wall wear full cover work suits
+35	4	0.004666	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	safely remove lead based paint
+35	5	0.003908	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wall base color
+35	6	0.003384	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	home improvement stores
+35	7	0.003384	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wall home improvement stores
+35	8	0.003384	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	home improvement stores wall
+35	9	0.003276	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	local hardware store
+35	10	0.003276	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hepa filtered mask
+35	11	0.003276	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wall hepa filtered mask
+35	12	0.003276	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hepa filtered mask wall
+35	13	0.003276	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	paint home interiror walls local hardware store
+35	14	0.002991	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	clear plastic coverings
+35	15	0.002991	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wall clear plastic coverings
+35	16	0.002991	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	clear plastic coverings wall
+35	17	0.002561	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	helping remove
+35	18	0.002561	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wall helping remove
+35	19	0.002561	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	helping remove wall
+35	20	0.002442	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	lead disposal
+36	1	0.002235	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	experts suggest lighter ointments
+36	2	0.00216	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	broken skin invites infection
+36	3	0.002	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	canned fruit canned meats
+36	4	0.001973	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stiff bristle brush
+36	5	0.001973	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sloping cement shoulders
+36	6	0.001946	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	flammable liquid tightly sealed
+36	7	0.001932	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	reinforced foam attaches easily
+36	8	0.001917	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	clear soot stains
+36	9	0.001911	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	battery operated radio foodstuffs
+36	10	0.00186	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	wood burning fireplace
+36	11	0.00183	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	cell phone
+36	12	0.001775	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	family member
+36	13	0.001775	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	prepare home for winter family member
+36	14	0.001712	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	harsh elements makes
+36	15	0.001695	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	remove excess clothing
+36	16	0.001694	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	propane operated camping stove
+36	17	0.001692	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	seal oddly shaped cracks
+36	18	0.001691	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	chimney swept annually
+36	19	0.001541	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	battery operated lamp
+36	20	0.0015	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	shredded beef cereals
+37	1	0.003257	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	severe weather
+37	2	0.003257	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	severe weather hurricane
+37	3	0.003257	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hurricane severe weather
+37	4	0.002942	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	nearby parking garage
+37	5	0.002942	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hailstorms kill hundreds
+37	6	0.002942	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	nearby parking garage hurricane
+37	7	0.002942	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hurricane nearby parking garage
+37	8	0.002942	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hurricane hailstorms kill hundreds
+37	9	0.002942	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hailstorms kill hundreds hurricane
+37	10	0.002791	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	extremely dangerous
+37	11	0.002277	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	affect incoming supply routes
+37	12	0.002277	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hurricane affect incoming supply routes
+37	13	0.002277	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	affect incoming supply routes hurricane
+37	14	0.002117	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	weather channel
+37	15	0.002117	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	weather channel hurricane
+37	16	0.002117	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	hurricane weather channel
+37	17	0.001961	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stay undercover
+37	18	0.001961	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sided structures
+37	19	0.001961	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	shelter indoors
+37	20	0.001961	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	respective shelters
+38	1	0.003692	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	update malfunctioning appliances
+38	2	0.003692	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good housing market
+38	3	0.003692	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	complete needed repairs
+38	4	0.003692	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	add value to home for sale good housing market
+38	5	0.003623	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	scheduled monthly payments
+38	6	0.003333	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	make extra payments
+38	7	0.002842	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	extra payments
+38	8	0.002562	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	mortgage payment
+38	9	0.002562	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	current payment
+38	10	0.002562	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	add value to home for sale mortgage payment
+38	11	0.002562	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	add value to home for sale current payment
+38	12	0.002461	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	increase equity
+38	13	0.002461	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	focus attention
+38	14	0.002461	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	family rooms
+38	15	0.002461	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	extravagant improvements
+38	16	0.002461	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	curb appeal
+38	17	0.002461	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	choose simple
+38	18	0.002461	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	bathroom remodels
+38	19	0.002461	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	add value to home for sale family rooms
+38	20	0.002391	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	home improvements
+39	1	0.006809	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	visual aids presentation
+39	2	0.006809	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	presentation visual aids
+39	3	0.005329	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	visual aids
+39	4	0.004351	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	internet connection computer microphone software
+39	5	0.004351	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	presentation internet connection computer microphone software
+39	6	0.004351	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	internet connection computer microphone software presentation
+39	7	0.003614	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	important points
+39	8	0.003614	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	deliver effective tech presentations important points
+39	9	0.003602	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	seminar location early
+39	10	0.003602	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	seminar location early presentation
+39	11	0.003602	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	presentation seminar location early
+39	12	0.003486	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	feel comfortable
+39	13	0.003486	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	presentation feel comfortable
+39	14	0.003486	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	feel comfortable presentation
+39	15	0.003479	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	important business seminar
+39	16	0.003479	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	deliver effective tech presentations important business seminar
+39	17	0.002639	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	positive note
+39	18	0.002639	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	overhead slide
+39	19	0.002639	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	overhead projector
+39	20	0.002639	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	interactive model
+40	1	0.007648	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	future management processes
+40	2	0.007648	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	future management processes business
+40	3	0.007648	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	business future management processes
+40	4	0.00721	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	store client data
+40	5	0.00721	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	store client data business
+40	6	0.00721	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	business store client data
+40	7	0.005098	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	software architecture
+40	8	0.005098	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	remotely hosted
+40	9	0.005098	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	operational details
+40	10	0.005098	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	important aspect
+40	11	0.005098	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	call centers
+40	12	0.005098	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	operational details business
+40	13	0.005098	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	call centers business
+40	14	0.005098	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	business operational details
+40	15	0.005098	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	business call centers
+40	16	0.005098	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	where to locate tech business in europe software architecture
+40	17	0.005098	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	where to locate tech business in europe important aspect
+40	18	0.004881	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	final decision
+40	19	0.004881	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	where to locate tech business in europe final decision
+40	20	0.004769	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	existing facilities
+41	1	0.001499	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	include light board
+41	2	0.001499	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	investor include light board
+41	3	0.001499	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	include light board investor
+41	4	0.001484	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	great communication skills
+41	5	0.001484	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	how to become an art investor great communication skills
+41	6	0.001397	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	house management crew
+41	7	0.001397	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	how to become an art investor house management crew
+41	8	0.001353	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	takes intimate involvement
+41	9	0.001353	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	takes intimate involvement investor
+41	10	0.001353	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	investor takes intimate involvement
+41	11	0.00135	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	single crew member
+41	12	0.00135	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	how to become an art investor single crew member
+41	13	0.001343	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stage manager include
+41	14	0.001343	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stage manager include investor
+41	15	0.001343	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	investor stage manager include
+41	16	0.001326	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fine auction houses
+41	17	0.001326	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	investor fine auction houses
+41	18	0.001326	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	fine auction houses investor
+41	19	0.001294	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	artistic movement called cubism
+41	20	0.001287	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	trusted auction houses
+42	1	0.052965	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	human rights
+42	2	0.002249	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	human rights include
+42	3	0.002025	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	charitable lead trust
+42	4	0.002025	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	human rights charitable lead trust
+42	5	0.002025	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	charitable lead trust human rights
+42	6	0.001984	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	estate planning attorney
+42	7	0.001984	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	support human rights estate planning attorney
+42	8	0.001978	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	credit card
+42	9	0.001978	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	support human rights credit card
+42	10	0.001963	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	human rights include conventions dealing
+42	11	0.001615	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	protect human rights
+42	12	0.001615	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	human rights protect
+42	13	0.001561	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	charitable trust
+42	14	0.001561	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	support human rights charitable trust
+42	15	0.00156	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	time donation
+42	16	0.00156	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	support human rights time donation
+42	17	0.001524	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	estate plan
+42	18	0.001524	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	support human rights estate plan
+42	19	0.001524	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	human rights abuses
+42	20	0.001509	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	trust pays
+43	1	0.002742	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	single parent
+43	2	0.002742	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	single mother in the uk parent
+43	3	0.002326	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	family member
+43	4	0.002326	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	single mother in the uk family member
+43	5	0.00193	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	make healthy decisions care
+43	6	0.00193	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	single parent make healthy decisions care
+43	7	0.00193	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	make healthy decisions care single parent
+43	8	0.001866	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sound mind
+43	9	0.001866	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	sound mind single parent
+43	10	0.001866	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	single parent sound mind
+43	11	0.00178	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	make friends arrange play dates
+43	12	0.00178	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	single parent make friends arrange play dates
+43	13	0.00178	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	make friends arrange play dates single parent
+43	14	0.001712	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	child
+43	15	0.001712	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	single parent child
+43	16	0.001712	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	child single parent
+43	17	0.001648	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	website lists registered childminders
+43	18	0.001648	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	website lists registered childminders single parent
+43	19	0.001648	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	single parent website lists registered childminders
+43	20	0.001585	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	state funded grants
+44	1	0.004095	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	family member
+44	2	0.002445	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	local mental health associations
+44	3	0.002302	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	family members
+44	4	0.002302	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	deal with a depressed family member members
+44	5	0.001808	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	seek professional
+44	6	0.001808	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	seek professional family
+44	7	0.001808	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	family seek professional
+44	8	0.001676	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	person suffering
+44	9	0.001632	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	mental illness
+44	10	0.001632	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	mental illness family
+44	11	0.001632	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	family mental illness
+44	12	0.001579	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	depressed person
+44	13	0.001579	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	family depressed person
+44	14	0.001579	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	depressed person family
+44	15	0.001525	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	important part
+44	16	0.001525	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	deal with a depressed family member important part
+44	17	0.001495	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	depressed elderly relative
+44	18	0.001495	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	family depressed elderly relative
+44	19	0.001495	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	depressed elderly relative family
+44	20	0.001419	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	taking care
+45	1	0.004114	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	head held high
+45	2	0.004114	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	school bullying head held high
+45	3	0.004114	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	head held high school bullying
+45	4	0.003142	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	body language
+45	5	0.003142	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	school bullying body language
+45	6	0.003142	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	body language school bullying
+45	7	0.003037	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stay calm
+45	8	0.003037	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	stay calm school bullying
+45	9	0.003037	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	school bullying stay calm
+45	10	0.003019	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	school counselor
+45	11	0.003019	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	school bullying counselor
+45	12	0.002628	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	great bully hideouts
+45	13	0.002628	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	school bullying great bully hideouts
+45	14	0.002565	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	trusted adult
+45	15	0.002565	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	trusted adult school bullying
+45	16	0.002565	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	school bullying trusted adult
+45	17	0.002328	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	maintain emotional control
+45	18	0.002328	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	learn martial arts
+45	19	0.002328	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	greater emotional poise
+45	20	0.002328	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	school bullying maintain emotional control
+46	1	0.004004	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	adoption home study
+46	2	0.003598	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	home study
+46	3	0.003598	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	home study adoption
+46	4	0.002721	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	adoption process
+46	5	0.002417	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	united states
+46	6	0.002417	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	united states adoption
+46	7	0.002417	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	adoption united states
+46	8	0.002362	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	adoptive parents
+46	9	0.002362	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	adoptive parents adoption
+46	10	0.002362	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	adoption adoptive parents
+46	11	0.002198	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	licensed adoption agency
+46	12	0.002198	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	adoption licensed agency
+46	13	0.00198	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	child welfare information getaway website
+46	14	0.00198	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	child welfare information getaway website adoption
+46	15	0.00198	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	adoption child welfare information getaway website
+46	16	0.00188	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	birth parents
+46	17	0.00188	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	birth parents adoption
+46	18	0.00188	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	adoption birth parents
+46	19	0.001802	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	single adoptive parents
+46	20	0.001802	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	adopt a child in california single adoptive parents
+47	1	0.05	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	raising children
+47	2	0.05	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	raising children autism
+47	3	0.05	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	coaching autistic people
+47	4	0.05	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	autism raising children
+47	5	0.05	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	coaching autistic people autism
+47	6	0.05	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	autism coaching autistic people
+47	7	0.002639	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	autism raise awareness
+47	8	0.002571	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	autistic children
+47	9	0.002571	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	raise an autistic child children
+47	10	0.002391	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	autistic child
+47	11	0.002391	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	autistic child autism
+47	12	0.002391	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	autism autistic child
+47	13	0.002346	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	autistic people write articles talking
+47	14	0.002079	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	special interests
+47	15	0.002079	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	raise an autistic child special interests
+47	16	0.001701	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	share informative articles
+47	17	0.001701	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	raise an autistic child share informative articles
+47	18	0.00167	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	world feel safe
+47	19	0.001636	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	autistic people
+47	20	0.001636	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	raise an autistic child people
+48	1	0.02723	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	ship fragranced body powder
+48	2	0.02723	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	ship fragranced body powder olive oil
+48	3	0.02723	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	olive oil ship fragranced body powder
+48	4	0.02521	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	appropriately sized shipping carton
+48	5	0.022097	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pressurized cargo holds
+48	6	0.022097	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	nearest post office
+48	7	0.022097	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pressurized cargo holds olive oil
+48	8	0.022097	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	olive oil pressurized cargo holds
+48	9	0.022097	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	export olive oil to china from greece nearest post office
+48	10	0.021474	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	delivery driver hits
+48	11	0.021474	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	export olive oil to china from greece delivery driver hits
+48	12	0.020833	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pressurized cargo hold
+48	13	0.020833	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	pressurized cargo hold olive oil
+48	14	0.020833	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	olive oil pressurized cargo hold
+48	15	0.020646	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	carton securely shut
+48	16	0.020646	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	olive oil carton securely shut
+48	17	0.020646	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	carton securely shut olive oil
+48	18	0.019288	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	select ground shipping
+48	19	0.019288	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	select ground shipping olive oil
+48	20	0.019288	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	olive oil select ground shipping
+49	1	0.001353	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	business plan
+49	2	0.001353	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	raise venture capital ca business plan
+49	3	0.000928	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	good idea
+49	4	0.000928	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	raise venture capital ca good idea
+49	5	0.000902	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	small business
+49	6	0.000902	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	raise venture capital ca small business
+49	7	0.000858	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	issuing stock involves selling pieces
+49	8	0.000858	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	venture capital issuing stock involves selling pieces
+49	9	0.000858	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	issuing stock involves selling pieces venture capital
+49	10	0.000838	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	business license
+49	11	0.000838	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	raise venture capital ca business license
+49	12	0.000827	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	providing share certificates indicating ownership
+49	13	0.000827	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	venture capital providing share certificates indicating ownership
+49	14	0.000827	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	providing share certificates indicating ownership venture capital
+49	15	0.000775	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	turn issue certification indicating
+49	16	0.000775	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	venture capital turn issue certification indicating
+49	17	0.000775	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	turn issue certification indicating venture capital
+49	18	0.00075	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	charge higher interest rates
+49	19	0.00075	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	venture capital charge higher interest rates
+49	20	0.00075	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	charge higher interest rates venture capital
+50	1	0.00896	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	amateur radio
+50	2	0.008594	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	standard military phonetic alphabet
+50	3	0.008594	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	standard military phonetic alphabet amateur radio
+50	4	0.008594	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	amateur radio standard military phonetic alphabet
+50	5	0.005942	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	amateur radio bands
+50	6	0.004962	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	standard english
+50	7	0.004962	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	standard english amateur radio
+50	8	0.004962	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	amateur radio standard english
+50	9	0.004666	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	call sign
+50	10	0.004666	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	call sign amateur radio
+50	11	0.004666	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	amateur radio call sign
+50	12	0.004529	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	station calling
+50	13	0.004529	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	calling station
+50	14	0.004529	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	station calling amateur radio
+50	15	0.004529	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	calling station amateur radio
+50	16	0.004529	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	amateur radio station calling
+50	17	0.004529	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	amateur radio calling station
+50	18	0.004438	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	unfamiliar phonetics
+50	19	0.004438	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	unfamiliar phonetics amateur radio
+50	20	0.004438	p_q_given_q0_s_k_with_expansions-p_d_given_q0_s_uniform_for_all-p_s_WH	amateur radio unfamiliar phonetics

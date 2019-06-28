@@ -1,0 +1,1000 @@
+1	1	0.254545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	getting organized at work pdf
+1	2	0.181818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	getting organized at work training
+1	3	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	getting organized at work ideas
+1	4	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	getting organized at work book
+1	5	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	getting organized at work templates
+1	6	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	getting organized at work kenneth zeigler
+1	7	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	getting organized at work and home
+1	8	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	getting organized at work clutter
+1	9	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	getting organized at work seminars
+1	10	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	getting organized at work for the new year
+1	11	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	getting organized at work software
+1	12	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	getting organized at work courses
+1	13	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	getting organized at work tips
+1	14	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	getting organized at work template
+1	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	world
+1	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	work
+1	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	webmd
+1	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	waddill
+1	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	view
+1	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	upgrade
+2	1	0.272727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	choose bathroom fan
+2	2	0.181818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	choose bathroom tiles
+2	3	0.181818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	choose bathroom paint color
+2	4	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	choose bathroom colors
+2	5	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to choose bathroom lighting
+2	6	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	choose bathroom tile
+2	7	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	choose bathroom plumbing fixtures
+2	8	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	choose bathroom faucet
+2	9	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	choose bathroom color
+2	10	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	choose bathroom sink
+2	11	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to choose bathroom exhaust fan
+2	12	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	choose bathroom stall game
+2	13	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to choose bathroom faucets
+2	14	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	choose bathroom paint
+2	15	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to choose bathroom vanity lighting
+2	16	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	choose bathroom vanity
+2	17	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to choose bathroom floor tile
+2	18	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	choose bathroom floor
+2	19	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to choose bathroom tile
+2	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	woven
+3	1	0.181818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	normal wedding budget
+3	2	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	low wedding budget ideas
+3	3	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best wedding budget planner excel
+3	4	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	low budget wedding venues
+3	5	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best wedding budget calculator
+3	6	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	low budget wedding reception ideas
+3	7	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	low cost wedding budget
+3	8	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	low budget wedding dresses
+3	9	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best wedding budget app
+3	10	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	low budget wedding venues nyc
+3	11	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	low budget wedding checklist
+3	12	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best wedding budget tracker
+3	13	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best wedding budget estimator
+3	14	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	low budget wedding decoration ideas
+3	15	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best wedding budget tool
+3	16	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	low budget wedding venues toronto
+3	17	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best wedding budget template
+3	18	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	low budget wedding venues in southern california
+3	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	years
+3	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wore
+4	1	0.254545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lower heart rate during exercise
+4	2	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lower heart rate immediately
+4	3	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lower heart rate fast
+4	4	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lower heart rate medication
+4	5	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lower heart rate means
+4	6	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lower heart rate and blood pressure
+4	7	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lower heart rate better
+4	8	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lower heart rate while running
+4	9	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lower heart rate than normal
+4	10	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lower heart rate quickly
+4	11	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lower heart rate medicine
+4	12	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lower heart rate exercise
+4	13	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lower heart rate at night
+4	14	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lower heart rate supplements
+4	15	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lower heart rate benefits
+4	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wounds
+4	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	woman
+4	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	weil
+4	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	weight
+4	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	webmd
+5	1	0.309091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website design hosting services
+5	2	0.181818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website design hosting and domain registration
+5	3	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website design hosting and commercial services agreement
+5	4	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website design hosting packages
+5	5	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website design hosting and maintenance
+5	6	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website design & hosting for kansas city
+5	7	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website design hosting reviews
+5	8	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website design & hosting killingly ct
+5	9	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website design hosting arizona
+5	10	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website design hosting review
+5	11	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website design hosting south africa
+5	12	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website design hosting australia
+5	13	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website design hosting and domain
+5	14	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website design hosting free
+5	15	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website design hosting vancouver
+5	16	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website design hosting domain
+5	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	xampp
+5	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	work
+5	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wordpress
+5	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website
+6	1	0.666667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	elliptical trainer eg-3236
+6	2	0.333333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	elliptical trainer with hdmi
+6	3	0.290909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	elliptical trainer reviews
+6	4	0.2	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	elliptical trainer for sale
+6	5	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	elliptical trainer workouts
+6	6	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	elliptical trainer price
+6	7	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	elliptical trainer benefits
+6	8	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	elliptical trainer calories burned
+6	9	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	elliptical trainer calories
+6	10	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	elliptical trainer machine
+6	11	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	elliptical trainer vs treadmill
+6	12	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	elliptical trainer walmart
+6	13	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	elliptical trainer ratings
+6	14	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	elliptical trainer olx
+6	15	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	elliptical trainer machines
+6	16	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	elliptical trainer workout
+6	17	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	elliptical trainer calorie calculator
+6	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	works
+6	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	workout
+6	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	work
+7	1	0.236364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris tickets
+7	2	0.218182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris map
+7	3	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris wikipedia
+7	4	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris rides
+7	5	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris hotels
+7	6	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris inngangsbillett
+7	7	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris hotel
+7	8	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris holidays
+7	9	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris deals
+7	10	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris castle
+7	11	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris billetter tilbud
+7	12	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris all inclusive
+7	13	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris snl
+7	14	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris packages
+7	15	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris christmas
+7	16	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris weather
+7	17	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris tilbud
+7	18	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris address
+7	19	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris historie
+7	20	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	disneyland paris 2017
+8	1	0.290909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	solar power home kits
+8	2	0.254545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	solar power home depot
+8	3	0.181818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	solar power homes
+8	4	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	solar power home systems
+8	5	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	solar power home system
+8	6	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	solar power home generator
+8	7	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	solar power home battery
+8	8	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	solar power home india
+8	9	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	solar power home appliances
+8	10	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	solar power home designs
+8	11	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	solar power homes for sale
+8	12	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	solar power home batteries
+8	13	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	solar power home system cost
+8	14	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	solar power home heating
+8	15	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	solar power home calculator
+8	16	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	solar power home value
+8	17	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	solar power home projects
+8	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	zhejiang
+8	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	year
+8	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wind
+9	1	1.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build a excel model that use capitaliq
+9	2	0.327273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build a fence gate
+9	3	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build a fence in minecraft
+9	4	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build a fence cost
+9	5	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build a fence cheap
+9	6	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build a fence youtube
+9	7	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build a fence on a slope
+9	8	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build a fence nz
+9	9	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build a fence with pallets
+9	10	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build a fence plans
+9	11	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build a fence around the torah
+9	12	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build a fence diy
+9	13	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build a fence around me
+9	14	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build a fence all around me
+9	15	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build a fence stretcher bar
+9	16	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build a fence out of pallets
+9	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	yard
+9	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	work
+9	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	woods
+9	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wood
+10	1	1.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	get rid of mouse
+10	2	0.327273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	get rid of moths in house
+10	3	0.272727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	get rid of moths naturally
+10	4	0.236364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	get rid of moths in pantry
+10	5	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	get rid of moths without moth balls
+10	6	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	get rid of moths in wardrobe
+10	7	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	get rid of moths in closet
+10	8	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	get rid of moths uk
+10	9	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	get rid of moths closet
+10	10	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	get rid of moths in yard
+10	11	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	get rid of moths on patio
+10	12	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	get rid of moths in food pantry
+10	13	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	get rid of moths clothes
+10	14	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	get rid of moths in kitchen
+10	15	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	get rid of moths in garage
+10	16	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	get rid of moths in wool carpet
+10	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	zapper
+10	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	yuck
+10	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	york
+10	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	yellow
+11	1	0.181818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to improve cholesterol levels
+11	2	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	improve cholesterol levels quickly
+11	3	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	improve cholesterol levels with supplements
+11	4	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	improve cholesterol levels without statins
+11	5	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	improve cholesterol levels with these 7 superfoods
+11	6	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lowering cholesterol levels
+11	7	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	foods that improve cholesterol levels
+11	8	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	reducing cholesterol levels
+11	9	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	foods to improve cholesterol levels naturally
+11	10	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	reducing cholesterol levels naturally
+11	11	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best ways to improve cholesterol levels
+11	12	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lowering cholesterol levels naturally
+11	13	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	foods to help improve cholesterol levels
+11	14	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	reducing cholesterol levels uk
+11	15	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	diet to improve cholesterol levels
+11	16	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	ways to improve cholesterol levels
+11	17	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	reducing cholesterol levels without drugs
+11	18	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	reduce cholesterol levels home remedies
+11	19	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to improve cholesterol levels naturally
+11	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	work
+12	1	0.290909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	living in indiana
+12	2	0.218182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	living in india pros and cons
+12	3	0.181818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	living in india as an american
+12	4	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	living in indianapolis
+12	5	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	living in india as a foreigner
+12	6	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	living in indiana pros and cons
+12	7	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	living in india cost of living
+12	8	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	living in india vs usa
+12	9	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	living in india expats
+12	10	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	living in indianapolis pros and cons
+12	11	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	living in indiana sucks
+12	12	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	living in india blog
+12	13	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	living in indian wells ca
+12	14	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	living in india's slums
+12	15	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	living in india vs canada
+12	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	written
+12	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	worship
+12	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	world
+12	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	work
+12	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wordtravels
+13	1	0.214286	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to build raised gardens
+13	2	0.178571	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	pics of easy to build raised gardens
+13	3	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	diy raised gardens
+13	4	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build raised garden bed
+13	5	0.142857	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best way to build raised gardens
+13	6	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build raised garden bed cheap
+13	7	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build raised garden bed sleepers
+13	8	0.107143	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to build raised gardens beds
+13	9	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build raised garden bed along fence
+13	10	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build raised garden bed corrugated iron
+13	11	0.071429	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to build raised gardens with stones
+13	12	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build raised garden bed on slope
+13	13	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build raised garden bed landscape timbers
+13	14	0.035714	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to build raised gardens on youtube
+13	15	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	build raised garden with concrete blocks
+13	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wooden
+13	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wood
+13	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wilhite
+13	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	white
+13	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wheelbarrow
+14	1	0.218182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lose weight diet and exercise
+14	2	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lose weight diet plan
+14	3	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lose weight diet pills
+14	4	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lose weight diet menu
+14	5	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lose weight diet chart
+14	6	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lose weight diet recipes
+14	7	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lose weight diet in hindi
+14	8	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lose weight diet plan uk
+14	9	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lose weight diet for men
+14	10	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lose weight diet program
+14	11	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lose weight diet plan pdf
+14	12	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lose weight diet foods
+14	13	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lose weight diet fast
+14	14	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lose weight diet alone
+14	15	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lose weight diet meal plan
+14	16	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	lose weight diet and exercise plan
+14	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wraps
+14	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	work
+14	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	women
+14	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	william
+15	1	1.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	earn money online free
+15	2	0.272727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	earn money online using facebook
+15	3	0.181818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	earn money online usa
+15	4	0.181818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	make money online using paypal
+15	5	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	earn money online using mobile
+15	6	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	earn money online in the us
+15	7	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	earn money online usd
+15	8	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	make money online usa
+15	9	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	earn money online using paypal
+15	10	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	make money online using chitika ads
+15	11	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	make money online using clickbank
+15	12	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	earn money online using facebook and internet
+15	13	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	make money online using internet
+15	14	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	make money online using pc
+15	15	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	earn money online using photoshop
+15	16	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	earn money online using smartphone
+15	17	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	make money online using facebook
+15	18	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	earn money online using android
+15	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	yeah
+15	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	writing
+16	1	0.333333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	risk of asbestos in the home
+16	2	0.333333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	pictures of asbestos in the home
+16	3	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	zayn
+16	4	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	york
+16	5	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wraps
+16	6	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	world
+16	7	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	works
+16	8	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	workplace
+16	9	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	workers
+16	10	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	worker
+16	11	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	work
+16	12	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wipe
+16	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	white
+16	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	week
+16	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website
+16	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wears
+16	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wearing
+16	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wear
+16	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	watch
+16	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	viewers
+17	1	0.430303	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare for job interview questions
+17	2	0.2	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare for job interview for lpn
+17	3	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare for job interview reddit
+17	4	0.133333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare for job interview questions and answers
+17	5	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare for job interview presentation
+17	6	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare for job interview questions to ask
+17	7	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare for job interview youtube
+17	8	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare for job interview pdf
+17	9	0.066667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare for job interviews
+17	10	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare for job interview in french
+17	11	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare for job interview in retail
+17	12	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare for job interview at google
+17	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	youtube
+17	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	youth
+17	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	writing
+17	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	world
+17	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	working
+17	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	watch
+17	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	visualize
+17	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	view
+18	1	0.333333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	homemade sit and reach test
+18	2	0.333333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to do a sit and reach test at home
+18	3	0.166667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to do sit and reach test at home
+18	4	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	yardstick
+18	5	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	workout
+18	6	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wikia
+18	7	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	validity
+18	8	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	undergo
+18	9	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	trunk
+18	10	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	training
+18	11	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	traditional
+18	12	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tips
+18	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	things
+18	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tests
+18	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	testing
+18	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tester
+18	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	test
+18	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	taskforce
+18	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tape
+18	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	supplement
+19	1	0.272727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells cannot exclude hsil
+19	2	0.181818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells
+19	3	0.181818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells of undetermined significance
+19	4	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells pap smear
+19	5	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells cervix
+19	6	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells of undetermined significance icd 10
+19	7	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells on pap
+19	8	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells of undetermined
+19	9	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells on pap smear
+19	10	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells hpv negative
+19	11	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells and hpv
+19	12	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells in urine
+19	13	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells in lungs
+19	14	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells pap smear results
+19	15	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells on cervical papanicolaou smear
+19	16	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells pap smear with hpv
+19	17	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells of undetermined significance hpv
+19	18	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells of cervix
+19	19	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	atypical squamous cells of undetermined origin
+19	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	year
+20	1	0.333333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bite youtube
+20	2	0.2	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bites on dogs
+20	3	0.166667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bite is it serious
+20	4	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bites uk
+20	5	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bites pictures and symptoms
+20	6	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bites piercing
+20	7	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bites pictures
+20	8	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bites treatment
+20	9	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bites piercings
+20	10	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bites on face
+20	11	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bites symptoms
+20	12	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bites images
+20	13	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bites on arm
+20	14	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bites that blister
+20	15	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bites on leg
+20	16	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bites nz
+20	17	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bites that itch
+20	18	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bites in children
+20	19	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spider bites in bed
+20	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	years
+21	1	1.222222	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	sangre de cristo mountains hikes
+21	2	0.194444	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	sangre de cristo mountains backpacking
+21	3	0.166667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	sangre de cristo mountains trail map
+21	4	0.138889	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	sangre de cristo mountains trails
+21	5	0.111111	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	sangre de cristo mountains hiking trails
+21	6	0.083333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	sangre de cristo mountains atv trails
+21	7	0.055556	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	sangre de cristo mountains colorado backpacking
+21	8	0.027778	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	sangre de cristo mountains santa fe hiking
+21	9	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	writer
+21	10	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	window
+21	11	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wilderness
+21	12	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	west
+21	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	visitors
+21	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	villa
+21	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	view
+21	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	videos
+21	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	venable
+21	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	valley
+21	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	vail
+21	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	vacation
+22	1	0.266667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	perennial plants for cold climates
+22	2	0.2	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	flowering plants for cold weather
+22	3	0.133333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	perennial plants for cold weather
+22	4	0.066667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best flowering plants for cold weather
+22	5	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	zone
+22	6	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	withstand
+22	7	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	winters
+22	8	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	winter
+22	9	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	white
+22	10	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	weed
+22	11	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	weather
+22	12	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wayside
+22	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	watered
+22	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	violets
+22	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	vines
+22	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	vine
+22	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	view
+22	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	videos
+22	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	ventilation
+22	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	vascular
+23	1	0.218182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	altitude sickness medication peru
+23	2	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	altitude sickness peru death
+23	3	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	altitude sickness in cusco peru
+23	4	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	diamox altitude sickness peru
+23	5	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	altitude sickness peru machu picchu
+23	6	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	altitude sickness peru cusco
+23	7	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	altitude sickness medicine peru
+23	8	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	altitude sickness peru diamox
+23	9	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	altitude sickness pills peru
+23	10	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	altitude sickness prevention peru
+23	11	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	altitude sickness lima peru
+23	12	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	altitude sickness tablets peru
+23	13	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	altitude sickness cuzco peru
+23	14	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	altitude sickness and peru
+23	15	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	altitude sickness in peru stories
+23	16	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	altitude sickness in peru
+23	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	zika
+23	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	zayn
+23	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	york
+23	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wraps
+24	1	0.177778	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	septic system options for difficult sites
+24	2	0.167677	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	septic system options in pa
+24	3	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	septic system options ontario
+24	4	0.155556	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	above ground septic system options
+24	5	0.133333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	septic system options in texas
+24	6	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	septic system options texas
+24	7	0.111111	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	residential septic system options
+24	8	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	septic system repair options
+24	9	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	septic system design options
+24	10	0.088889	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	redidental communities septic system options
+24	11	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	septic system drainfield options
+24	12	0.066667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	new septic system options
+24	13	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	septic system replacement options
+24	14	0.044444	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	no septic system options
+24	15	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	septic system failure options
+24	16	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	septic tank systems options
+24	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wetlands
+24	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wells
+24	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	water
+24	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wastewater
+25	1	0.333333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	barbados holidaylettings
+25	2	0.177778	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	barbados holidays 2017
+25	3	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	barbados holidays 2016
+25	4	0.155556	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	barbados holidays from manchester
+25	5	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	barbados holidays 2018
+25	6	0.133333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	barbados holidays all-inclusive
+25	7	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	barbados holidays cheap
+25	8	0.113131	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	barbados holidays virgin
+25	9	0.111111	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	barbados holidays and celebrations
+25	10	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	barbados holidays november 2016
+25	11	0.088889	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	barbados holidays calendar
+25	12	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	barbados holidays october 2017
+25	13	0.066667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	barbados holidays august
+25	14	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	barbados holidays in february
+25	15	0.044444	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	barbados holidays december
+25	16	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	barbados holidays from uk
+25	17	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	barbados holidays feb 2017
+25	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	year
+25	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	world
+25	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	white
+26	1	0.339899	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	first aid heart attack aspirin
+26	2	0.274747	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	first aid heart attack treatment
+26	3	0.266162	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	first aid heart attack position
+26	4	0.166667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	first aid heart attack treatment images
+26	5	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	first aid heart attack video
+26	6	0.091919	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	first aid heart attack youtube
+26	7	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	first aid heart attack defibrillator
+26	8	0.083333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	first aid heart attack symptoms
+26	9	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	first aid heart attack wikipedia
+26	10	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	first aid heart attack stroke
+26	11	0.027778	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	first aid heart attacks
+26	12	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	first aid heart attack red cross
+26	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	worsens
+26	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	world
+26	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	women
+26	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	webmd
+26	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	vitamins
+26	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	vitamin
+26	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	view
+26	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	unconscious
+27	1	0.5	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	long-term care insurance canada
+27	2	0.333333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	long-term care insurance in canada
+27	3	0.166667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	long-term care insurance ontario canada
+27	4	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	long term care insurance canada pros and cons
+27	5	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	long term care insurance canada cost
+27	6	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	long term care insurance canada carp
+27	7	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	long term care insurance canada quotes
+27	8	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	long term care coverage canada
+27	9	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	rbc long-term care insurance canada
+27	10	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	long term care insurance premiums canada
+27	11	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	long term care insurance in canada what is it and do i need it
+27	12	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	long term care insurance ontario canada
+27	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	working
+27	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	workers
+27	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	weeks
+27	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wealth
+27	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	walking
+27	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	visit
+27	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	vision
+27	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	video
+28	1	0.254545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to cook pork tenderloin medallions
+28	2	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to cook pork tenderloin in the oven
+28	3	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to cook pork tenderloin roast
+28	4	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to cook pork tenderloin on grill
+28	5	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to cook pork tenderloin in slow cooker
+28	6	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to cook pork tenderloin in crock pot
+28	7	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to cook pork tenderloin on the grill
+28	8	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to cook pork tenderloin in pressure cooker
+28	9	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to cook pork tenderloin medallions in oven
+28	10	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to cook pork tenderloin uk
+28	11	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to cook pork tenderloin tips
+28	12	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to cook pork tenderloin wrapped in bacon
+28	13	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to cook pork tenderloin in the oven paula deen
+28	14	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to cook pork tenderloin on stove
+28	15	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to cook pork tenderloin on bbq
+28	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	weeknight
+28	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	watch
+28	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	upload
+28	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	topics
+28	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	time
+29	1	0.327273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	buy condo in florida keys
+29	2	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	buy apartments in florida
+29	3	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best place to buy condo in florida
+29	4	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	buy condo in naples florida
+29	5	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	buy condo in florida sarasota
+29	6	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	buy beachfront condo in florida
+29	7	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	looking to buy condo in florida
+29	8	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	buy beach condo in florida
+29	9	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best time to buy condo in florida
+29	10	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	buy condo in kissimmee florida
+29	11	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	should i buy condo in florida
+29	12	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	buy condo in sarasota florida
+29	13	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	need to buy condo in florida
+29	14	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	buy condo in orlando florida
+29	15	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	where to buy condo in florida
+29	16	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	buy cheap condo in florida
+29	17	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	want to buy condo in florida
+29	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	zillow
+29	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	zestimate
+29	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	year
+30	1	0.181818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to live with fibromyalgia
+30	2	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	can't live with fibromyalgia
+30	3	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best place to live with fibromyalgia
+30	4	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	u live with fibromyalgia
+30	5	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	live well with fibromyalgia
+30	6	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best places to live with fibromyalgia
+30	7	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	live smarter with fibromyalgia
+30	8	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how long can you live with fibromyalgia
+30	9	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	live fibromyalgia chat rooms
+30	10	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	where to live with fibromyalgia
+30	11	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to live with fibromyalgia and your family
+30	12	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	places to live with fibromyalgia
+30	13	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how i live with fibromyalgia
+30	14	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	struggling to live with fibromyalgia
+30	15	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best states to live with fibromyalgia
+30	16	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	top place to live with fibromyalgia
+30	17	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to live with fibromyalgia pain
+30	18	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best cities to live with fibromyalgia
+30	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	yoga
+30	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	widespread
+31	1	0.345455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	organize wedding guest list
+31	2	0.290909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	organize wedding planning
+31	3	0.2	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	organize wedding reception
+31	4	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	organize wedding binder
+31	5	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	organize wedding photo in frame
+31	6	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	organize wedding ceremony
+31	7	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	organize wedding board
+31	8	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wedding organizer games
+31	9	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	organize wedding seating chart
+31	10	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	organize wedding tables
+31	11	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	organize wedding shower
+31	12	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	organize wedding cards
+31	13	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	organize wedding planning binder
+31	14	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	organize wedding table
+31	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	york
+31	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	week
+31	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wedding
+31	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website
+31	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	weather
+31	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	watch
+32	1	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	work
+32	2	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wiring
+32	3	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wireless
+32	4	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wired
+32	5	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wire
+32	6	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wave
+32	7	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wattage
+32	8	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	walk
+32	9	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	vehicles
+32	10	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	upload
+32	11	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	unit
+32	12	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	type
+32	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tutorial
+32	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	turn
+32	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	trigger
+32	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	traffic
+32	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	time
+32	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	testing
+32	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	test
+32	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	systems
+33	1	1.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to tell if roof needs repair
+33	2	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	year
+33	3	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wire
+33	4	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	winter
+33	5	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	water
+33	6	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	walls
+33	7	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wall
+33	8	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tubes
+33	9	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	told
+33	10	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tape
+33	11	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	system
+33	12	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	subers
+33	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	story
+33	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	step
+33	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	steep
+33	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	starter
+33	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	space
+33	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	solution
+33	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	small
+33	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	slate
+34	1	0.333333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to make a studio apartment look larger
+34	2	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	work
+34	3	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wood
+34	4	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	white
+34	5	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	walls
+34	6	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wall
+34	7	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	visually
+34	8	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	ursu
+34	9	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	upload
+34	10	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	unsubscribing
+34	11	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tips
+34	12	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	table
+34	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	stylecaster
+34	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	story
+34	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	storage
+34	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	standing
+34	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	staircase
+34	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	square
+34	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	spaces
+34	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	space
+35	1	0.666667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	painting home interior walls
+35	2	0.666667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	paint home interior walls
+35	3	0.333333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	paint mobile home interior walls
+35	4	0.333333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	paint for mobile home interior walls
+35	5	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	working
+35	6	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	window
+35	7	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	white
+35	8	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	weight
+35	9	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wear
+35	10	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	walls
+35	11	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wall
+35	12	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	valentine
+35	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	total
+35	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tonight
+35	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tones
+35	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tips
+35	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tint
+35	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	time
+35	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	thin
+35	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	texture
+36	1	0.342208	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare home for winter vacation
+36	2	0.214286	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to prepare home for winter power outages
+36	3	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare home for winter storm
+36	4	0.142857	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to prepare home for winter
+36	5	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare home for winter weather
+36	6	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare home for winter checklist
+36	7	0.107143	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to easily prepare home for winter
+36	8	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare home for winter freeze
+36	9	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare your home for winter tips
+36	10	0.071429	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to prepare home for winter absence
+36	11	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare mobile home for winter
+36	12	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare my home for winter
+36	13	0.035714	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to prepare home for winter storm
+36	14	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	prepare your home for winter yourself
+36	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	youtube
+36	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wrap
+36	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	worn
+36	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	work
+36	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wood
+36	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	winter
+37	1	0.236364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	safety tips for hurricanes and tornadoes
+37	2	0.181818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	safety tips for hurricanes
+37	3	0.181818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	images of safety tips for hurricane
+37	4	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	safety tips for hurricane
+37	5	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	safety tips for hurricane katrina
+37	6	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	safety tips for hurricane season
+37	7	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	list of safety tips for hurricanes
+37	8	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	three safety tips for hurricanes
+37	9	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	safety tips for hurricane sandy
+37	10	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	safety tips for hurricanes before
+37	11	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	5 safety tips for hurricanes
+37	12	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	10 safety tips for hurricanes
+37	13	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	safety tips for hurricane andrew
+37	14	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	kid safety tips for hurricanes
+37	15	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	storm safety tips for hurricanes
+37	16	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	safety tips for hurricane preparedness
+37	17	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	what are some safety tips for hurricanes
+37	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	zone
+37	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	winds
+37	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	weather
+38	1	0.333333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to add value to your home for sale
+38	2	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	york
+38	3	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	years
+38	4	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wood
+38	5	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	winter
+38	6	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	windows
+38	7	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wildlife
+38	8	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	white
+38	9	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	weekend
+38	10	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	week
+38	11	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website
+38	12	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	water
+38	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	watch
+38	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	warm
+38	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	walls
+38	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wall
+38	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	view
+38	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	version
+38	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	veneris
+38	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	values
+39	1	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	workflows
+39	2	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	work
+39	3	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	word
+39	4	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	view
+39	5	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	university
+39	6	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	twelve
+39	7	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tools
+39	8	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tips
+39	9	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	time
+39	10	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	text
+39	11	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	terms
+39	12	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	templates
+39	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	techsoup
+39	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	technology
+39	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	technical
+39	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	support
+39	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	study
+39	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	structure
+39	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	strategy
+39	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	steps
+40	1	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	youtube
+40	2	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	women
+40	3	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website
+40	4	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	view
+40	5	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	version
+40	6	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	venture
+40	7	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	valley
+40	8	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	utility
+40	9	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	utilities
+40	10	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	users
+40	11	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	uniform
+40	12	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	ukti
+40	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	typically
+40	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	types
+40	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	twitter
+40	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	truecaller
+40	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	training
+40	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	trade
+40	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	today
+40	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	time
+41	1	0.333333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to be an art investor
+41	2	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	york
+41	3	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	year
+41	4	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	working
+41	5	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wordpress
+41	6	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	week
+41	7	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wealth
+41	8	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	ways
+41	9	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wall
+41	10	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	virginia
+41	11	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	video
+41	12	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	vary
+41	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	university
+41	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	type
+41	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	trump
+41	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	training
+41	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	topic
+41	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tips
+41	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	time
+41	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	things
+42	1	0.214286	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	organizations that support human rights
+42	2	0.178571	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	celebrities who support human rights
+42	3	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	support human rights in china
+42	4	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	support non human rights
+42	5	0.142857	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	companies support human rights
+42	6	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	i support human rights because
+42	7	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	support albanian human rights & equality in the balkans
+42	8	0.107143	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	i support human rights
+42	9	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	support albanian human rights
+42	10	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	support for human rights act
+42	11	0.071429	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	organisations that support human rights
+42	12	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	celebrities support human rights
+42	13	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	organization support human rights
+42	14	0.035714	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	stories that support human rights
+42	15	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	support for human rights defenders
+42	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	york
+42	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	written
+42	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	worst
+42	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	worldwide
+42	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	world
+43	1	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	single mother in uk the right
+43	2	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	single mother benefits in the uk
+43	3	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	single mother in uk housing
+43	4	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	single mother help in uk
+43	5	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	single mother allowance in uk
+43	6	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	single mother grants in uk
+43	7	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	single mother benefits uk 2014
+43	8	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	single mother entitlements uk
+43	9	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	single mother support uk
+43	10	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	zayn
+43	11	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	young
+43	12	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	york
+43	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wraps
+43	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	world
+43	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	works
+43	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	working
+43	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	work
+43	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	women
+43	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	woman
+43	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wipe
+44	1	1.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to deal with a depressed family member
+44	2	0.3	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	dealing with a severely depressed family member
+44	3	0.2	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how do i deal with a depressed family member
+44	4	0.1	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to cope with a depressed family member
+44	5	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	yoga
+44	6	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	writing
+44	7	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	write
+44	8	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	women
+44	9	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	webmd
+44	10	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	ways
+44	11	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	warning
+44	12	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	turning
+44	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	treatments
+44	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	treatment
+44	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	toxic
+44	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	times
+44	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	thyroid
+44	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	thoughts
+44	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	therapy
+44	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tend
+45	1	0.660606	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	school bullying statistics
+45	2	0.254545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	school bullying articles
+45	3	0.181818	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	school bullying policy
+45	4	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	school bullying video
+45	5	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	school bullying powerpoint
+45	6	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	school bullying definition
+45	7	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	school bullying videos
+45	8	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	school bullying laws
+45	9	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	school bullying stories
+45	10	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	school bullying statistics 2016
+45	11	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	school bullying prevention
+45	12	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	school bullying in the philippines
+45	13	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	school bullying insights and perspectives
+45	14	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	school bullying victims
+45	15	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	school bullying essay
+45	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	youth
+45	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	years
+45	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	workplace
+45	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	woman
+45	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	witnessed
+46	1	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	adopt a child in california requirements
+46	2	0.163636	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	requirements to adopt a child in california
+46	3	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	adopt a baby in california
+46	4	0.145455	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to adopt a child in california forms
+46	5	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	adopt a child in southern california
+46	6	0.127273	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to qualify to adopt a child in california
+46	7	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	who can adopt a child in california
+46	8	0.109091	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how do you adopt a child in california
+46	9	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	adopt a child for free in california
+46	10	0.090909	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how do i adopt a child in california
+46	11	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	adopt a newborn baby in california
+46	12	0.072727	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how much to adopt a child in california
+46	13	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	i want to adopt a child in california
+46	14	0.054545	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to legally adopt a child in california
+46	15	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	where to adopt a child in california
+46	16	0.036364	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	can a felon adopt a child in california
+46	17	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	minimum age to adopt a child in california
+46	18	0.018182	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how can i adopt a child in california
+46	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	year
+46	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	worker
+47	1	0.5	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to raise an autistic child
+47	2	0.357143	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	cost to raise an autistic child
+47	3	0.214286	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best place to raise an autistic child
+47	4	0.214286	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best states to raise an autistic child
+47	5	0.178571	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	where to raise an autistic child
+47	6	0.142857	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	average cost to raise an autistic child
+47	7	0.107143	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best country to raise an autistic child
+47	8	0.107143	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best place in tn to raise an autistic child
+47	9	0.071429	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	best places to raise an autistic child
+47	10	0.071429	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	is it hard to raise an autistic child
+47	11	0.035714	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tips on how to raise an autistic child
+47	12	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	york
+47	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	world
+47	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	work
+47	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wordpress
+47	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	word
+47	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	webmd
+47	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	watching
+47	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	watch
+47	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	vitamins
+48	1	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	year
+48	2	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	world
+48	3	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wine
+48	4	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	weibo
+48	5	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	website
+48	6	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	vytogiannis
+48	7	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	virgin
+48	8	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tree
+48	9	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	trade
+48	10	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tough
+48	11	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	thing
+48	12	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	text
+48	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	term
+48	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	suppliers
+48	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	supplier
+48	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	subscriptions
+48	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	strong
+48	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	south
+48	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	sold
+48	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	showing
+49	1	0.666667	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to raise venture capital in canada
+49	2	0.333333	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how can i raise venture capital
+49	3	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	york
+49	4	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	year
+49	5	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	worth
+49	6	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	whitney
+49	7	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wedding
+49	8	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	washington
+49	9	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	vietnam
+49	10	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	vidyard
+49	11	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	video
+49	12	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	ventures
+49	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	venture
+49	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	values
+49	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	valley
+49	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	valentine
+49	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	users
+49	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	typically
+49	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	trump
+49	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tips
+50	1	1.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	ham radio setup
+50	2	1.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	how to set up an amateur radio station
+50	3	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	youtube
+50	4	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	years
+50	5	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	yaesu
+50	6	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wouxun
+50	7	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	worked
+50	8	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	work
+50	9	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wordpress
+50	10	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	whilst
+50	11	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	wave
+50	12	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	volunteer
+50	13	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	vibroplex
+50	14	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tuners
+50	15	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	trunk
+50	16	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	transmitter
+50	17	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	transmit
+50	18	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	training
+50	19	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	touch
+50	20	0.0	p_q_given_q0_s_k_optimized_2015-p_d_given_q0_s_lin_decay_for_all-p_s_QS	tone

@@ -1,0 +1,1000 @@
+1	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	acid stain concrete pictures
+1	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	acid stain concrete patio
+1	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	acid stain concrete lowes
+1	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	acid stain concrete floors
+1	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	acid stain concrete driveway
+1	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	acid stain concrete countertop
+1	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	acid stain concrete cost
+1	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	acid stain concrete colors
+1	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	acid stain concrete basement floor
+1	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	yeah
+1	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	white
+1	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	website
+1	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wear
+1	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	waxed
+1	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	water
+1	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	warnings
+1	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	utilize
+1	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	upload
+1	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	unique
+1	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	turned
+2	1	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	take care inground swimming pool
+2	2	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	taking care of your swimming pool
+2	3	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	taking care of a saltwater pool
+2	4	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	taking care of above ground swimming pool
+2	5	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	taking care of a saltwater swimming pool
+2	6	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	taking care of a swimming pool for dummies
+2	7	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	cost of taking care of a swimming pool
+2	8	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to take care of swimming pool in winter
+2	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	youtube
+2	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	winter
+2	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	weekly
+2	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	waterline
+2	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	water
+2	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vinyl
+2	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vacuum
+2	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	upload
+2	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	types
+2	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	troubleshooting
+2	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	trichlor
+2	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	treatment
+3	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	pole vaulter
+3	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	pole vault video
+3	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	pole vault summit
+3	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	pole vault spikes
+3	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	pole vault olympics
+3	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	pole vault girl
+3	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	pole vault game
+3	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	pole vault fails
+3	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	pole vault world record
+3	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	works
+3	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	words
+3	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	word
+3	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	webster
+3	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	verso
+3	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vaulting
+3	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vaulters
+3	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vault
+3	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vara
+3	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	translation
+3	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	track
+4	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	training to become an allergist
+4	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	education to become an allergist
+4	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	colleges to become an allergist
+4	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to become an allergist uk
+4	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to become an allergist specialist
+4	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to become an allergist assistant
+4	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	degrees needed to become an allergist
+4	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to become an allergist in canada
+4	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to become an allergist in australia
+4	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	york
+4	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	year
+4	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wisegeek
+4	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wheat
+4	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vomiting
+4	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	videos
+4	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	veggie
+4	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	urticaria
+4	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	university
+4	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	undergraduate
+4	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	treatment
+5	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	bird spotting uk
+5	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	bird spotting sheet
+5	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	bird spotting scope
+5	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	bird spotting movie
+5	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	bird spotting list
+5	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	bird spotting guide
+5	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	bird spotting book
+5	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	bird spotting binoculars
+5	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	bird spotting app
+5	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	zoom
+5	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	zeiss
+5	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	winds
+5	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wildlife
+5	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	white
+5	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	weekend
+5	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	weather
+5	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	waterproof
+5	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	watching
+5	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	viewing
+5	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	view
+6	1	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	care tiny toy poodle
+6	2	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	eye care for toy poodles
+6	3	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	ear care for toy poodles
+6	4	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	care for toy poodle puppy
+6	5	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to care for a pregnant toy poodle
+6	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	yogurt
+6	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	year
+6	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	weight
+6	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	website
+6	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	water
+6	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wacky
+6	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	visita
+6	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	visit
+6	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vinegar
+6	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vetstreet
+6	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	upload
+6	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tricks
+6	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	training
+6	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	toothpaste
+6	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tips
+7	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	indigestion cure milk
+7	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	cure indigestion quickly
+7	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	cure indigestion naturally
+7	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	cure indigestion fast
+7	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	cure indigestion constipation
+7	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	indigestion cure crossword clue
+7	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	cure indigestion in pregnancy
+7	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	cure indigestion baking soda
+7	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	cure indigestion at home
+7	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	zantac
+7	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	worse
+7	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	worked
+7	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	weil
+7	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	weight
+7	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	webmd
+7	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	water
+7	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	warm
+7	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vomiting
+7	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vitamin
+7	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vinegar
+8	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	white water rafting wales
+8	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	white water rafting uk
+8	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	white water rafting rotorua
+8	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	white water rafting queenstown
+8	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	white water rafting colorado
+8	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	white water rafting cardiff
+8	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	white water rafting cairns
+8	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	white water rafting bali
+8	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	white water rafting costa rica
+8	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	ziplining
+8	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wildlife
+8	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	whitewater
+8	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	whistler
+8	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	west
+8	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	water
+8	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	video
+8	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vermont
+8	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vancouver
+8	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vacation
+8	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	upstream
+9	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	invest in mutual funds sip
+9	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	invest in mutual funds philippines
+9	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	invest in mutual funds online
+9	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	invest in mutual funds india
+9	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	invest in mutual funds canada
+9	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	invest in mutual funds through sip
+9	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	invest in mutual funds or etfs
+9	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	invest in mutual funds online india
+9	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	invest in mutual funds online icici
+9	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	yields
+9	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	world
+9	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	withdrawals
+9	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	week
+9	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	watchlist
+9	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	view
+9	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	videos
+9	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vanguard
+9	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	unlike
+9	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	units
+9	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	typically
+10	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tv setup living room
+10	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	speaker setup living room
+10	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	setup small living room
+10	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	projector setup living room
+10	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	gaming setup living room
+10	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	furniture setup living room
+10	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	dj setup living room
+10	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	ideas to setup living room
+10	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to setup living room furniture with little space
+10	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	works
+10	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	work
+10	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wood
+10	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wire
+10	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	window
+10	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	white
+10	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	view
+10	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	valences
+10	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	update
+10	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	today
+10	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tips
+11	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	braid extensions toronto
+11	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	braid extensions perth
+11	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	braid extensions nz
+11	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	braid extensions melbourne
+11	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	braid extensions edmonton
+11	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	braid extensions ebay
+11	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	braid extensions cost
+11	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	braid extensions south africa
+11	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	braid extensions on very short hair
+11	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	xmas
+11	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wigs
+11	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wearing
+11	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wear
+11	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	washing
+11	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	visible
+11	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	view
+11	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	upload
+11	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tutorials
+11	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tubes
+11	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tube
+12	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	start vineyard business
+12	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	start a small vineyard
+12	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	start a backyard vineyard
+12	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	start a vineyard in texas
+12	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	start a vineyard in california
+12	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to start a vineyard in virginia
+12	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to start a vineyard in canada
+12	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to start a vineyard in australia
+12	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to start a vineyard in north carolina
+12	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	yield
+12	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wreath
+12	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	winery
+12	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	winemaking
+12	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	winemaker
+12	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wine
+12	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	william
+12	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	weekend
+12	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	water
+12	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	warwick
+12	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vinifera
+13	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	buy girl scout cookies uk
+13	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	buy girl scout cookies strain
+13	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	buy girl scout cookies seeds
+13	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	buy girl scout cookies amazon
+13	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	buy girl scout cookies 2017
+13	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	buy girl scout cookies weed online
+13	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	buy girl scout cookies strain online
+13	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	buy girl scout cookies online canada
+13	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	buy girl scout cookies in bulk
+13	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	youtube
+13	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	york
+13	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	years
+13	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	website
+13	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	volunteer
+13	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	view
+13	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vary
+13	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	varieties
+13	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	types
+13	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	troops
+13	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	troop
+14	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	open a bank account online
+14	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	open a bank account without id
+14	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	open a bank account online free
+14	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	open a bank account online chase
+14	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	open a bank account in uk
+14	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	open a bank account in singapore
+14	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	open a bank account in dubai
+14	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	open a bank account in canada
+14	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	open a bank account in australia
+14	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	world
+14	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	window
+14	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wanting
+14	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	visa
+14	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	types
+14	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	turnover
+14	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	trust
+14	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	travel
+14	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	transaction
+14	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	total
+14	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tools
+15	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	french manicure toes
+15	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	french manicure ombre
+15	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	french manicure nails
+15	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	french manicure kit
+15	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	french manicure images
+15	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	french manicure gel
+15	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	french manicure design
+15	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	french manicure short nails
+15	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	french manicure nail art
+15	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	work
+15	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wordpress
+15	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	white
+15	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	walgreens
+15	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vous
+15	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vita
+15	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	view
+15	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	video
+15	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	utilisez
+15	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	unghie
+15	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tutorial
+16	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	extend toshiba laptop warranty
+16	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	extend samsung laptop warranty
+16	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	extend laptop warranty lenovo
+16	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	extend laptop warranty hp
+16	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	extend laptop warranty dell
+16	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	extend asus laptop warranty
+16	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	extend dell laptop warranty period
+16	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	extend acer laptop warranty india
+16	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	extend hp laptop warranty online india
+16	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	zdnet
+16	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	year
+16	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	worth
+16	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	windows
+16	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wifi
+16	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	warranty
+16	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	warranties
+16	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	visit
+16	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	time
+16	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	thinkpad
+16	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	thinkcentre
+17	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	fake tan home bargains
+17	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	perfect fake tan at home
+17	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	natural fake tan at home
+17	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	make fake tan at home
+17	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	fake tan remover at home
+17	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	fake tan at home tips
+17	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	fake bake tan at home
+17	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	best fake tan at home
+17	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	applying fake tan at home
+17	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	zayn
+17	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	york
+17	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wraps
+17	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	works
+17	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	work
+17	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	woman&home
+17	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	woman
+17	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wipe
+17	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	winter
+17	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	white
+17	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	week
+18	1	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	sell used laptop online india
+18	2	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	sell used laptop batteries online
+18	3	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	sell used hp laptop online
+18	4	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	best place to sell used laptop online
+18	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	valuable
+18	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	trust
+18	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	traffic
+18	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	trade
+18	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	thinkpad
+18	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	table
+18	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	supplies
+18	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	small
+18	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	site
+18	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	simply
+18	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	shops
+18	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	shop
+18	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	shoes
+18	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	shipping
+18	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	ship
+18	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	services
+19	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	customize your own t shirt
+19	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	customize your own shirt online
+19	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	customize your own shirt cheap
+19	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	customize your own t shirt uk
+19	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	customize your own t shirt india
+19	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	customize your own nike t shirt
+19	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	customize your own monogram t shirt
+19	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	design your own custom t shirt online
+19	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	customize your own t shirt online india
+19	10	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	customize your own t shirt online cheap
+19	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	worn
+19	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	work
+19	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	women
+19	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	whooptee
+19	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	week
+19	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	watches
+19	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	upload
+19	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	unique
+19	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	track
+19	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	towel
+20	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	invest in stock market uk
+20	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	invest in stock market online
+20	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	invest in stock market now
+20	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	invest in stock market india
+20	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	invest in stock market sri lanka
+20	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	invest in stock market for beginners
+20	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	invest in stock market without a broker
+20	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	invest in stock market with little money
+20	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	invest in stock market or real estate
+20	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	yield
+20	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	years
+20	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	world
+20	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	watchlist
+20	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	volatility
+20	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	valuable
+20	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	update
+20	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	typically
+20	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	types
+20	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	trump
+20	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	transfer
+21	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	windows 10 troubleshooting
+21	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	windows 10 troubleshooting tools
+21	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	windows 10 troubleshooting menu
+21	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	windows 10 troubleshooter installer
+21	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	windows 10 troubleshoot wifi
+21	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	windows 10 troubleshoot screen
+21	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	windows 10 troubleshoot mode
+21	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	windows 10 troubleshoot boot
+21	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	windows 10 troubleshooting guide pdf
+21	10	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	windows 10 troubleshoot reset this pc
+21	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	zdnet
+21	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	yeah
+21	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wrote
+21	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	world
+21	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	worked
+21	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wordperfect
+21	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	windows
+21	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	white
+21	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	whichever
+21	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	websites
+22	1	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	years
+22	2	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	world
+22	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	working
+22	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	workers
+22	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	worker
+22	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	work
+22	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	website
+22	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	washington
+22	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	warren
+22	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	warehouse
+22	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	visit
+22	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	visa
+22	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	virginia
+22	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	violates
+22	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	view
+22	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	version
+22	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	valid
+22	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	university
+22	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	united
+22	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	training
+23	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	apply for aadhar card pune
+23	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	apply for aadhar card online
+23	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	apply for aadhar card hyderabad
+23	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	apply for aadhar card bangalore
+23	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	apply for aadhar card online kolkata
+23	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	apply for aadhar card online bangalore
+23	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	apply for aadhar card in mumbai
+23	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	apply for aadhar card in gurgaon
+23	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	apply for aadhar card from usa
+23	10	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	apply for aadhar card enrollment center
+23	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	writing
+23	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	write
+23	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wordpress
+23	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	winter
+23	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wide
+23	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	website
+23	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	visiting
+23	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	visit
+23	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vill
+23	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	verification
+24	1	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	united kingdom driver's licence
+24	2	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	united kingdom driver's license template
+24	3	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	united kingdom driver's license number
+24	4	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	united kingdom driver's license categories
+24	5	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	international driver's license united kingdom
+24	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	written
+24	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	works
+24	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	work
+24	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wine
+24	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	weight
+24	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	website
+24	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	visitors
+24	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	visas
+24	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	violence
+24	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	view
+24	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	victim
+24	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vehicles
+24	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vehicle
+24	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vary
+24	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	unlisted
+25	1	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	women
+25	2	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	ways
+25	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	warehouse
+25	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vtech
+25	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vehicles
+25	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	ultimate
+25	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	type
+25	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	traveling
+25	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	travel
+25	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	track
+25	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	toys
+25	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tomato
+25	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	toddler
+25	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tikes
+25	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	terms
+25	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tend
+25	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	teaching
+25	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	teach
+25	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	system
+25	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	sutton
+26	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	setting garage sale prices
+26	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	set up a garage sale
+26	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	creating a garage sale ad
+26	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	set up garage sale on craigslist
+26	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	ways to set up a garage sale
+26	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to set up a garage sale table
+26	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to set up a garage sale online
+26	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	best way to set up a garage sale
+26	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to set up a garage sale without tables
+26	10	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to set up a garage sale on facebook
+26	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	youtube
+26	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	yard
+26	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	website
+26	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	view
+26	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	trends
+26	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tons
+26	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tips
+26	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	thrift
+26	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	things
+26	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	testimonials
+27	1	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	for government jobs in india
+27	2	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	apply for government jobs in india
+27	3	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	online apply for government job in india 2014
+27	4	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	online application for government jobs in india 2014
+27	5	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	online application for government jobs in india 2013
+27	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	working
+27	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	work
+27	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	women
+27	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	website
+27	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	visa
+27	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vary
+27	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vacancy
+27	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vacancies
+27	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	uttarakhand
+27	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	upsc
+27	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	updating
+27	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	updates
+27	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	updated
+27	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	update
+27	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	university
+28	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	test for diabetes singapore
+28	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	test for diabetes mellitus
+28	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	test for diabetes insipidus
+28	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	test for diabetes type 2
+28	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	test for diabetes type 1
+28	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	test for diabetes in pregnancy
+28	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	test for diabetes in dogs
+28	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	test for diabetes during pregnancy
+28	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	test for diabetes at home
+28	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	weight
+28	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	webmd
+28	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vomiting
+28	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vitamins
+28	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vitamin
+28	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	visit
+28	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vegetables
+28	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	values
+28	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	updated
+28	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	understanding
+28	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	type
+29	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	become vegan video
+29	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	become vegan safely
+29	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	become vegan overnight
+29	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	become vegan nutritionist
+29	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	become vegan chef
+29	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	become vegan to lose weight
+29	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	become vegan step by step
+29	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	become vegan in 30 days
+29	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	become vegan for a month
+29	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	yeast
+29	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	years
+29	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	world
+29	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	widely
+29	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	weight
+29	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	websites
+29	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	water
+29	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vesanto
+29	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	veggie
+29	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vegetarian
+29	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vegetables
+30	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	paypal buttons for websites
+30	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	cool buttons for websites
+30	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	buttons for websites photoshop
+30	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	buttons for websites html
+30	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	buttons for websites free
+30	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	buttons for websites download
+30	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	buttons for websites crawler
+30	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	buttons for websites google analytics
+30	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	buttons for websites psd free download
+30	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wordpress
+30	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wizard
+30	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	width
+30	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vintage
+30	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	user
+30	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	urljunky
+30	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	typepad
+30	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	trick
+30	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tools
+30	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	title
+30	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	text
+31	1	0.5	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	growing flowering plants from seeds
+31	2	0.5	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	do all flowering plants grow from seeds
+31	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	young
+31	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	work
+31	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	woodland
+31	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	winner
+31	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wind
+31	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	widow
+31	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	white
+31	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	weed
+31	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	watering
+31	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	water
+31	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	view
+31	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vermiculite
+31	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	verlag
+31	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vast
+31	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vascular
+31	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	variety
+31	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	university
+31	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	undergoes
+32	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	social media tools for learning
+32	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	social media for learning languages
+32	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	social media for learning japanese
+32	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	social media for learning english
+32	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	social media for learning and development
+32	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	social media for active learning mooc
+32	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	using social media for learning and teaching
+32	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	using social media for learning and development
+32	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	social media for learning by means of ict
+32	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	writing
+32	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	world
+32	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	work
+32	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wireless
+32	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wiki
+32	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	websites
+32	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	voicethread
+32	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	view
+32	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	videos
+32	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	video
+32	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	users
+33	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	home remedies sore throat toddler
+33	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	home remedies sore throat pregnancy
+33	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	home remedies sore throat laryngitis
+33	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	home remedies sore throat cold
+33	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	home remedies sore throat no voice
+33	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	home remedies sore throat cough phlegm
+33	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	home remedies sore throat and cough
+33	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	home remedies sore throat post nasal drip
+33	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	home remedies sore throat cough chest congestion
+33	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	worse
+33	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	worked
+33	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wonders
+33	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wine
+33	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	website
+33	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	webmd
+33	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	weaknesses
+33	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	water
+33	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	warm
+33	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	viruses
+33	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vinegar
+34	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	golf instruction videos
+34	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	golf instruction podcast
+34	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	golf instruction phoenix
+34	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	golf instruction online
+34	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	golf instruction jobs
+34	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	golf instruction houston
+34	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	golf instruction dvd
+34	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	golf instruction books
+34	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	golf instruction san diego
+34	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	youtube
+34	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	work
+34	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wedge
+34	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	watch
+34	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	view
+34	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	video
+34	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	travelin
+34	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	training
+34	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tournament
+34	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tour
+34	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tips
+35	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	hair dye shampoo
+35	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	hair dye remover
+35	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	hair dye ideas
+35	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	hair dye colours
+35	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	hair dye colors
+35	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	hair dye brush
+35	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	hair dye brands
+35	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	hair dye for men
+35	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	hair dye for dark hair
+35	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	zotos
+35	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	zone
+35	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	young
+35	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wishing
+35	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	website
+35	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	username
+35	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	upload
+35	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	university
+35	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	ulta
+35	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	treatment
+35	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	traditional
+36	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	build pyramid hip roof
+36	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	build hip roof trusses
+36	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	build hip roof porch
+36	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	build hip roof overhang
+36	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	build your own hip roof
+36	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	build hip roof over deck
+36	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	build a square hip roof
+36	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	build a hip roof video
+36	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to build hip roof carport
+36	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	work
+36	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	trusses
+36	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	total
+36	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	templates
+36	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	technician
+36	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	sturt
+36	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	stud
+36	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	structure
+36	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	start
+36	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	square
+36	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	solid
+37	1	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	build your home theatre system
+37	2	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	build own home theater system
+37	3	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	build my home theater system
+37	4	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	build home theater system components
+37	5	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to build a wireless home theater system
+37	6	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to build a great home theater system
+37	7	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how do i build a home theater system
+37	8	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	build home theater pc standard client gaming system
+37	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	xbmc
+37	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	works
+37	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	working
+37	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wiring
+37	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wireless
+37	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wire
+37	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	windows
+37	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	ways
+37	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	viewing
+37	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	view
+37	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	video
+37	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	valentine
+38	1	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	years
+38	2	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wrong
+38	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wrap
+38	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	work
+38	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	women
+38	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wings
+38	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	weight
+38	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	weekly
+38	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	website
+38	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vitamins
+38	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	videos
+38	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	video
+38	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	veggies
+38	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	veggie
+38	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vegetable
+38	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vegan
+38	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	utilize
+38	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	urine
+38	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	unhealthy
+38	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	type
+39	1	0.25	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	find planets and constellations in the night sky
+39	2	0.25	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how do you find planets in the night sky
+39	3	0.25	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how do i find planets in the night sky
+39	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	zodiac
+39	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	zeus
+39	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	zenfone
+39	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	yellow
+39	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	worlds
+39	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	winter
+39	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	william
+39	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	white
+39	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	western
+39	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	website
+39	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	watch
+39	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	waning
+39	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	walk
+39	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	visibility
+39	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	views
+39	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	viewing
+39	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	view
+40	1	1.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	recycle lead acid battery new jersey
+40	2	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wyoming
+40	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wisconsin
+40	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	website
+40	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	waste
+40	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	voltages
+40	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	virginia
+40	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	view
+40	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vehicle
+40	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	utah
+40	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	towel
+40	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	texas
+40	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	terminals
+40	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	terminal
+40	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	term
+40	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tanks
+40	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	table
+40	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	systems
+40	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	system
+40	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	stream
+41	1	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	prevent a heart attack
+41	2	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	prevent a heart attack diet
+41	3	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	prevent a heart attack alone
+41	4	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	prevent a heart attack by coughing
+41	5	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	prevent a heart attack in 5 steps
+41	6	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	prevent a heart attack in 10 seconds
+41	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	women
+41	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wine
+41	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	weight
+41	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wear
+41	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	walking
+41	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vigorous
+41	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vessels
+41	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	undergo
+41	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	treatment
+41	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	topics
+41	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tomatoes
+41	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	today
+41	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tips
+41	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	thiazide
+42	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	make a teddy bear party
+42	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	make a teddy bear kit
+42	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	make a teddy bear game
+42	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	make a teddy bear costume
+42	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	make a teddy bear from clothes
+42	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	make a teddy bear out of a towel
+42	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	make a teddy bear out of a sweater
+42	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	make a teddy bear out of a shirt
+42	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	make a teddy bear out of a baby sleeper
+42	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wordpress
+42	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	white
+42	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tutorial
+42	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tips
+42	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	thread
+42	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	teddy
+42	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	sock
+42	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	small
+42	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	slightly
+42	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	site
+42	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	simple
+43	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	browse internet anonymously software
+43	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	browse internet anonymously proxy
+43	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	browse internet anonymously mac
+43	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	browse internet anonymously iphone
+43	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	browse internet anonymously ipad
+43	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	browse internet anonymously firefox
+43	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	browse internet anonymously chrome
+43	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	browse the internet anonymously free
+43	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	browse internet anonymously at work
+43	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	work
+43	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	windows
+43	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	websites
+43	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	website
+43	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	user
+43	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	usbback
+43	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	type
+43	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tutorial
+43	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	track
+43	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tool
+43	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tips
+44	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	morel mushrooms hunting tips
+44	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	morel mushroom hunting wisconsin
+44	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	morel mushroom hunting secrets
+44	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	morel mushroom hunting season
+44	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	morel mushroom hunting michigan
+44	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	morel mushroom hunting map
+44	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	morel mushroom hunting guide
+44	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	morel mushroom hunting club
+44	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	morel mushrooms hunting in missouri
+44	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	woods
+44	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wine
+44	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	williams
+44	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	weather
+44	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	water
+44	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	videos
+44	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	video
+44	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	university
+44	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	types
+44	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tree
+44	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tips
+45	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	watch tv shows on the internet
+45	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	watch tv on the internet uk
+45	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	watch tv on the internet live
+45	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	watch tv on the internet australia
+45	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	watch local tv on the internet
+45	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	watch tv on the internet in canada
+45	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	watch tv on the internet for free
+45	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	watch tv shows on the internet for free
+45	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	watch tv on the internet for free live
+45	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	zdnet
+45	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	xfinity
+45	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	work
+45	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	website
+45	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	watching
+45	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	watch
+45	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	visit
+45	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	view
+45	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	videos
+45	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	video
+45	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	users
+46	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	learn to dance hip hop
+46	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	learn to dance hip hop youtube
+46	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	learn to dance hip hop videos
+46	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	learn to dance hip hop sydney
+46	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	learn to dance hip hop online
+46	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	learn to dance hip hop dvd
+46	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	learn to dance hip hop abs
+46	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	learn to dance hip hop online free
+46	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	learn to dance hip hop for beginners
+46	10	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	learn to dance hip hop step by step for beginners
+46	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	york
+46	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wishlist
+46	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vimeo
+46	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	videos
+46	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	video
+46	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	upload
+46	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	updated
+46	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tutorials
+46	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tips
+46	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	time
+47	1	1.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	online money transfer united states
+47	2	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	zealand
+47	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	xoom
+47	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	writing
+47	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	worldremit
+47	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	withdrawing
+47	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	withdrawal
+47	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wire
+47	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	website
+47	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wallet
+47	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	venmo
+47	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	valid
+47	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	transferwise
+47	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	transfers
+47	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	transfer
+47	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	transfast
+47	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	transactions
+47	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	transaction
+47	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	total
+47	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	top&&
+48	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	regrow hairline
+48	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	regrow hair vitamins
+48	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	regrow hair shampoo
+48	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	regrow hair product
+48	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	regrow hair naturally
+48	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	regrow hair follicles
+48	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	regrow hair on crown
+48	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	regrow hair with castor oil
+48	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	regrow hair on bald head
+48	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	zinc
+48	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	zayn
+48	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	york
+48	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	yoga
+48	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wraps
+48	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	worse
+48	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	world
+48	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	works
+48	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wonderly
+48	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	wipe
+48	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	widely
+49	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	get a quick divorce in texas
+49	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	get a divorce online in texas
+49	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	cost to get a divorce in texas
+49	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to get a divorce in texas prison
+49	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	get a divorce in texas without a lawyer
+49	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to get a divorce in texas without spouse
+49	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to get a divorce in texas for free
+49	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	can i get a divorce in texas while pregnant
+49	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to get a divorce in texas with no money
+49	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	washington
+49	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vary
+49	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	typically
+49	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	topics
+49	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	tips
+49	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	times
+49	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	texaslawhelp
+49	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	texas
+49	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	testimonials
+49	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	temporary
+49	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	survey
+50	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	deliver a baby home video
+50	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	steps to deliver a baby at home
+50	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how can deliver a baby at home
+50	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	can you deliver a baby at home
+50	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to deliver a baby at home pdf
+50	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to deliver a baby at home emergency
+50	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to deliver a baby at home video dailymotion
+50	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to deliver a baby at home by yourself
+50	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	how to deliver a baby at home in sims 3
+50	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	years
+50	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	women
+50	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	william
+50	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	week
+50	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	water
+50	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	vagina
+50	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	undisturbed
+50	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	umbilical
+50	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	towels
+50	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	topics
+50	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_Google	toddler

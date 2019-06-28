@@ -1,0 +1,1000 @@
+1	1	0.032727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	acid stain concrete colors
+1	2	0.029148	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	acid stain concrete floors
+1	3	0.02	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	acid stain concrete patio
+1	4	0.016876	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	concrete floor
+1	5	0.016302	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	acid stain
+1	6	0.013079	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	acid stain concrete countertop
+1	7	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	acid stain concrete products
+1	8	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	acid stain concrete cost
+1	9	0.010975	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	concrete acid stain
+1	10	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	acid stain concrete floors pictures
+1	11	0.008405	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	stain concrete
+1	12	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	acid stain concrete lowes
+1	13	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	acid stain concrete countertops
+1	14	0.006961	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	countless distinctive
+1	15	0.006937	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	concrete
+1	16	0.006651	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	rustic concrete acid stain
+1	17	0.006284	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	stained concrete
+1	18	0.006095	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	applying acid stain
+1	19	0.006071	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	concrete stain colors
+1	20	0.006022	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	concrete floor resulting
+2	1	0.05	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	taking care of swimming pool water
+2	2	0.024866	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	basic swimming pool care
+2	3	0.023525	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	swimming pool
+2	4	0.017778	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	taking care of a swimming pool for dummies
+2	5	0.016667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	taking care of swimming pools for dummies
+2	6	0.015556	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	taking care of your swimming pool
+2	7	0.013333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	taking care of above ground swimming pool
+2	8	0.011191	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	pool
+2	9	0.011111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	taking care of a saltwater swimming pool
+2	10	0.010985	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	taking care
+2	11	0.010304	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	ultimate guide swimming pool tips
+2	12	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	important step
+2	13	0.008889	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	taking care of a saltwater pool
+2	14	0.00874	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	swimming pool maintenance
+2	15	0.008597	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	pool care
+2	16	0.007619	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	swimming pool care
+2	17	0.007585	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	inground swimming pool
+2	18	0.006667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to take care of swimming pool in winter
+2	19	0.006355	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	salt water pools
+2	20	0.005969	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	seasonal care
+3	1	0.045758	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	pole vault world record
+3	2	0.04156	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	pole vaulter
+3	3	0.030354	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	pole vault game
+3	4	0.028581	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	pole vaulting
+3	5	0.025455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	pole vault spikes
+3	6	0.014221	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	national pole vault summit
+3	7	0.013889	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	pole vault progression
+3	8	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	pole vault videos
+3	9	0.011111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	pole vault mattress
+3	10	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	pole vault olympics
+3	11	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	pole vault girl
+3	12	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	pole vault education competition
+3	13	0.009246	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	pole vault final
+3	14	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	pole vault summit
+3	15	0.008378	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	competitors vault
+3	16	0.008333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	pole vault booed rio
+3	17	0.008164	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	webster define pole vault
+3	18	0.007655	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	pole vault fails
+3	19	0.007235	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	field event consisting
+3	20	0.006044	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	spille spill pole vault
+4	1	0.024242	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	education to become an allergist
+4	2	0.02	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to become an allergist
+4	3	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to become an allergist in canada
+4	4	0.015556	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	should i become an allergist
+4	5	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to become an allergist in australia
+4	6	0.013597	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	rewarding career
+4	7	0.013522	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	student doctor network
+4	8	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to become an allergist uk
+4	9	0.011111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how do you become an allergist
+4	10	0.010138	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	ellen sher
+4	11	0.010104	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	allergy testing
+4	12	0.010092	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	intense postgraduate study
+4	13	0.010092	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	certified allergist
+4	14	0.01001	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	closely supervised
+4	15	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	straightforward guide
+4	16	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	training to become an allergist
+4	17	0.008889	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	schools to become an allergist
+4	18	0.008618	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	internal medicine
+4	19	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	colleges to become an allergist
+4	20	0.007153	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	immunologic diseases
+5	1	0.029091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bird spotting sheet
+5	2	0.02	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bird spotting binoculars
+5	3	0.019211	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bird spotting scope
+5	4	0.016548	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bird spotting scopes
+5	5	0.014644	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bird spotting book
+5	6	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bird spotting app
+5	7	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bird spotting scope reviews
+5	8	0.01115	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	spotting scope
+5	9	0.01037	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	spotting scopes
+5	10	0.010087	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bird academy
+5	11	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	instagram photos
+5	12	0.009943	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bird watching spotting scopes
+5	13	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bird spotting equipment
+5	14	0.00761	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	wild birds
+5	15	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bird spotting photos
+5	16	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bird spotting guide
+5	17	0.007048	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bird watching
+5	18	0.006821	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	full image attached
+5	19	0.006305	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bird sightings
+5	20	0.006187	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bird recording area
+6	1	0.05	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to care for a toy poodle
+6	2	0.02381	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	care for toy poodle puppy
+6	3	0.020222	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	adapt quickly
+6	4	0.020094	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	intelligent characters
+6	5	0.019048	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	ear care for toy poodles
+6	6	0.016667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to care for a toy poodle puppy
+6	7	0.01617	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	poodle care
+6	8	0.01482	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	miniature poodles
+6	9	0.014286	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	eye care for toy poodles
+6	10	0.012619	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	poodle
+6	11	0.011264	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	standard poodle
+6	12	0.010067	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	popular breed
+6	13	0.009524	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	care tiny toy poodle
+6	14	0.009333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	avoid health problems
+6	15	0.008684	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	health care
+6	16	0.008536	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	curly coat
+6	17	0.005463	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	poodle information including pictures
+6	18	0.005275	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	homestead poodles poodle care
+6	19	0.005108	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bathed regularly
+6	20	0.005059	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	grooming styles
+7	1	0.036314	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	cure indigestion naturally
+7	2	0.028571	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	cure indigestion and gas
+7	3	0.02632	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home remedies
+7	4	0.016797	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	cure indigestion baking soda
+7	5	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	cure indigestion fast
+7	6	0.014642	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	natural home remedies
+7	7	0.014286	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	cure indigestion symptoms
+7	8	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	cure indigestion at home
+7	9	0.01211	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	webmd explains
+7	10	0.011492	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	indigestion pain
+7	11	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	cure indigestion in pregnancy
+7	12	0.010402	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	indigestion symptoms
+7	13	0.010351	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	simple home remedies
+7	14	0.010094	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	find relief
+7	15	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	compare drugs
+7	16	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	cure indigestion quickly
+7	17	0.007831	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	upper abdomen symptoms
+7	18	0.006863	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	people suffer
+7	19	0.006742	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	uncomfortable ailment
+7	20	0.006591	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	extinguish indigestion
+8	1	0.04	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	whitewater rafting in norway
+8	2	0.037042	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	whitewater rafting
+8	3	0.03	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	whitewater rafting norway
+8	4	0.02	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	white water rafting australia sydney
+8	5	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	white water rafting bali
+8	6	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	white water rafting west virginia
+8	7	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	white water rafting uk
+8	8	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	white water rafting grand canyon
+8	9	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	white water rafting colorado
+8	10	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	white water rafting tennessee
+8	11	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	white water rafting queenstown
+8	12	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	white water rafting georgia
+8	13	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	white water rafting costa rica
+8	14	0.010463	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	pocono whitewater rafting
+8	15	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	white water rafting turkey antalya
+8	16	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	white water rafting pennsylvania
+8	17	0.007839	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	lehigh river
+8	18	0.007295	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	white water rafting trips
+8	19	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	white water rafting maine
+8	20	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	white water rafting cardiff
+9	1	0.074866	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	mutual funds
+9	2	0.021338	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	mutual fund
+9	3	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in mutual funds online
+9	4	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in mutual funds or stocks
+9	5	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in mutual funds philippines
+9	6	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in mutual funds india
+9	7	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in mutual funds directly
+9	8	0.012779	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	mutual fund investing
+9	9	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in mutual funds online india
+9	10	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in mutual funds for free
+9	11	0.012	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	marketwatch offers advice
+9	12	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in mutual funds sip
+9	13	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in mutual funds in india
+9	14	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	found guru mediation
+9	15	0.009775	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	adding mutual fund holdings
+9	16	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in mutual funds through sip
+9	17	0.008612	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	mutual funds work
+9	18	0.007857	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	investment portfolio
+9	19	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in mutual funds online icici
+9	20	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in mutual funds or roth ira
+10	1	0.033928	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	living room
+10	2	0.033333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to setup living room furniture
+10	3	0.026667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	rug setup living room
+10	4	0.018482	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	living room setup
+10	5	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	projector setup living room
+10	6	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	tv setup living room
+10	7	0.013333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	different ways to setup living room
+10	8	0.013101	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	living room furniture
+10	9	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	speaker setup living room
+10	10	0.012717	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	ultimate tech living room setup
+10	11	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	dj setup living room
+10	12	0.010407	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	search brought
+10	13	0.010106	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	move ahead
+10	14	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	gaming setup living room
+10	15	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	furniture setup living room
+10	16	0.007203	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	living room setup ideas
+10	17	0.007025	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	living room setup design ideas
+10	18	0.006811	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	great sound systems
+10	19	0.006667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to setup living room
+10	20	0.006633	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	craftsman living rooms
+11	1	0.018182	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	braid extensions little girls
+11	2	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	braid extensions melbourne
+11	3	0.015639	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hair extensions
+11	4	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	braid extensions styles
+11	5	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	braid extensions edmonton
+11	6	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	braid extensions nz
+11	7	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	braid extensions for kids
+11	8	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	braid extensions cost
+11	9	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	braid extensions on natural hair
+11	10	0.010257	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	crochet hair extensions
+11	11	0.010198	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	black braided hairstyles
+11	12	0.010074	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	installing extension hair
+11	13	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	braid extensions weave
+11	14	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	braid extensions perth
+11	15	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	braid extensions on very short hair
+11	16	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	braid extensions no sew or glue
+11	17	0.007266	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	crochet braids hair
+11	18	0.007263	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	ebay find great deals
+11	19	0.006517	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	oriental trading company braid extensions
+11	20	0.006379	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	human hair extensions
+12	1	0.029091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	start a vineyard in california
+12	2	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	start a vineyard in texas
+12	3	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to start a vineyard winery
+12	4	0.015119	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	people dream
+12	5	0.015113	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	fruit growing
+12	6	0.014887	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	napa valley grape grower
+12	7	0.013499	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home vineyard
+12	8	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	start a small vineyard
+12	9	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	start a vineyard in kentucky
+12	10	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	start a backyard vineyard
+12	11	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how do you start a vineyard
+12	12	0.010726	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	growing grapes
+12	13	0.009952	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	english wine week
+12	14	0.009761	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	backyard vineyard
+12	15	0.009604	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	winemaker magazine
+12	16	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	start vineyard business
+12	17	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	grants to start a vineyard
+12	18	0.007283	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	full production requires
+12	19	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to start a vineyard in australia
+12	20	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how much does it cost to start a vineyard
+13	1	0.038372	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	girl scout cookies
+13	2	0.025455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	buy girl scout cookies seeds
+13	3	0.023038	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	girl scouts
+13	4	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	buy girl scout cookies strain
+13	5	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	buy girl scout cookies 2016
+13	6	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	buy girl scout cookies locations
+13	7	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	buy girl scout cookies year round
+13	8	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	buy girl scout cookies weed online
+13	9	0.012242	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	thin mints
+13	10	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	buy girl scout cookies uk
+13	11	0.010331	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	find delicious girl scout cookies
+13	12	0.010112	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	cookies
+13	13	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	buy girl scout cookies michigan
+13	14	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	buy girl scout cookies strain online
+13	15	0.008993	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	find cookies
+13	16	0.007615	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	brownie bakers
+13	17	0.007473	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	delicious girl scout cookies
+13	18	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	buy girl scout cookies 2017
+13	19	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	buy girl scout cookies thanks a-lot
+13	20	0.006892	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	girl scout cookie finder
+14	1	0.066364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	open a bank account online
+14	2	0.033682	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bank account
+14	3	0.033333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	open a bank account in argentina
+14	4	0.025455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	open a bank account in canada
+14	5	0.023689	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bank account online
+14	6	0.02	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	open a bank account in singapore
+14	7	0.018182	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	open a bank account online with no deposit
+14	8	0.016667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	open a bank account in nigeria online
+14	9	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	open a bank account in uk
+14	10	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	open a bank account online free
+14	11	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	open a bank account for free
+14	12	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	open a bank account online chase
+14	13	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	open a bank account with bad credit
+14	14	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	temporarily unavailable
+14	15	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	small business loan
+14	16	0.009839	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bank account online today
+14	17	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	open a bank account wells fargo
+14	18	0.009012	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	checking account online
+14	19	0.008873	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	checking accounts
+14	20	0.008102	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bank accounts
+15	1	0.025455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	french manicure nails
+15	2	0.024504	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	french manicures
+15	3	0.02381	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	french manicure riga
+15	4	0.023636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	french manicure kit
+15	5	0.019433	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	french manicure designs
+15	6	0.019048	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	french manicure london
+15	7	0.017922	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	french manicure nail art
+15	8	0.017485	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	classic french manicure
+15	9	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	french manicure pictures
+15	10	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	french manicure gel
+15	11	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	french manicure nail designs
+15	12	0.012616	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	french manicure toes
+15	13	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	french manicure design
+15	14	0.010398	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	trind base coat
+15	15	0.010117	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	latest incarnations
+15	16	0.009524	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	french manicure lucca italy
+15	17	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	french manicure images
+15	18	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	french manicure with glitter
+15	19	0.00897	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	french manicure tips
+15	20	0.008709	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	salon quality french tips
+16	1	0.05	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	is it good to extend laptop warranty
+16	2	0.033333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	extend hp laptop warranty
+16	3	0.016667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	extending laptop warranty
+16	4	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	extend laptop warranty hp
+16	5	0.015878	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	extended warranty
+16	6	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	extend laptop warranty dell
+16	7	0.013671	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	access denied access denied
+16	8	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	extend laptop warranty lenovo
+16	9	0.012613	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	extended warranties
+16	10	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	extend hp laptop warranty online india
+16	11	0.010205	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	notebook online
+16	12	0.010192	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	extend warranty
+16	13	0.010106	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	electronic device
+16	14	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	tablets online
+16	15	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	extend acer laptop warranty india
+16	16	0.008407	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	make sense
+16	17	0.007731	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	warranty renewal
+16	18	0.007658	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	limited hardware warranty
+16	19	0.007437	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	laptop warranty
+16	20	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	extend toshiba laptop warranty
+17	1	0.04	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to get a fake tan at home
+17	2	0.030477	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	real tanning
+17	3	0.020286	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	heard people
+17	4	0.02	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	fake tan spray at home
+17	5	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	fake tan at home tips
+17	6	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	best fake tan at home
+17	7	0.013479	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	tanning products
+17	8	0.013296	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	fake cute freckles
+17	9	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	perfect fake tan at home
+17	10	0.011514	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	dead skin cells
+17	11	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	fake tan remover at home
+17	12	0.010234	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	gorgeous scent
+17	13	0.010112	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	spend money
+17	14	0.010055	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	fake tanners smell
+17	15	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to fake tan at home
+17	16	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	make fake tan at home
+17	17	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	applying fake tan at home
+17	18	0.006272	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	heard horror stories
+17	19	0.006	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	minetan body skin
+17	20	0.005455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	fake bake tan at home
+18	1	0.066667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	buy used laptop online
+18	2	0.026667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	sell used laptop online india
+18	3	0.02	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	sell used hp laptop online
+18	4	0.013333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	sell used laptop batteries online
+18	5	0.013251	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	sell laptop
+18	6	0.012922	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	broken laptops
+18	7	0.012417	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	free shipping
+18	8	0.011968	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	laptop online
+18	9	0.010565	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	sell laptop online
+18	10	0.010062	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	sell
+18	11	0.01004	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	sell laptop back
+18	12	0.008016	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	free instant quote online
+18	13	0.00781	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	free paid shipping
+18	14	0.007595	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	access denied access denied
+18	15	0.0072	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	sell gadgets online india
+18	16	0.006701	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	online quotes
+18	17	0.006667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	best place to sell used laptop online
+18	18	0.006572	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	sell mobile online
+18	19	0.006249	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	broken laptops online
+18	20	0.006016	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	broken laptops selling laptops online
+19	1	0.023636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	customize your own shirt cheap
+19	2	0.02	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	fully loaded online design studio
+19	3	0.019684	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	shirt printing expert
+19	4	0.018182	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	customize your own shirt
+19	5	0.018182	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	customize your own t shirt
+19	6	0.017578	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	free shipping
+19	7	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	customize your own t-shirt for cheap
+19	8	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	customize your own t shirt online cheap
+19	9	0.014693	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	shirt designs online whooptee guarantees
+19	10	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	customize your own t shirt india
+19	11	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	customize your own shirt for free
+19	12	0.014358	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	shirt design
+19	13	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	customize your own shirt online
+19	14	0.010995	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	shirt printing
+19	15	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	customize your own shirt free shipping
+19	16	0.010122	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	spreadshirt make
+19	17	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	favorite photo
+19	18	0.009878	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	shirt maker
+19	19	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	customize your own t shirt uk
+19	20	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	customize your own shirt with pictures
+20	1	0.047365	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	stock market
+20	2	0.027273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in stock market with little money
+20	3	0.02	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	found guru mediation
+20	4	0.02	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in stock market india
+20	5	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in stock market online
+20	6	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in stock market for dummies
+20	7	0.01534	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	stock investing
+20	8	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in stock market or real estate
+20	9	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in stock market or 401k
+20	10	0.011781	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	start investing
+20	11	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in stock market now
+20	12	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in stock market no minimum
+20	13	0.010279	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	stock market today
+20	14	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	guru meditation
+20	15	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	client configuration
+20	16	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in stock market in philippines
+20	17	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	invest in stock market for beginners
+20	18	0.008485	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	wealthy people invest
+20	19	0.007692	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	offers free real time quotes
+20	20	0.007066	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	london stock exchange investing
+21	1	0.060173	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	windows 10 troubleshooting
+21	2	0.03	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	dell technical content
+21	3	0.028571	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	windows 10 troubleshooting tool
+21	4	0.021818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	windows 10 troubleshooting tools
+21	5	0.019048	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	windows 10 troubleshooter
+21	6	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	windows 10 troubleshooter download
+21	7	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	windows 10 troubleshoot boot
+21	8	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	windows 10 troubleshoot installation
+21	9	0.01394	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	operating system
+21	10	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	windows 10 troubleshoot mode
+21	11	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	windows 10 troubleshoot from command prompt
+21	12	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	windows 10 troubleshooting menu
+21	13	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	windows 10 troubleshoot startup
+21	14	0.010867	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	anniversary update
+21	15	0.01072	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	system restore
+21	16	0.010294	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	controversial automatic update system
+21	17	0.010175	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	drivere dell
+21	18	0.010043	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	problems people report
+21	19	0.010037	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	windows
+21	20	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	week microsoft msft
+22	1	0.033684	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	united states
+22	2	0.025	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	badly formed
+22	3	0.016705	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	health care
+22	4	0.015536	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	health care provider
+22	5	0.008762	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	health care worker certification
+22	6	0.007826	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	joint commission accreditation
+22	7	0.007318	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	health condition
+22	8	0.006983	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	wikipedia health care reform
+22	9	0.006667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	nccih health care providers
+22	10	0.006261	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	joint commission
+22	11	0.005713	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	recognized nationwide
+22	12	0.005443	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	entire economy
+22	13	0.005147	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	essential human services
+22	14	0.004853	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	finding health care
+22	15	0.004759	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	family member
+22	16	0.004432	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	healthcare compliance certification
+22	17	0.004332	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	health professional
+22	18	0.004259	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	restraining health care facility costs
+22	19	0.004219	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	health care workers
+22	20	0.004167	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	claims lower health care costs
+23	1	0.033828	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	aadhar card
+23	2	0.023051	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	aadhaar card
+23	3	0.022222	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	server
+23	4	0.021818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	apply for aadhar card online
+23	5	0.018182	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	can nri apply for aadhar card
+23	6	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to apply for aadhar card
+23	7	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	apply for aadhar card online bangalore
+23	8	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	apply for aadhar card bangalore
+23	9	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to apply for aadhar card in chennai
+23	10	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	apply for aadhar card pune
+23	11	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to apply for aadhar card in delhi
+23	12	0.011495	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	unique identification authority
+23	13	0.0114	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	aadhar card online
+23	14	0.010953	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	aadhaar card online
+23	15	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	where to apply for aadhar card
+23	16	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	apply for aadhar card from usa
+23	17	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	who can apply for aadhar card
+23	18	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	apply for aadhar card in gurgaon
+23	19	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	online apply for aadhar card
+23	20	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	apply for aadhar card online kolkata
+24	1	0.040708	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	united kingdom
+24	2	0.033333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	drivers license requirements in united kingdom
+24	3	0.02381	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	united kingdom driver's licence
+24	4	0.019048	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	international driver's license united kingdom
+24	5	0.015452	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	drivers license
+24	6	0.014286	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	united kingdom driver's license categories
+24	7	0.01246	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	great britain
+24	8	0.012123	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	driving license
+24	9	0.011836	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	driving licence
+24	10	0.011651	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	united kingdom drivers license
+24	11	0.011635	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	vehicle licensing agency
+24	12	0.011129	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	motor vehicle
+24	13	0.011125	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	official document
+24	14	0.010972	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	driving licences
+24	15	0.010013	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	united kingdom drivers
+24	16	0.009524	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	united kingdom driver's license template
+24	17	0.008266	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	international drivers license
+24	18	0.006382	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	british drivers license
+24	19	0.006365	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	international drivers license requirements
+24	20	0.005492	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	canadian driving licence
+25	1	0.043157	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	educational toys
+25	2	0.022437	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	learning toys
+25	3	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	educational toys for kids catalog
+25	4	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	educational toys for kids 7-10
+25	5	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	educational toys for kids with autism
+25	6	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	educational toys for kids ages 9-11
+25	7	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	educational toys for kids to build
+25	8	0.008067	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	educational toys planet
+25	9	0.007756	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	early years home learning
+25	10	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	educational toys for kids for christmas
+25	11	0.006836	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	access denied access denied
+25	12	0.006819	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	toys
+25	13	0.006749	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	national geographic store browse
+25	14	0.006639	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	science kits
+25	15	0.006548	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	innovative educational toys
+25	16	0.006214	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	toddler learning toys
+25	17	0.006	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	learning journey match
+25	18	0.005832	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	wikipedia educational toys
+25	19	0.005743	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	national geographic store
+25	20	0.005455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	educational toys for kids on amazon
+26	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to setup a garage sale
+26	2	0.048593	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	garage sale
+26	3	0.018769	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	yard sale
+26	4	0.018182	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	set up a garage sale
+26	5	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	creating a garage sale ad
+26	6	0.016039	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	successful garage sale
+26	7	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	set up garage sale on craigslist
+26	8	0.014367	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	garage sale tips
+26	9	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to set up a garage sale without tables
+26	10	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to set up a garage sale online
+26	11	0.010155	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	garage sales
+26	12	0.009251	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	photobucket browse garage setup pictures
+26	13	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to set up a garage sale on facebook
+26	14	0.008424	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	garage sale customers
+26	15	0.00838	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	garage setup pictures
+26	16	0.008312	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	garage sale garage sale tips
+26	17	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	ways to set up a garage sale
+26	18	0.007009	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	unwanted items
+26	19	0.00674	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	garage sale layout tips remember
+26	20	0.006627	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	extra cash
+27	1	0.033333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	apply for government jobs in india
+27	2	0.031887	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	government jobs
+27	3	0.026667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	online apply for government job in india 2014
+27	4	0.02081	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	latest government jobs
+27	5	0.02	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	online application for government jobs in india 2014
+27	6	0.016986	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	government jobs 2017
+27	7	0.014188	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	govt jobs
+27	8	0.013333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	online application for government jobs in india 2013
+27	9	0.010326	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	latest govt jobs
+27	10	0.010054	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	federal
+27	11	0.008492	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	central government jobs
+27	12	0.008017	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	govt jobs vacancies
+27	13	0.006863	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	employment notification inviting candidates
+27	14	0.006667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	for government jobs in india
+27	15	0.006459	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	latest govt jobs 2017
+27	16	0.006064	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	government companies
+27	17	0.005361	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	accept applications
+27	18	0.005313	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	central govt jobs
+27	19	0.00521	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	indian government jobs
+27	20	0.00501	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	central government jobs 2017
+28	1	0.032727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	test for diabetes insipidus
+28	2	0.027971	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home test
+28	3	0.027273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	test for diabetes mellitus
+28	4	0.023636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	test for diabetes type 2
+28	5	0.022455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hovedsak benyttet
+28	6	0.020676	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	diabetes
+28	7	0.015025	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	diagnosing diabetes
+28	8	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	test for diabetes type 1
+28	9	0.012533	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	diabetes tests
+28	10	0.011075	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	diagnose diabetes
+28	11	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	test for diabetes gene
+28	12	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	test for diabetes at home
+28	13	0.010902	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	oral glucose tolerance test
+28	14	0.010811	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	fasting plasma glucose test
+28	15	0.010533	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	laboratory tests
+28	16	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	test for diabetes blood sugar
+28	17	0.008235	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	diabetes mellitus
+28	18	0.007976	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	reverses diabetes permanently
+28	19	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	test for diabetes singapore
+28	20	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	test for diabetes in children
+29	1	0.066667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	become begin bite blow break og bring
+29	2	0.033333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	become begin bite blow break og bring bøying
+29	3	0.021429	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	become vegan for weight loss
+29	4	0.018052	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	become vegan chef
+29	5	0.017857	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	become vegan youtube
+29	6	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	become vegan nutritionist
+29	7	0.016299	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	become vegan to lose weight
+29	8	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	become vegan step by step
+29	9	0.014351	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	become vegan overnight
+29	10	0.014286	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	become vegan cold turkey
+29	11	0.012194	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	vegan society
+29	12	0.010455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	americans polled
+29	13	0.010237	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	vegan diet
+29	14	0.010095	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	veggie table
+29	15	0.010069	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	enjoy life
+29	16	0.010048	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	eliminating animal products
+29	17	0.010006	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	laid back
+29	18	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	item details
+29	19	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	bruk personvern retningslinjer
+29	20	0.009545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	digest vegan
+30	1	0.023538	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	create appealing buttons
+30	2	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	buttons for websites free
+30	3	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	social media buttons for websites
+30	4	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	donate buttons for websites
+30	5	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	buttons for websites psd free download
+30	6	0.013069	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	social traffic drive traffic
+30	7	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	navigation buttons for websites
+30	8	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	buttons for websites download
+30	9	0.011398	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	share content
+30	10	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	html buttons for websites
+30	11	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	buttons for websites google analytics
+30	12	0.010506	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	social plugins
+30	13	0.009956	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	share button
+30	14	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	facebook buttons for websites
+30	15	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	buttons for websites photoshop
+30	16	0.008698	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	website bots
+30	17	0.008268	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	block semalt
+30	18	0.007277	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	professionally designed collection
+30	19	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	graphic buttons for websites
+30	20	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	cool buttons for websites
+31	1	0.066667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	growing flowering plants from seeds
+31	2	0.033333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	do all flowering plants grow from seeds
+31	3	0.012513	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	grow flowers
+31	4	0.011132	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	grow plants
+31	5	0.008826	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	grow flower plants
+31	6	0.008197	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	annual flowers
+31	7	0.007907	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	flowering plants
+31	8	0.006167	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	grow flowering annuals
+31	9	0.005906	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	borders burgeon
+31	10	0.005895	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	containers drip
+31	11	0.005685	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	flowering plant
+31	12	0.005442	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	seed packet
+31	13	0.004877	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	plants grow
+31	14	0.004776	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	grow marijuana plants grown
+31	15	0.004715	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	plant flower seeds
+31	16	0.004669	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home gardening
+31	17	0.004551	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	growing flowers
+31	18	0.00453	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	healthy plant ready
+31	19	0.004343	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	seeds
+31	20	0.00434	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	densely flowering chive
+32	1	0.084328	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	social media
+32	2	0.037273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	social media tools for learning
+32	3	0.02	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	using social media for learning
+32	4	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	social media for learning english
+32	5	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	social media for learning and development
+32	6	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	social media for learning by means of ict
+32	7	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	social media for learning languages
+32	8	0.010238	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	social media strategy
+32	9	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to use social media for learning
+32	10	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	social media for learning japanese
+32	11	0.006443	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	learning tool
+32	12	0.005677	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	integrate social media
+32	13	0.005654	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	social media tools
+32	14	0.005455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	using social media for learning and development
+32	15	0.005101	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	endless possibilities
+32	16	0.004551	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	free social media tutorials
+32	17	0.004521	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	columnist connie malamed
+32	18	0.004398	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	teaching methods closer
+32	19	0.004377	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	higher education faculty
+32	20	0.004203	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	edutopia creating social media guidelines
+33	1	0.056128	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	sore throat
+33	2	0.034911	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home remedies
+33	3	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home remedies sore throat relief
+33	4	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home remedies sore throat and cough
+33	5	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home remedies sore throat cough
+33	6	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home remedies sore throat no voice
+33	7	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home remedies sore throat vinegar
+33	8	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home remedies sore throat post nasal drip
+33	9	0.011951	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	sore throat home remedies
+33	10	0.01131	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	sore throat remedies
+33	11	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home remedies sore throat children
+33	12	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home remedies sore throat cough phlegm
+33	13	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home remedies sore throat toddlers
+33	14	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home remedies sore throat cold
+33	15	0.008772	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home sore throat remedies
+33	16	0.008323	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	strained vocal cords
+33	17	0.007954	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	sore throats
+33	18	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home remedies sore throat laryngitis
+33	19	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home remedies sore throat ear ache
+33	20	0.006408	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	simple natural remedies
+34	1	0.03521	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	golf instruction videos
+34	2	0.033333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	golf instruction program
+34	3	0.023636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	golf instruction books
+34	4	0.019033	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	golf tips
+34	5	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	golf instruction dvd
+34	6	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	golf instruction youtube
+34	7	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	golf instruction schools
+34	8	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	golf instruction online
+34	9	0.01153	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	golf instruction tips
+34	10	0.010951	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	golf digest
+34	11	0.010648	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	golf lessons
+34	12	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	golf swing instructions
+34	13	0.009577	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	play golf
+34	14	0.00956	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	including tips
+34	15	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	golf instruction houston
+34	16	0.00818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	video golf lessons
+34	17	0.007581	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	helpful videos
+34	18	0.007406	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	free golf lessons
+34	19	0.007309	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	skill levels
+34	20	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	golf instruction podcast
+35	1	0.030909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hair dye ideas
+35	2	0.030909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hair dye colors
+35	3	0.02381	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hair dye faberlic online
+35	4	0.023636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hair dye brands
+35	5	0.021818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hair dye remover
+35	6	0.021364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hair color
+35	7	0.019048	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hair dye vegetable based
+35	8	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hair dye for men
+35	9	0.014286	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hair dye sccs test
+35	10	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hair dye and pregnancy
+35	11	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	platinum blonde
+35	12	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	latest merch
+35	13	0.009524	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hair dye machin
+35	14	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hair dye colours
+35	15	0.008388	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hair coloring
+35	16	0.008292	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hair dyes
+35	17	0.007768	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	free shipping
+35	18	0.006783	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	ideal hair color
+35	19	0.006126	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	full hair colour range
+35	20	0.006044	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	select hair color products
+36	1	0.025455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	build hip roof porch
+36	2	0.023786	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	easier method
+36	3	0.017114	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hipped roof
+36	4	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	build hip roof over deck
+36	5	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to build hip roof trusses
+36	6	0.014842	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	gable roof
+36	7	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	build hip roof trusses
+36	8	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	build hip roof shed
+36	9	0.013786	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	visit http
+36	10	0.01109	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	simple roof
+36	11	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	build hip roof overhang
+36	12	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	estimated cost to build hip roof
+36	13	0.010487	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	roof building
+36	14	0.010372	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	slopes downward
+36	15	0.010356	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	uniform angle
+36	16	0.010121	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	good tutorial
+36	17	0.010016	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	article covers
+36	18	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	eave overhang
+36	19	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	build a hip roof video
+36	20	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to build hip roof rafters
+37	1	0.053596	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home theater
+37	2	0.034471	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home theater system
+37	3	0.02381	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to build home theater system
+37	4	0.022857	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	build my home theater system
+37	5	0.020507	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	access denied access denied
+37	6	0.019048	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	build your own home theater system
+37	7	0.017778	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	build home theater system components
+37	8	0.015556	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	build own home theater system
+37	9	0.014286	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	build a home theater system
+37	10	0.011111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	build your home theatre system
+37	11	0.011077	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home theater audio system
+37	12	0.009493	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	access
+37	13	0.008889	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	build home theater pc standard client gaming system
+37	14	0.008766	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	impressive home theater
+37	15	0.008333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	perfect room
+37	16	0.007854	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home theater systems
+37	17	0.007519	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	custom home theater system
+37	18	0.006667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to build a wireless home theater system
+37	19	0.006172	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	ideal home theater audio system
+37	20	0.005875	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home entertainment system
+38	1	0.077659	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	ketogenic diet
+38	2	0.033333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to start a ketogenic diet
+38	3	0.031522	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	keto diet
+38	4	0.026667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how do you start a ketogenic diet
+38	5	0.02	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	i want to start a ketogenic diet
+38	6	0.013333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to start a ketogenic diet to lose weight
+38	7	0.010485	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	viable ketones
+38	8	0.009969	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	ketogenic diets
+38	9	0.008571	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	youtube amazing information
+38	10	0.00775	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	high carb eating sugar
+38	11	0.007358	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	ketogenic diet plan
+38	12	0.006667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to start a ketogenic diet bodybuilding
+38	13	0.006085	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	start eating
+38	14	0.005284	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	side effects
+38	15	0.005155	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	keto plan
+38	16	0.005053	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	fight migraine
+38	17	0.005012	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	plan ahead
+38	18	0.004861	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	menu plan
+38	19	0.004728	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	viable diet plan ready
+38	20	0.004599	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	ultimate beginner
+39	1	0.066667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	finding planets in the night sky tonight
+39	2	0.033333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	finding planets in the night sky jupiter
+39	3	0.03	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	find planets and constellations in the night sky
+39	4	0.027871	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	find planets
+39	5	0.02	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how do you find planets in the night sky
+39	6	0.013595	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	visible planets
+39	7	0.010614	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	handy diagrams
+39	8	0.010313	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	find mars
+39	9	0.010274	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	stars move
+39	10	0.010256	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	single night
+39	11	0.010128	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	moon joins
+39	12	0.010034	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	planets
+39	13	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	astronomy basics
+39	14	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how do i find planets in the night sky
+39	15	0.008428	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	planets visible
+39	16	0.008172	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	astroviewer find planets
+39	17	0.006493	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	detailed star charts showing
+39	18	0.006133	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	visible live online
+39	19	0.005925	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	easily recognized stars
+39	20	0.005858	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	occultation takes place
+40	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	recycle lead acid battery new jersey
+40	2	0.03531	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	acid batteries
+40	3	0.023274	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	battery recycling locations
+40	4	0.019586	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	battery recycling
+40	5	0.00985	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	battery council international
+40	6	0.008313	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	large lead
+40	7	0.008166	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	federal regulations
+40	8	0.006853	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	acid batteries purchased
+40	9	0.006801	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	household special waste
+40	10	0.006351	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	jersey
+40	11	0.006	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	york state department
+40	12	0.006	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	repair hybrid batteries
+40	13	0.005776	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	small sealed lead acid
+40	14	0.005718	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	small sealed lead
+40	15	0.005479	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	recyclable sealed lead acid batteries
+40	16	0.005232	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	recycle batteries
+40	17	0.005143	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	automotive parts store
+40	18	0.005	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	reconditioned auto
+40	19	0.004958	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	recycling batteries
+40	20	0.004929	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	battery manufacturer
+41	1	0.084173	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	heart attack
+41	2	0.028571	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	prevent a heart attack
+41	3	0.02381	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	prevent a heart attack in 10 seconds
+41	4	0.019048	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	prevent a heart attack in 5 steps
+41	5	0.014286	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	prevent a heart attack by coughing
+41	6	0.01364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	heart attack prevention
+41	7	0.012069	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	heart disease
+41	8	0.010683	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	blood vessels
+41	9	0.01024	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	american heart association offers
+41	10	0.009524	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	prevent a heart attack diet
+41	11	0.008302	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	prevent heart disease
+41	12	0.007696	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	coronary heart disease
+41	13	0.007035	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	prevent heart attacks
+41	14	0.006193	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	heart disease prevention
+41	15	0.006172	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	heart attack prevention tips
+41	16	0.005898	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	risk factors
+41	17	0.005338	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	heart
+41	18	0.005325	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	cardiovascular diseases
+41	19	0.005251	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	good nutrition
+41	20	0.005195	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	subsequent heart attack
+42	1	0.070904	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	teddy bear
+42	2	0.018182	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	make a teddy bear out of an old shirt
+42	3	0.017097	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	teddy bears
+42	4	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	make a teddy bear kit
+42	5	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	make a teddy bear from a towel
+42	6	0.016132	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	free teddy bear sewing pattern
+42	7	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	make a teddy bear out of a shirt
+42	8	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	make a teddy bear store
+42	9	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	make a teddy bear out of a towel
+42	10	0.012307	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	make teddy bears
+42	11	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	make a teddy bear game
+42	12	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	make a teddy bear costume for puppy
+42	13	0.010664	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	free pattern
+42	14	0.010559	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	step video tutorial
+42	15	0.010518	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	teddy bear tutorial
+42	16	0.009364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	basic teddy bear outline
+42	17	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	make a teddy bear from baby clothes
+42	18	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	make a teddy bear out of a sweater
+42	19	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	make a teddy bear out of a baby sleeper
+42	20	0.008355	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	easy teddy bear
+43	1	0.066667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	search the internet anonymously
+43	2	0.03033	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	easiest ways
+43	3	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	browse the internet anonymously free
+43	4	0.01495	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	internet anonymously
+43	5	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	browse internet anonymously proxy
+43	6	0.013068	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	browse anonymously
+43	7	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	browse internet anonymously software
+43	8	0.011124	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	mice surf
+43	9	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	browse internet anonymously chrome
+43	10	0.010741	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	easy tutorial
+43	11	0.010526	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	internet anonymously free
+43	12	0.010192	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	regular people
+43	13	0.010175	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	stay anonymous online
+43	14	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	browse internet anonymously ipad
+43	15	0.007579	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	free software
+43	16	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	browse internet anonymously at work
+43	17	0.006114	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	internet explorer
+43	18	0.005885	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	free anonymous browsing sofware
+43	19	0.005865	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	browse internet secretly
+43	20	0.005729	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	browsing habits
+44	1	0.032727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	morel mushrooms hunting tips
+44	2	0.021053	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	morel mushroom hunting club
+44	3	0.017827	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	elusive morel mushrooms
+44	4	0.01519	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hunting morel mushrooms
+44	5	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	morel mushrooms hunting club
+44	6	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	morel mushrooms hunting in missouri
+44	7	0.013772	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	find morel mushrooms
+44	8	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	morel mushroom hunting secrets
+44	9	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	morel mushrooms hunting in washington state
+44	10	0.012315	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	morel mushrooms
+44	11	0.011482	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	morel mushroom hunting tips
+44	12	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	morel mushrooms hunting iowa
+44	13	0.010492	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	great morel home page
+44	14	0.010098	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	inherent risks involved
+44	15	0.009977	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	mushroom hunting
+44	16	0.009363	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	morel hunting
+44	17	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	morel mushrooms hunting illinois
+44	18	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	morel mushroom hunting map
+44	19	0.00906	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	helpful morel mushroom hunting tips
+44	20	0.00836	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	find morels
+45	1	0.023636	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	watch tv on the internet live
+45	2	0.02	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	error page
+45	3	0.018182	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	watch tv on the internet for free
+45	4	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	watch tv on the internet dish network
+45	5	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	watch tv on the internet for free live
+45	6	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	watch tv on the internet time warner
+45	7	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	watch tv on the internet in canada
+45	8	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	watch tv on the internet australia
+45	9	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	watch tv on the internet with at&t
+45	10	0.010308	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	googletv apps
+45	11	0.010102	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	completely original
+45	12	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	watch news
+45	13	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	sticks community
+45	14	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	internet basics
+45	15	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	time warner cable find
+45	16	0.009659	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	stream episodes
+45	17	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	watch tv on the internet uk
+45	18	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	watch tv on the internet philippines
+45	19	0.008433	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	live online television
+45	20	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	watch tv on the internet software
+46	1	0.036364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	learn to dance hip hop
+46	2	0.025455	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	learn to dance hip hop videos
+46	3	0.021937	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	dance class
+46	4	0.021818	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	learn to dance hip hop for beginners
+46	5	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	learn to dance hip hop online
+46	6	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	learn to dance hip hop free
+46	7	0.015524	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	learn
+46	8	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	learn to dance hip hop online free
+46	9	0.014311	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	misha gabriel
+46	10	0.012823	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	complete beginner
+46	11	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	learn to dance hip hop dvd
+46	12	0.010958	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	basic steps
+46	13	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	learn to dance hip hop for adults
+46	14	0.010086	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	backup dancer
+46	15	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	prime cart
+46	16	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	instructional dance videos
+46	17	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	learn to dance hip hop workout
+46	18	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	learn to dance hip hop youtube
+46	19	0.008966	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	studio nearby
+46	20	0.008058	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	dance
+47	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	online money transfer united states
+47	2	0.044701	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	send money online
+47	3	0.033452	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	send money
+47	4	0.029881	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	united states
+47	5	0.01855	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	money transfer
+47	6	0.01809	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	transfer money online
+47	7	0.010583	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	online money transfer
+47	8	0.006259	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	moneygram global money transfer service
+47	9	0.006149	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	debit card
+47	10	0.005529	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	transfer money
+47	11	0.005481	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	send money abroad
+47	12	0.005149	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	money
+47	13	0.004728	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	worldremit online money transfer
+47	14	0.004667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	super rates
+47	15	0.004594	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	great rate
+47	16	0.004539	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	largest international money transfer companies
+47	17	0.004364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	family abroad
+47	18	0.004223	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	moneygram global money transfer
+47	19	0.003859	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	send money online states
+47	20	0.003797	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	united kingdom
+48	1	0.060968	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	regrow hair naturally
+48	2	0.027597	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hair loss
+48	3	0.018182	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	regrow hair follicles
+48	4	0.018182	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	regrow hair shampoo
+48	5	0.014581	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	regrow hairline
+48	6	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	regrow hair products
+48	7	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	regrow hair for women
+48	8	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	regrow hair product
+48	9	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	regrow hair men
+48	10	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	discover bosley
+48	11	0.008429	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	thinning hair
+48	12	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	regrow hair treatment
+48	13	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	regrow hair with castor oil
+48	14	0.006355	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hair regrowth experts
+48	15	0.006268	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	hair problems
+48	16	0.006021	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	regrow hair helps regrow hair
+48	17	0.006021	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	treat hair loss
+48	18	0.005688	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	powerful techniques
+48	19	0.005654	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	regrow hair fast
+48	20	0.005654	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	fast hair regrowth
+49	1	0.02	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to get a divorce in texas for free
+49	2	0.018182	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to get a divorce in texas without a lawyer
+49	3	0.016744	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	uncontested divorce
+49	4	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	get a divorce in texas without a lawyer
+49	5	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	get a quick divorce in texas
+49	6	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how do you get a divorce in texas
+49	7	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	get a divorce online in texas
+49	8	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	steps to get a divorce in texas
+49	9	0.011543	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	divorce
+49	10	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	easiest way to get a divorce in texas
+49	11	0.010368	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	cookie policy
+49	12	0.010153	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	texas divorce lawyer
+49	13	0.010114	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	start collecting
+49	14	0.010108	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	valid marriage
+49	15	0.01	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	complete paperwork instantly
+49	16	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to get a divorce in texas without spouse
+49	17	0.008212	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	divorce papers
+49	18	0.007673	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	frequently asked questions
+49	19	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how fast can you get a divorce in texas
+49	20	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to get a divorce in texas with no money
+50	1	0.032991	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home birth
+50	2	0.021926	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	emergency home birth
+50	3	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	deliver a baby home video
+50	4	0.016364	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	what to do if you deliver a baby at home
+50	5	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	instructions on how to deliver a baby at home
+50	6	0.014545	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to deliver a baby at home by yourself
+50	7	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to safely deliver a baby at home
+50	8	0.012727	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to deliver a baby at home emergency
+50	9	0.011556	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	giving birth
+50	10	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	steps to deliver a baby at home
+50	11	0.010909	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to deliver a baby at home in an emergency
+50	12	0.010768	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	give birth
+50	13	0.010272	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	emergency childbirth
+50	14	0.01015	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	fast labor
+50	15	0.010078	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	successful home delivery
+50	16	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to deliver a baby at home video
+50	17	0.009091	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to deliver a baby at home video dailymotion
+50	18	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to deliver a baby at home
+50	19	0.007273	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	how to deliver a baby at home in sims 3
+50	20	0.007234	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_optimized_2016-p_s_uniform	home allergies

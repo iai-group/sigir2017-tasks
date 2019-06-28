@@ -1,0 +1,1000 @@
+1	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	acid stain concrete products
+1	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	acid stain concrete patio
+1	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	acid stain concrete images
+1	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	acid stain concrete floors
+1	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	acid stain concrete driveways
+1	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	acid stain concrete diy
+1	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	acid stain concrete countertops
+1	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	acid stain concrete colors
+1	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	acid stain concrete floors pictures
+1	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	yeah
+1	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	white
+1	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	website
+1	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wear
+1	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	waxed
+1	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	water
+1	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	warnings
+1	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	utilize
+1	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	upload
+1	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	unique
+1	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	turned
+2	1	0.333333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	taking care of swimming pool water
+2	2	0.333333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	taking care of swimming pools for dummies
+2	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	youtube
+2	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	winter
+2	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	weekly
+2	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	waterline
+2	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	water
+2	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vinyl
+2	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vacuum
+2	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	upload
+2	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	types
+2	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	troubleshooting
+2	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	trichlor
+2	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	treatment
+2	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	treat
+2	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	time
+2	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	testing
+2	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	test
+2	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	terms
+2	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tablets
+3	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	pole vaulter
+3	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	pole vault videos
+3	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	pole vault spikes
+3	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	pole vault poles
+3	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	pole vault olympics
+3	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	pole vault girl
+3	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	pole vault drills
+3	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	pole vault world record
+3	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	pole vault olympic trials
+3	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	works
+3	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	words
+3	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	word
+3	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	webster
+3	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	verso
+3	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vaulting
+3	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vaulters
+3	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vault
+3	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vara
+3	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	translation
+3	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	track
+4	1	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	should i become an allergist
+4	2	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	schools to become an allergist
+4	3	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to become an allergists
+4	4	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to become an allergist
+4	5	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	education to become an allergist
+4	6	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to become an allergist immunologist
+4	7	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how do you become an allergist
+4	8	0.111111	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how long does it take to become an allergist
+4	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	york
+4	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	year
+4	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wisegeek
+4	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wheat
+4	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vomiting
+4	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	videos
+4	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	veggie
+4	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	urticaria
+4	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	university
+4	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	undergraduate
+4	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	treatment
+4	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	training
+5	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	bird spotting sheet
+5	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	bird spotting scopes
+5	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	bird spotting photos
+5	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	bird spotting movie
+5	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	bird spotting laser
+5	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	bird spotting equipment
+5	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	bird spotting cards
+5	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	bird spotting binoculars
+5	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	bird spotting scope reviews
+5	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	zoom
+5	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	zeiss
+5	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	winds
+5	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wildlife
+5	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	white
+5	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	weekend
+5	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	weather
+5	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	waterproof
+5	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watching
+5	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	viewing
+5	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	view
+6	1	0.333333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to care for a toy poodle
+6	2	0.333333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to care for a toy poodle puppy
+6	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	yogurt
+6	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	year
+6	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	weight
+6	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	website
+6	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	water
+6	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wacky
+6	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	visita
+6	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	visit
+6	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vinegar
+6	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vetstreet
+6	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	upload
+6	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tricks
+6	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	training
+6	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	toothpaste
+6	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tips
+6	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	time
+6	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tiene
+6	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	testimonials
+7	1	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	cure indigestion symptoms
+7	2	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	cure indigestion naturally
+7	3	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	cure indigestion milk
+7	4	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	cure indigestion baking soda
+7	5	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	cure indigestion and gas
+7	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	zantac
+7	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	worse
+7	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	worked
+7	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	weil
+7	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	weight
+7	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	webmd
+7	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	water
+7	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	warm
+7	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vomiting
+7	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vitamin
+7	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vinegar
+7	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	upper
+7	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	unlike
+7	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	university
+7	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	ulcers
+8	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	whitewater rafting
+8	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	white water rafting virginia
+8	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	white water rafting tennessee
+8	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	white water rafting pennsylvania
+8	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	white water rafting maine
+8	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	white water rafting georgia
+8	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	white water rafting colorado
+8	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	white water rafting west virginia
+8	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	white water rafting grand canyon
+8	10	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	white water rafting gatlinburg tn
+8	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	ziplining
+8	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wildlife
+8	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	whitewater
+8	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	whistler
+8	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	west
+8	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	water
+8	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	video
+8	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vermont
+8	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vancouver
+8	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vacation
+9	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	invest in mutual funds philippines
+9	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	invest in mutual funds directly
+9	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	invest in mutual funds or stocks
+9	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	invest in mutual funds or etfs
+9	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	invest in mutual funds in india
+9	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	invest in mutual funds for free
+9	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	invest in mutual funds or roth ira
+9	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	invest in mutual funds or real estate
+9	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	invest in mutual funds for a year
+9	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	yields
+9	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	world
+9	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	withdrawals
+9	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	week
+9	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watchlist
+9	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	view
+9	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	videos
+9	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vanguard
+9	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	unlike
+9	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	units
+9	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	typically
+10	1	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	rug setup living room
+10	2	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to setup living room
+10	3	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to setup living room furniture
+10	4	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	different ways to setup living room
+10	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	works
+10	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	work
+10	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wood
+10	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wire
+10	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	window
+10	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	white
+10	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	view
+10	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	valences
+10	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	update
+10	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	today
+10	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tips
+10	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	things
+10	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tech
+10	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tastes
+10	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tables
+10	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	table
+11	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	braid extensions weave
+11	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	braid extensions styles
+11	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	braid extensions kaufen
+11	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	braid extensions brown
+11	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	braid extensions little girls
+11	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	braid extensions for kids
+11	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	braid extensions on natural hair
+11	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	braid extensions no sew or glue
+11	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	braid extensions with short sides and back
+11	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	xmas
+11	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wigs
+11	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wearing
+11	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wear
+11	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	washing
+11	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	visible
+11	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	view
+11	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	upload
+11	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tutorials
+11	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tubes
+11	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tube
+12	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	start a vineyard in kentucky
+12	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	start a vineyard in california
+12	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	grants to start a vineyard
+12	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to start a vineyard winery
+12	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to start a vineyard business
+12	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how do you start a vineyard
+12	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to start a vineyard in texas
+12	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how much does it cost to start a vineyard
+12	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how many acres do you need to start a vineyard
+12	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	yield
+12	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wreath
+12	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	winery
+12	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	winemaking
+12	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	winemaker
+12	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wine
+12	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	william
+12	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	weekend
+12	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	water
+12	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	warwick
+12	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vinifera
+13	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	buy girl scout cookies seeds
+13	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	buy girl scout cookies minnesota
+13	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	buy girl scout cookies michigan
+13	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	buy girl scout cookies locations
+13	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	buy girl scout cookies cost
+13	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	buy girl scout cookies 2016
+13	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	buy girl scout cookies year round
+13	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	buy girl scout cookies thanks a-lot
+13	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	buy girl scout cookies fresno ca
+13	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	youtube
+13	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	york
+13	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	years
+13	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	website
+13	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	volunteer
+13	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	view
+13	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vary
+13	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	varieties
+13	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	types
+13	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	troops
+13	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	troop
+14	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	open a bank account with chase
+14	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	open a bank account wells fargo
+14	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	open a bank account online instantly
+14	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	open a bank account in singapore
+14	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	open a bank account in mexico
+14	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	open a bank account in canada
+14	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	open a bank account for free
+14	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	open a bank account with bad credit
+14	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	open a bank account with bank of america
+14	10	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	open a bank account online with no deposit
+14	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	world
+14	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	window
+14	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wanting
+14	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	visa
+14	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	types
+14	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	turnover
+14	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	trust
+14	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	travel
+14	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	transaction
+14	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	total
+15	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	french manicure toes
+15	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	french manicure tips
+15	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	french manicure pictures
+15	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	french manicure pen
+15	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	french manicure nails
+15	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	french manicure kit
+15	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	french manicure designs
+15	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	french manicure with glitter
+15	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	french manicure nail designs
+15	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	work
+15	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wordpress
+15	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	white
+15	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	walgreens
+15	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vous
+15	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vita
+15	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	view
+15	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	video
+15	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	utilisez
+15	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	unghie
+15	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tutorial
+16	1	0.333333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	extending laptop warranty
+16	2	0.333333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	extend hp laptop warranty
+16	3	0.333333	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	is it good to extend laptop warranty
+16	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	zdnet
+16	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	year
+16	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	worth
+16	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	windows
+16	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wifi
+16	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	warranty
+16	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	warranties
+16	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	visit
+16	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	time
+16	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	thinkpad
+16	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	thinkcentre
+16	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	terms
+16	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tech
+16	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	system
+16	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	survey
+16	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	support
+16	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	stuestes
+17	1	0.25	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	fake tan spray at home
+17	2	0.25	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to fake tan at home
+17	3	0.25	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to get a fake tan at home
+17	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	zayn
+17	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	york
+17	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wraps
+17	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	works
+17	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	work
+17	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	woman&home
+17	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	woman
+17	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wipe
+17	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	winter
+17	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	white
+17	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	week
+17	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wears
+17	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wearing
+17	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wear
+17	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	water
+17	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watch
+17	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wash
+18	1	0.5	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	buy used laptop online
+18	2	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	valuable
+18	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	trust
+18	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	traffic
+18	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	trade
+18	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	thinkpad
+18	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	table
+18	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	supplies
+18	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	small
+18	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	site
+18	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	simply
+18	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	shops
+18	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	shop
+18	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	shoes
+18	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	shipping
+18	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	ship
+18	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	services
+18	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	service
+18	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	selllaptopback
+18	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	selling
+19	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	customize your own t-shirts
+19	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	customize your own shirt
+19	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	customize your own shirt designs
+19	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	customize your own shirt cheap
+19	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	customize your own t-shirt for cheap
+19	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	customize your own shirts and hoodies
+19	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	customize your own shirts and hats
+19	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	customize your own shirt with pictures
+19	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	customize your own shirt free shipping
+19	10	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	customize your own shirt for free
+19	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	worn
+19	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	work
+19	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	women
+19	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	whooptee
+19	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	week
+19	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watches
+19	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	upload
+19	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	unique
+19	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	track
+19	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	towel
+20	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	invest in stock market sectors
+20	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	invest in stock market india
+20	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	invest in stock market game
+20	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	invest in stock market or 401k
+20	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	invest in stock market no minimum
+20	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	invest in stock market in philippines
+20	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	invest in stock market for dummies
+20	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	invest in stock market with little money
+20	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	invest in stock market or real estate
+20	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	yield
+20	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	years
+20	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	world
+20	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watchlist
+20	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	volatility
+20	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	valuable
+20	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	update
+20	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	typically
+20	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	types
+20	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	trump
+20	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	transfer
+21	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	windows 10 troubleshooting
+21	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	windows 10 troubleshooting tools
+21	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	windows 10 troubleshooting options
+21	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	windows 10 troubleshooting guide
+21	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	windows 10 troubleshooting boot
+21	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	windows 10 troubleshooter download
+21	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	windows 10 troubleshoot startup
+21	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	windows 10 troubleshoot printer
+21	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	windows 10 troubleshoot installation
+21	10	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	windows 10 troubleshoot from command prompt
+21	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	zdnet
+21	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	yeah
+21	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wrote
+21	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	world
+21	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	worked
+21	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wordperfect
+21	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	windows
+21	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	white
+21	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	whichever
+21	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	websites
+22	1	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	years
+22	2	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	world
+22	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	working
+22	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	workers
+22	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	worker
+22	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	work
+22	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	website
+22	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	washington
+22	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	warren
+22	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	warehouse
+22	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	visit
+22	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	visa
+22	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	virginia
+22	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	violates
+22	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	view
+22	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	version
+22	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	valid
+22	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	university
+22	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	united
+22	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	training
+23	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	online apply for aadhar card
+23	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	apply for aadhar card online
+23	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	who can apply for aadhar card
+23	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	where to apply for aadhar card
+23	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to apply for aadhar card
+23	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	can nri apply for aadhar card
+23	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to apply for aadhar card online
+23	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to apply for aadhar card in delhi
+23	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to apply for aadhar card in chennai
+23	10	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to apply for aadhar card for nri
+23	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	writing
+23	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	write
+23	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wordpress
+23	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	winter
+23	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wide
+23	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	website
+23	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	visiting
+23	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	visit
+23	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vill
+23	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	verification
+24	1	0.5	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	drivers license requirements in united kingdom
+24	2	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	written
+24	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	works
+24	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	work
+24	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wine
+24	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	weight
+24	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	website
+24	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	visitors
+24	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	visas
+24	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	violence
+24	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	view
+24	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	victim
+24	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vehicles
+24	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vehicle
+24	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vary
+24	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	unlisted
+24	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	united
+24	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	undergo
+24	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	typically
+24	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	triple
+25	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	educational toys for kids catalog
+25	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	educational toys for kids 7-10
+25	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	educational toys for kids with autism
+25	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	educational toys for kids to build
+25	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	educational toys for kids on amazon
+25	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	educational toys for kids in houston
+25	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	educational toys for kids for christmas
+25	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	educational toys for kids ages 9-11
+25	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	educational toys for kids age 5
+25	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	women
+25	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	ways
+25	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	warehouse
+25	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vtech
+25	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vehicles
+25	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	ultimate
+25	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	type
+25	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	traveling
+25	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	travel
+25	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	track
+25	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	toys
+26	1	1.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to setup a garage sale
+26	2	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	youtube
+26	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	yard
+26	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	website
+26	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	view
+26	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	trends
+26	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tons
+26	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tips
+26	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	thrift
+26	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	things
+26	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	testimonials
+26	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	terms
+26	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tags
+26	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	table
+26	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	success
+26	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	students
+26	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	stores
+26	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	store
+26	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	start
+26	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	spot
+27	1	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	working
+27	2	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	work
+27	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	women
+27	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	website
+27	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	visa
+27	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vary
+27	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vacancy
+27	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vacancies
+27	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	uttarakhand
+27	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	upsc
+27	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	updating
+27	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	updates
+27	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	updated
+27	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	update
+27	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	university
+27	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	union
+27	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tspsc
+27	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	travel
+27	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	trainee
+27	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	topics
+28	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	test for diabetes mellitus
+28	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	test for diabetes insipidus
+28	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	test for diabetes gene
+28	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	test for diabetes diagnosis
+28	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	test for diabetes a1c
+28	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	test for diabetes type 2
+28	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	test for diabetes in children
+28	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	test for diabetes during pregnancy
+28	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	test for diabetes blood sugar
+28	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	weight
+28	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	webmd
+28	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vomiting
+28	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vitamins
+28	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vitamin
+28	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	visit
+28	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vegetables
+28	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	values
+28	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	updated
+28	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	understanding
+28	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	type
+29	1	0.142857	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	become vegan youtube
+29	2	0.142857	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	become vegan overnight
+29	3	0.142857	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	become vegan chef
+29	4	0.142857	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	become vegan cold turkey
+29	5	0.142857	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	become vegan to lose weight
+29	6	0.142857	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	become vegan for weight loss
+29	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	yeast
+29	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	years
+29	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	world
+29	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	widely
+29	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	weight
+29	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	websites
+29	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	water
+29	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vesanto
+29	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	veggie
+29	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vegetarian
+29	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vegetables
+29	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	veganisme
+29	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	veganism
+29	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vegan
+30	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	navigation buttons for websites
+30	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	itunes buttons for websites
+30	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	html buttons for websites
+30	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	graphic buttons for websites
+30	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	facebook buttons for websites
+30	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	donate buttons for websites
+30	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	cool buttons for websites
+30	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	social media buttons for websites
+30	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	free buttons for websites icons
+30	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wordpress
+30	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wizard
+30	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	width
+30	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vintage
+30	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	user
+30	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	urljunky
+30	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	typepad
+30	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	trick
+30	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tools
+30	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	title
+30	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	text
+31	1	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	young
+31	2	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	work
+31	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	woodland
+31	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	winner
+31	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wind
+31	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	widow
+31	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	white
+31	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	weed
+31	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watering
+31	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	water
+31	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	view
+31	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vermiculite
+31	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	verlag
+31	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vast
+31	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vascular
+31	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	variety
+31	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	university
+31	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	undergoes
+31	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tutorial
+31	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tube
+32	1	0.25	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	using social media for learning
+32	2	0.25	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	social media tools for learning
+32	3	0.25	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to use social media for learning
+32	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	writing
+32	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	world
+32	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	work
+32	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wireless
+32	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wiki
+32	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	websites
+32	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	voicethread
+32	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	view
+32	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	videos
+32	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	video
+32	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	users
+32	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	username
+32	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	updates
+32	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	university
+32	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	twitter
+32	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tweet
+32	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tutorials
+33	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	home remedies sore throat vinegar
+33	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	home remedies sore throat toddlers
+33	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	home remedies sore throat relief
+33	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	home remedies sore throat garlic
+33	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	home remedies sore throat cough
+33	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	home remedies sore throat congestion
+33	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	home remedies sore throat children
+33	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	home remedies sore throat baby
+33	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	home remedies sore throat ear ache
+33	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	worse
+33	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	worked
+33	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wonders
+33	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wine
+33	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	website
+33	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	webmd
+33	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	weaknesses
+33	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	water
+33	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	warm
+33	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	viruses
+33	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vinegar
+34	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	golf instruction youtube
+34	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	golf instruction videos
+34	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	golf instruction tips
+34	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	golf instruction schools
+34	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	golf instruction release
+34	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	golf instruction dvd
+34	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	golf instruction books
+34	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	golf instruction for seniors
+34	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	golf instruction for kids
+34	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	youtube
+34	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	work
+34	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wedge
+34	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watch
+34	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	view
+34	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	video
+34	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	travelin
+34	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	training
+34	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tournament
+34	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tour
+34	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tips
+35	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	hair dye remover
+35	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	hair dye ideas
+35	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	hair dye coupons
+35	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	hair dye colors
+35	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	hair dye brands
+35	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	hair dye for men
+35	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	hair dye color chart
+35	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	hair dye and pregnancy
+35	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	hair dye allergic reaction
+35	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	zotos
+35	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	zone
+35	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	young
+35	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wishing
+35	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	website
+35	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	username
+35	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	upload
+35	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	university
+35	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	ulta
+35	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	treatment
+35	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	traditional
+36	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	build hip roof shed
+36	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	build hip roof porch
+36	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how can build hip roof
+36	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to build hip roof videos
+36	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to build hip roof trusses
+36	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to build hip roof rafters
+36	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to build hip roof gazebo
+36	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to build hip roof barns
+36	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	estimated cost to build hip roof
+36	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	work
+36	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	trusses
+36	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	total
+36	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	templates
+36	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	technician
+36	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	sturt
+36	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	stud
+36	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	structure
+36	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	start
+36	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	square
+36	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	solid
+37	1	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	build my home theater system
+37	2	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	build a home theater system
+37	3	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to build home theater systems
+37	4	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to build home theater system
+37	5	0.166667	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	build your own home theater system
+37	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	xbmc
+37	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	works
+37	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	working
+37	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wiring
+37	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wireless
+37	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wire
+37	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	windows
+37	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	ways
+37	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	viewing
+37	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	view
+37	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	video
+37	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	valentine
+37	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	updated
+37	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	ultra
+37	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	true
+38	1	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to start a ketogenic diet
+38	2	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	i want to start a ketogenic diet
+38	3	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to start a ketogenic diet bodybuilding
+38	4	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how do you start a ketogenic diet
+38	5	0.2	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to start a ketogenic diet to lose weight
+38	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	years
+38	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wrong
+38	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wrap
+38	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	work
+38	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	women
+38	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wings
+38	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	weight
+38	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	weekly
+38	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	website
+38	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vitamins
+38	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	videos
+38	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	video
+38	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	veggies
+38	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	veggie
+38	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vegetable
+39	1	0.5	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	finding planets in the night sky tonight
+39	2	0.5	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	finding planets in the night sky jupiter
+39	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	zodiac
+39	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	zeus
+39	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	zenfone
+39	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	yellow
+39	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	worlds
+39	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	winter
+39	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	william
+39	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	white
+39	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	western
+39	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	website
+39	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watch
+39	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	waning
+39	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	walk
+39	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	visibility
+39	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	views
+39	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	viewing
+39	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	view
+39	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	venus
+40	1	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wyoming
+40	2	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wisconsin
+40	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	website
+40	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	waste
+40	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	voltages
+40	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	virginia
+40	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	view
+40	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vehicle
+40	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	utah
+40	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	towel
+40	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	texas
+40	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	terminals
+40	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	terminal
+40	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	term
+40	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tanks
+40	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	table
+40	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	systems
+40	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	system
+40	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	stream
+40	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	store
+41	1	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	women
+41	2	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wine
+41	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	weight
+41	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wear
+41	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	walking
+41	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vigorous
+41	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vessels
+41	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	undergo
+41	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	treatment
+41	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	topics
+41	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tomatoes
+41	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	today
+41	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tips
+41	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	thiazide
+41	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	testimonials
+41	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	test
+41	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	taking
+41	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	symptoms
+41	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	surgery
+41	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	support
+42	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	make a teddy bear store
+42	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	make a teddy bear pattern
+42	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	make a teddy bear from pajamas
+42	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	make a teddy bear out of onesie
+42	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	make a teddy bear from baby clothes
+42	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	make a teddy bear from a towel
+42	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	make a teddy bear costume for puppy
+42	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	make a teddy bear out of an old shirt
+42	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	make a teddy bear out of a baby sleeper
+42	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wordpress
+42	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	white
+42	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tutorial
+42	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tips
+42	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	thread
+42	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	teddy
+42	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	sock
+42	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	small
+42	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	slightly
+42	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	site
+42	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	simple
+43	1	0.5	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	search the internet anonymously
+43	2	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	work
+43	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	windows
+43	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	websites
+43	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	website
+43	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	user
+43	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	usbback
+43	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	type
+43	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tutorial
+43	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	track
+43	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tool
+43	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tips
+43	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	time
+43	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	threats
+43	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	technology
+43	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	techlicious
+43	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	targeted
+43	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	surfing
+43	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	surfeasy
+43	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	submit
+44	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	morel mushrooms hunting tips
+44	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	morel mushrooms hunting michigan
+44	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	morel mushrooms hunting iowa
+44	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	morel mushrooms hunting illinois
+44	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	morel mushrooms hunting club
+44	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	morel mushrooms hunting arkansas
+44	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	morel mushrooms hunting in wisconsin
+44	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	morel mushrooms hunting in montana
+44	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	morel mushrooms hunting in washington state
+44	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	woods
+44	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wine
+44	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	williams
+44	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	weather
+44	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	water
+44	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	videos
+44	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	video
+44	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	university
+44	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	types
+44	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tree
+44	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tips
+45	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watch tv on the internet software
+45	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watch tv on the internet philippines
+45	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watch tv on the internet live
+45	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watch tv on the internet with at&t
+45	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watch tv on the internet time warner
+45	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watch tv on the internet for free
+45	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watch tv on the internet dish network
+45	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watch tv on the internet free of charge
+45	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watch tv on the internet for free tv channels
+45	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	zdnet
+45	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	xfinity
+45	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	work
+45	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	website
+45	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watching
+45	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	watch
+45	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	visit
+45	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	view
+45	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	videos
+45	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	video
+45	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	users
+46	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	learn to dance hip hop
+46	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	learn to dance hip hop youtube
+46	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	learn to dance hip hop workout
+46	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	learn to dance hip hop videos
+46	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	learn to dance hip hop free
+46	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	learn to dance hip hop r&b videos
+46	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	learn to dance hip hop for kids
+46	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	learn to dance hip hop for beginners
+46	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	learn to dance hip hop for adults
+46	10	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	learn to dance hip hop step by step
+46	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	york
+46	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wishlist
+46	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vimeo
+46	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	videos
+46	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	video
+46	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	upload
+46	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	updated
+46	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tutorials
+46	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tips
+46	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	time
+47	1	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	zealand
+47	2	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	xoom
+47	3	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	writing
+47	4	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	worldremit
+47	5	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	withdrawing
+47	6	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	withdrawal
+47	7	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wire
+47	8	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	website
+47	9	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wallet
+47	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	venmo
+47	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	valid
+47	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	transferwise
+47	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	transfers
+47	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	transfer
+47	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	transfast
+47	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	transactions
+47	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	transaction
+47	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	total
+47	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	top&&
+47	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	time
+48	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	regrow hair treatment
+48	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	regrow hair shampoo
+48	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	regrow hair products
+48	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	regrow hair naturally
+48	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	regrow hair men
+48	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	regrow hair follicles
+48	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	regrow hair fast
+48	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	regrow hair for women
+48	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	regrow hair after chemo
+48	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	zinc
+48	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	zayn
+48	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	york
+48	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	yoga
+48	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wraps
+48	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	worse
+48	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	world
+48	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	works
+48	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wonderly
+48	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	wipe
+48	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	widely
+49	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	steps to get a divorce in texas
+49	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how long to get a divorce in texas
+49	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how do you get a divorce in texas
+49	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how can i get a divorce in texas
+49	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	easiest way to get a divorce in texas
+49	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to get a divorce in texas for free
+49	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how fast can you get a divorce in texas
+49	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to get a divorce in texas without a lawyer
+49	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how much is it to get a divorce in texas
+49	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	washington
+49	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vary
+49	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	typically
+49	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	topics
+49	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	tips
+49	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	times
+49	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	texaslawhelp
+49	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	texas
+49	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	testimonials
+49	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	temporary
+49	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	survey
+50	1	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how deliver a baby at home
+50	2	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to deliver a baby at home
+50	3	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to safely deliver a baby at home
+50	4	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to deliver a baby at home video
+50	5	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to deliver a baby at home alone
+50	6	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how do you deliver a baby at home
+50	7	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	instructions on how to deliver a baby at home
+50	8	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	what to do if you deliver a baby at home
+50	9	0.1	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	how to deliver a baby at home in an emergency
+50	10	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	years
+50	11	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	women
+50	12	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	william
+50	13	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	week
+50	14	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	water
+50	15	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	vagina
+50	16	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	undisturbed
+50	17	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	umbilical
+50	18	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	towels
+50	19	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	topics
+50	20	0.0	p_q_given_q0_s_k_optimized_2016-p_d_given_q0_s_uniform_for_all-p_s_QS_DDG	toddler

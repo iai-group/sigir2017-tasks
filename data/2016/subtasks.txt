@@ -1,0 +1,556 @@
+Task id: 1
+acid stain concrete	[You wish to stain concrete with acid and you want to know about the colors, tools and places to buy these materials.]
+
+  *   How to stain some surface such as concrete. wood or countertops etc
+  *    Where should I buy concrete acid stain
+  *    What precautions should I take before staining concrete
+  *    Find colors for staining concrete
+  *    How to stain concrete at home
+  *    Hire people to stain concrete at home
+  *    Stores to buy acid stain online
+
+Task id: 2
+taking care of swimming pool	[You have a new swimming pool at home and you want to know how to take care it throughout the year and under various possible conditions.]
+
+  *   How to setup swimming pool for winter
+  *    How to remove algae from swimming pool
+  *    How to drain the swimming pool
+  *    How to refill swimming pool
+  *    How to care for swimming pool while it snows
+  *    Buy chemicals to clean swimming pool
+  *    Guide to care for swimming pool at home
+  *    Hire someone to clean the swimming pool
+  *    Cost of cleaning the swimming pool
+
+Task id: 3
+pole vault	[You are trying to pick up pole vault as a hobby. So you are looking to find information about the sport and how to teach it to yourself.]
+
+  *   Learn how to pole vault at home
+  *    Learn pole vaulting with online videos or dvd
+  *    Find trainers for pole vault
+  *    Find centers for learning Pole vault
+  *    Buy pole vault outfit online
+  *    Buy pole vault equipment online
+  *    Popular pole vault clubs in some location such as London, Huston etc
+  *    Find out pole vault Olympic rules
+  *    Youngest pole vault player at Olympics
+  *    Competitions to compete in pole vaulting
+
+Task id: 4
+become an allergist	[You wish to learn more about how to become a doctor that treats allergies. You are trying to find information about profession and how to get trained as a doctor.]
+
+  *   what is official name for allergy doctor
+  *    Schools to train and specialize in allergies
+  *    Find fellowships to support allergy doctor tuition
+  *    Find cheap books online for allergy study
+  *    Pay of allergy doctors
+  *    How long does it take to become an allergy doctor
+
+Task id: 5
+bird spotting	[You are learning how to spot various birds. You need to find out information about what kind of birds you can spot and how to differentiate between different birds. ]
+
+  *   Learn how to spot birds
+  *    What is the best time to spot birds
+  *    Places to spot birds
+  *    Books to learn spotting birds
+  *    How to spot baby birds
+  *    How to differentiate birds on basis of nests
+  *    Videos online of spotting birds
+  *    Which birds are hardest to spot
+  *    How quickly can I learn to spot birds?
+  *    App to spot birds
+  *    Identify bird with a picture online
+  *    Tools required to spot birds (such as binoculars, etc)
+
+Task id: 6
+care for a toy poodle	[You want to find information on how to care for a toy poodle.]
+
+  *   How to care for poodle
+  *    Find Caretaker online for poodle
+  *    Buy grooming supplies for a poodle
+  *    Find store to buy grooming supplies
+  *    Cost of keeping a poodle
+  *    How big can poodles get
+  *    How to find mating partner for a poodle
+  *    How to train a poodle at home
+
+Task id: 7
+cure indigestion	[You wish to find remedies for curing indigestion.]
+
+  *   Home remedy for indigestion
+  *    Food to prevent indigestion
+  *    Medicines that cure indigestion
+  *    Doctor to consult for chronic indigestion
+  *    What causes indigestion?
+
+Task id: 8
+white water rafting	[You want to go white water rafting. Since you are a beginner, you need to find information about centres that teach rafting, clothes you need to wear, and the best season and places to go for rafting, etc.]
+
+  *   How to learn white water rafting
+  *    Cost of learning white water rafting
+  *    Where shall I buy equipment for white water rafting?
+  *    What is the best time of year to learn white water rafting?
+  *    Find cheap trainers or training academy for white water rafting
+  *    Precautions to take while white water rafting
+  *    What is the best place to go for white water rafting?
+
+Task id: 9
+invest in mutual funds	[You want to invest in mutual funds and need information on how to go about it. You need to find out how much money to invest in them, what stocks to invest in and finally what is the amount of return you can expect for such funds, etc.]
+
+  *   How much money should a person invest in mutual funds?
+  *    What is the best investment firm for mutual funds?
+  *    What are the best or cheap mutual funds?
+  *    How to compare mutual funds or ratings of mutual funds
+  *    Calculate return on mutual funds online
+  *    Invest in mutual funds via some platform online
+
+Task id: 10
+setup living room	[You want to set up a living room.]
+
+  *   Buy curtains for living room
+  *    Buy furniture for living room
+  *    Paint palettes for living room
+  *    How to cheaply reconfigure living room
+  *    Hire people to setup a living room
+  *    How to design living room with certain preferences such as gaming, dj, or suitable for babies etc.
+
+Task id: 11
+braid extensions	[You want to get braid extensions and you need to find more information about it.]
+
+  *   Cost of getting braid extensions
+  *    Which place to get extensions
+  *    How to do braid extensions at home
+  *    Types and designs for braid extensions
+  *    How to create your own design for braid extensions
+  *    What kind of hair is suitable for extensions
+  *    How to maintain braid extensions
+
+Task id: 12
+start a vineyard	[You want to start a vineyard and need to find information on how to do so.]
+
+  *   How to grow grapes in vineyard
+  *    How to select grapes on a budget for vineyard
+  *    How to select land for vineyard
+  *    Estimate cost of vineyard
+  *    How to find existing vineyards in a region
+  *    What is the season to grow grapes for vineyard
+  *    Buy an existing vineyard
+  *    Reading material (such as tutorials or books) on starting vineyard
+
+Task id: 13
+buy Girl Scout cookies	[You are trying to buy Girl Scout cookies and you need to make various decisions, such as where to buy them from, what exactly to buy, etc. ]
+
+  *   Flavors of girl scout cookies
+  *    Where to buy cheap Girl Scout cookies
+  *    What are the brands for Girl Scout cookies
+  *    Wholesale manufacturers of Girl Scout cookies
+
+Task id: 14
+open a bank account	[You want to open a bank account and need to find relevant information about the process. ]
+
+  *   Open a bank account with some bank or location
+  *    How to decide what type of bank account to open
+  *    Understand different types of bank accounts
+  *    How to estimate cost of opening a bank account
+  *    Open a bank account online
+  *    Customer care number for opening a bank account
+  *    What documents are required to open a bank account
+
+Task id: 15
+french manicure	[You wish to get a French manicure.]
+
+  *   Tools for French manicure
+  *    Parlour for manicure
+  *    Cost of manicure
+  *    How to make French manicure last longer
+  *    Colors of French manicure
+  *    Online buy French manicure products
+
+Task id: 16
+extend laptop warranty	[You want to extend the warranty of your laptop.]
+
+  *   How to check and extend laptop warranty online
+  *    what is the cost of extending warranty
+  *    Customer care for laptop warranty
+  *    When should I extend laptop warranty?
+  *    What are terms and conditions of laptop warranty?
+
+Task id: 17
+fake tan at home	[You are trying to find out how to get a fake tan at home. ]
+
+  *   Places to get a fake tan
+  *    Determine fake tan for skin type
+  *    Cost of getting a fake tan
+  *    Products to get a fake tan
+  *    Buy products to get a fake tan
+  *    Fake tan DIY guide
+  *    Get fake tan of some part of the body
+  *    Precautions for getting a fake tan
+  *    Pictures of fake tans
+
+Task id: 18
+sell used laptop online	[You want to sell a used laptop online.]
+
+  *   How to list used laptop on website
+  *    How to determine selling price of used laptop
+  *    Find stores at some location that buy used laptop
+  *    How to sell laptop for cash
+  *    How to auction a used laptop
+  *    Which websites can sell used laptop?
+
+Task id: 19
+customize your own tshirt	[You want to customize your own t-shirt.]
+
+  *   Cheap ways to customize t-shirts
+  *    Software to customize t-shirts
+  *    Supplies required to customize t-shirts
+  *    Customize t-shirts in bulk
+  *    Color palettes for customizing t-shirts
+  *    Stores that will customize t-shirts
+  *    Customize t-shirts online
+  *    Customize t-shirt with a picture/cloth or some item
+  *    Customize t-shirt at home
+  *    Customize a certain type of t-shirt (long/short or some material such as wool/silk etc)
+
+Task id: 20
+invest in stock market	[You want to invest money in the stock market, but you don't know how to go about it.]
+
+  *   Minimum amount required to invest
+  *    Find best stocks to invest in
+  *    Find an online program to manage stock portfolio
+  *    Books and tutorials on stock investing
+  *    What is the average rate of return on stocks
+  *    Stock market investment guidelines of certain country/region
+
+Task id: 21
+windows 10 troubleshoot	[You wish to troubleshoot problems in Windows 10.]
+
+  *   Find online help to troubleshoot Windows 10
+  *    Find customer care center number to trouble shoot Windows 10
+  *    How to find troubleshooting guide on Windows 10
+  *    How to search for specific problem in troubleshooting guide
+
+Task id: 22
+health care certification united states	[You want to get a health care certification to start a career path in health care.]
+
+  *   List of certificates and their cost in health industry
+  *    Jobs that require certification
+  *    Duration of different health courses
+  *    What are the universities to get certifications
+  *    Websites to compare universities and programs
+  *    Find people with certain qualifications to get an overview of their career paths
+  *    Find career counselling centres for advice on some programs
+  *    Find scholarship programs for certifications
+
+Task id: 23
+apply for aadhar card	[You want to apply for an Aadhar card and need to gain knowledge of the process involved.]
+
+  *   How to apply for Aadhar card in some region
+  *    What are the advantages of the Aadhar card?
+  *    What are the documents required to obtain an Aadhar card?
+  *    How to apply online
+  *    Age specific instructions for an Aadhar card 
+  *    Picture format for an Aadhar card
+
+Task id: 24
+drivers license united kingdom	[You want to apply for a driver license in UK and need to find relevant information.]
+
+  *   How to study for driver license test
+  *    Resources for drivers test online (e.g., books, blogs, tutorials)
+  *    Find driving schools in some area
+  *    How much does it cost to take a test
+  *    What are rules for driving test
+  *    What is the procedure of getting a license in some area
+  *    How to apply for a license
+  *    How much time does it take to get a license
+
+Task id: 25
+educational toys for kids	[You want to find educational toys for children.]
+
+  *   What kind of toys exist
+  *    What is their price range
+  *    Best store to buy them
+  *    Stores that sell such toys online
+  *    Toys for a specific age
+  *    Toys that teach certain things: alphabet, numbers etc. or that can be used to teach certain activities such as swimming,climbing etc.
+  *    Toys of certain companies
+
+Task id: 26
+setup a garage sale	[You intend to set up a garage sale and wish to explore the different aspects involved in doing so.]
+
+  *   What kind of items can be sold
+  *    What should be the price range
+  *    When to schedule it
+  *    How long should the sale last
+  *    Can we rent place for sale
+  *    How much profit does it make
+  *    Find nearest garage for hire
+  *    tutorials and tips for garage sale
+
+Task id: 27
+apply for government job in india	[You want to apply for some government job in India.]
+
+  *   What kind of departments and jobs can people apply for
+  *    What are minimum qualifications required for these jobs
+  *    How to prepare for interviews
+  *    How to prepare the application for these jobs
+  *    Job interview questions and tips online
+  *    How many candidates apply for such jobs
+  *    Application deadlines and forms
+
+Task id: 28
+test for diabetes	[You want to find information about diabetes tests.]
+
+  *    Types of tests for Diabetes
+  *    How to test at home
+  *    Compare products to measure diabetes
+  *    What precautions (in terms of eating) have to be taken before using commercial products
+  *    Price range and stores for buying test kits
+
+Task id: 29
+become vegan	[You wish to adopt a vegan diet and want to explore the different things involved when becoming vegan.]
+
+  *   What types of food habits are required
+  *    How to form habit
+  *    Books for vegan lifestyle
+  *    Vegan recipes
+  *    How much time does it take to become vegan
+  *    health benefits of a vegan lifestyle
+  *    Online books/videos/tutorials on turning vegan
+
+Task id: 30
+buttons for websites	[You are building your own website. You need to add a button on a html page. Find out how to add a button to a website and ways you can customize them.]
+
+  *   What is the html source for a button
+  *    How can a button on a webpage be customized?
+  *    How do you use an image for a button?
+  *    how do you add social website buttons (e.g., Twitter, Facebook, etc.) to a website?
+  *    Software to design buttons
+
+Task id: 31
+grow flowering plants from seed	[You want to grow flowering plants from seeds.]
+
+  *   How to select seeds
+  *    How to prepare soil mixture
+  *    How to plant seeds
+  *    How often to water seeds
+  *    When to move seeds to natural light
+  *    When to transplant plants?
+  *    How to choose a fertilizer
+  *    How to apply the fertilizer
+
+Task id: 32
+social media for learning	[You want to learn different ways to use social media to enhance learning activities at school.]
+
+  *   How to use blogging for learning
+  *   How to use collaborative calendaring
+  *   How to use podcasting
+  *   How to use social media for collaborative mindmapping
+  *   How to use social media for sharing information
+  *   How to use social media for presentation sharing
+  *   How to use social media for collaborative working
+
+Task id: 33
+home remedies sore throat	[You want to find folk remedies to treat a sore throat.]
+
+  *   How to prepare a gargle
+  *    What tea shall I drink for a sore throat?
+  *    How to prepare lozenges
+  *    How to make popsicles
+  *    What kind of herbs can cure a sore throat.
+
+Task id: 34
+golf instruction	[You want to learn to play golf.]
+
+  *   How to keep score
+  *    How to pick a club
+  *    How to stand
+  *    How to hold the club
+  *    How to swing the club
+  *    How to correct a slice
+  *    How to correct a hook
+  *    DVD/Videos/Books to learn how to do all the above
+
+Task id: 35
+hair dye	[You want to decide how to choose dye for your hair.]
+
+  *   How to choose the right color
+  *    What brand to choose
+  *    Why choose ammonia-free hair dye?
+  *    Why choose henna hair dye?
+  *    How to avoid allergies
+  *    How to get hair dye off skin
+
+Task id: 36
+build hip roof	[You want to build a hip roof for your house.]
+
+  *   Find a hip roof calculator
+  *    Compare hip roof to gable roof
+  *    Buy a hip roof tool box
+  *    Find hip roof framing details
+  *    Find hip roof designs
+  *    Learn how to build a hip roof
+  *    Buy hip roof house plans
+  *    Tutorials/Videos/Books to build hip roof
+
+Task id: 37
+build home theater system	[You want to build a home theater system from scratch.]
+
+  *   What hardware do I need
+  *    How to choose a screen
+  *    How to choose speakers
+  *    How to assemble the system
+  *    Where to place the system
+  *    How to build a sound proof the room
+
+Task id: 38
+start a ketogenic diet	[You are thinking of starting a ketogenic diet and you want to understand how to do so and what are any consequences.]
+
+  *   Find a ketogenic diet menu
+  *    What are ketogenic diet foods
+  *    Find free books about a ketogenic diet
+  *    Find ketogenic diet resources
+  *    What are some ketogenic diet supplements
+  *    Find a ketogenic diet plan for weight loss 
+  *    What are the benefits of ketogenic diet?
+  *    Find success stories when using a ketogenic diet
+  *    Does ketogenic diet lead to cancer
+  *    Find a ketogenic diet calculator
+
+Task id: 39
+finding planets in the night sky	[You want to find certain planets in the night sky with or without a telescope.]
+
+  *   How to choose the right time
+  *    How to pick a good location
+  *    Finding your planet's apparition period
+  *    How to distinguish stars from planets
+  *    Find an app to consult for finding planets
+
+Task id: 40
+recycling lead acid batteries in new jersey	[You have an lead acid battery and you wish to recycle it.]
+
+  *   What is the law regarding recycling lead acid batteries in New Jersey?
+  *    Do I need to pay a fee?
+  *    Find a retail shop to return lead acid batteries
+  *    Find a recycling center
+  *    Find a household hazardous waste facility
+
+Task id: 41
+prevent a heart attact	[Your family has a history of heart disease and you want to learn ways to avoid a heart attack in the future.]
+
+  *   What diet to follow to prevent a heart attack
+  *    What is good exercise for heart health
+  *    What medicine can I use
+  *    What home remedies can I use
+  *    Hospital/Clinics offering health programs to prevent heart attack.
+
+Task id: 42
+make a teddy bear	[You want to sew a teddy bear at home.]
+
+  *   What fabric should I buy
+  *    Where can I buy the fabric
+  *    What other decorative material do I need
+  *    Find templates for teddy bears
+  *    What should I stuff it with
+
+Task id: 43
+browse the internet anonymously	[You want to browse the internet without leaving online traces.]
+
+  *   How to hide my IP address
+  *    How to send secure emails
+  *    What browser to use for anonymity
+  *    How to avoid email tracking
+  *    What software/website (such as adblocker) should I use
+  *    How to remove flash cookies
+  *    How to delete my internet history
+
+Task id: 44
+morel mushrooms hunting	[You want to go morel mushroom hunting.]
+
+  *   When to hunt morel mushrooms
+  *    Where to search for morel mushrooms
+  *    What to wear when hunting mushrooms
+  *    What tools should you use to find and pick mushrooms
+
+Task id: 45
+watch tv on the internet	[You want to watch TV online via the internet.]
+
+  *   How to stream cable TV online
+  *    List of services offering online TV
+  *    Compare online TV subscriptions
+  *    Minimum internet bandwidth needed for watching TV online
+  *    What is the average cost for watching tv online
+  *    List of TV channels online
+  *    What device is needed to watch TV online
+
+Task id: 46
+learn to dance hip-hop	[You want to learn hip-hop dance.]
+
+  *   Find hip-hop dance lessons in your city
+  *    Find hip-hop dance videos online
+  *    What routine to follow to learn hip-hop dance
+  *    Find the list of hip-hop dance moves
+  *    What amount of time is needed to learn to hip-hop dance
+  *    Find beginner hip-hop dance classes
+  *    What are the popular hip-hop dance moves
+
+Task id: 47
+transfer money online united states	[You want to transfer money online within the US]
+
+  *   What are the steps to transfer money online
+  *    What transaction fees are applicable while sending money online
+  *    Is sending money online safe?
+  *    compare different services to send money
+  *    How to track the online money transfer
+  *    how to send money using credit card
+  *    How long does it take to transfer money
+  *    What are the best apps for sending money
+  *    Which are the popular scams to be aware of while sending money
+
+Task id: 48
+regrow hair	[Find information on regrowing hair.]
+
+  *   What are the natural ways to regrow hair
+  *    What are the medical ways of regrowing hair
+  *    What are the medical problems possible while regrowing hair
+  *    Find the best diet plan for regrowing hair
+  *    Find out what shampoo to avoid while regrowing hair
+  *    How to take care of hair while regrowing
+  *    What are the best products to use to regrow hair
+  *    Find out about laser treatment options to regrow hair
+
+Task id: 49
+get a divorce in texas	[You live in Texas and you want to get a divorce, and you want to understand how to do that.]
+
+  *   Find whether you meet the residency requirement
+  *    Find out what are valid grounds for a divorce
+  *    Find out what county you need to file your petition in
+  *    Find out how your property will be distributed
+  *    Find out the laws about child custody and support
+  *    Find out the rules about spousal support
+  *    Find an attorney
+  *    Download divorce petition
+  *    Find guidelines of how to fill in the petition
+  *    Learn how to give spouse the required legal notice
+  *    Determine if your divorce is contested or uncontested
+  *    Write a decree of divorce
+  *    Attend any required pre-divorce classes
+  *    Attend your divorce hearing 
+
+Task id: 50
+deliver a baby at home	[The circumstances require that you need to deliver a baby without professional help at home. What do you need to do?]
+
+  *   How to determine how far labor has progressed
+  *    How to sanitize your arms and hands
+  *    How to prepare a birthing area
+  *    How to help mother stay calm
+  *    How to help the mother find a comfortable position
+  *    How to guide the mother in pushing
+  *    How to support the baby's head as it emerges
+  *    How to prepare for the body to emerge
+  *    What to do if the feet come out first
+  *    How to hold the baby
+  *    How to ensure that the baby is breathing
+  *    How to deliver the placenta
+  *    When and how to cut the cord
+
